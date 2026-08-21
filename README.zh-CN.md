@@ -5,6 +5,97 @@
 Community Variant Script API V1 让作者通过 `main.lua`、题目数据和可选棋盘标记创建
 变形数独。公开的包结构与 Lua/JSON 契约见[作者指南](community-script-v1-author-guide.md)。
 
+## MeetSudoku 与 Steam 创意工坊
+
+本 SDK 用于编写可玩的 MeetSudoku 变形数独 Mod。你可以在[MeetSudoku Steam 创意工坊](https://steamcommunity.com/app/4932400/workshop/)浏览和订阅已发布的 Mod。
+
+## 最小实现模型
+
+一个可玩的变形数独只需要三部分：完整的规则实现、规则对应的视觉 Overlay，以及题库。
+不需要修改 MeetSudoku 应用本身。
+
+- `main.lua` 是唯一的规则入口，负责规则解析、落子校验、候选数校验、完成状态校验和
+  Overlay 生成。
+- `puzzle_bank.json` 提供 81 格题目、答案，以及每道题变化的几何或数值参数。
+- `variant.json` 声明关卡和每日数独入口；`manifest.json` 标识包；`i18n/` 提供玩家可见
+  的多语言文案。
+
+固定的规则含义和所有规则推导都必须放在 `main.lua` 中；JSON 只是数据，不是第二套规则语言。
+建议从 `examples/` 中最接近的公开包开始，并将该变形数独的完整逻辑保留在自己的 `main.lua`。
+
+### 最小包结构
+
+```text
+my-variant/
+  manifest.json
+  main.lua
+  variant.json
+  puzzle_bank.json
+  i18n/
+    en_us.json
+    zh_cn.json
+```
+
+### 关键代码形态
+
+下面是一个真实公开包的精简代码形态。正式实现还必须完成配置规范化与校验、所有必需的
+运行时 surface，并统一返回诊断信息。
+
+```lua
+local plugin = community_variant.script()
+local board = community_variant.board
+local overlay_geometry = community_variant.overlay_geometry
+
+local rule = {}
+
+function rule.create(config, scope)
+  local marks = normalize_marks(config) -- 完整的变形数独规则校验
+
+  return {
+    validate_move = function(ctx, move)
+      local violations = find_violations(marks, ctx, move.cell, move.digit)
+      return { accepted = #violations == 0, violations = violations, diagnostics = {} }
+    end,
+
+    validate_final_state = function(ctx)
+      local violations = find_violations(marks, ctx, nil, nil)
+      return { valid = #violations == 0, violations = violations, diagnostics = {} }
+    end,
+
+    build_overlay = function(ctx)
+      return {
+        primitives = build_mark_primitives(marks, overlay_geometry),
+        diagnostics = {}
+      }
+    end
+  }
+end
+
+plugin:register_rule("my_rule", rule)
+return plugin:build()
+```
+
+对应的题库只提供每道题变化的数值或几何数据：
+
+```json
+{
+  "rules": {
+    "my_rule": {
+      "marks": [{ "cells": [0, 1] }, { "cells": [9, 18] }]
+    }
+  }
+}
+```
+
+### 发布前检查
+
+- 使用 manifest schema 3 和公开的 Community Script API V1。
+- 所有规则、候选数、完成状态和 Overlay 逻辑都在 `main.lua` 中。
+- 提供完整的 `en_us` 和 `zh_cn`，其他语言遵循下面的命名规范。
+- 每道题都包含 81 位的 `puzzle` 和 `solution`。
+- 发布 Steam 创意工坊前，先运行仓库提供的题库校验和准入检查。
+- 如果规则形状相近，优先从已有公开示例开始扩展。
+
 <!-- GENERATED:capability-navigation:start -->
 ## 选择起始示例
 

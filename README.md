@@ -7,6 +7,104 @@ Community Variant Script API V1 lets authors create Sudoku variants with
 [author guide](community-script-v1-author-guide.md) for the public package and
 Lua/JSON contract.
 
+## MeetSudoku and Steam Workshop
+
+This SDK is used to build playable Sudoku Mods for MeetSudoku. Browse and
+subscribe to published Mods on the [MeetSudoku Steam Workshop](https://steamcommunity.com/app/4932400/workshop/).
+
+## Minimal implementation model
+
+A playable variant needs only three pieces: a complete rule implementation, its
+visual Overlay, and a puzzle bank. The package does not require changes to the
+MeetSudoku application.
+
+- `main.lua` is the single rule entry point. It owns rule parsing, move and
+  candidate validation, final-state validation, and Overlay generation.
+- `puzzle_bank.json` supplies the 81-cell puzzle, its solution, and only the
+  per-puzzle geometry or values that vary from one puzzle to another.
+- `variant.json` declares the level and daily entry points. `manifest.json`
+  identifies the package, while `i18n/` contains player-facing translations.
+
+The fixed rule meaning and all rule derivation stay in `main.lua`; JSON is data,
+not a second rule language. Start from the closest package in `examples/` and
+keep the complete logic in that package's `main.lua`.
+
+### Minimal package shape
+
+```text
+my-variant/
+  manifest.json
+  main.lua
+  variant.json
+  puzzle_bank.json
+  i18n/
+    en_us.json
+    zh_cn.json
+```
+
+### Key code shape
+
+The following is a shortened excerpt of a real package. Production code must
+also normalize and validate its configuration, implement every required
+runtime surface, and return diagnostics consistently.
+
+```lua
+local plugin = community_variant.script()
+local board = community_variant.board
+local overlay_geometry = community_variant.overlay_geometry
+
+local rule = {}
+
+function rule.create(config, scope)
+  local marks = normalize_marks(config) -- complete rule-specific validation
+
+  return {
+    validate_move = function(ctx, move)
+      local violations = find_violations(marks, ctx, move.cell, move.digit)
+      return { accepted = #violations == 0, violations = violations, diagnostics = {} }
+    end,
+
+    validate_final_state = function(ctx)
+      local violations = find_violations(marks, ctx, nil, nil)
+      return { valid = #violations == 0, violations = violations, diagnostics = {} }
+    end,
+
+    build_overlay = function(ctx)
+      return {
+        primitives = build_mark_primitives(marks, overlay_geometry),
+        diagnostics = {}
+      }
+    end
+  }
+end
+
+plugin:register_rule("my_rule", rule)
+return plugin:build()
+```
+
+The corresponding puzzle data contains only changing values or geometry:
+
+```json
+{
+  "rules": {
+    "my_rule": {
+      "marks": [{ "cells": [0, 1] }, { "cells": [9, 18] }]
+    }
+  }
+}
+```
+
+### Before publishing
+
+- Use manifest schema 3 and the public Community Script API V1.
+- Keep all rule, candidate, completion, and Overlay logic in `main.lua`.
+- Provide complete `en_us` and `zh_cn` locales; additional locales must use the
+  naming rules below.
+- Include an 81-character `puzzle` and `solution` for every puzzle.
+- Validate and qualify the package with the repository's dataset checks before
+  publishing it to the Steam Workshop.
+- Use a published example as the starting point when it matches the rule shape.
+
 <!-- GENERATED:capability-navigation:start -->
 ## Choose a starting example
 
