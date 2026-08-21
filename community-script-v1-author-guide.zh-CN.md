@@ -27,6 +27,7 @@ my-script-variant/
   i18n/
     en_us.json
     zh_cn.json
+  icon.png              # 可选，MeetSudoku 内使用的正方形 PNG 图标
 ```
 
 最小 manifest 如下：
@@ -41,6 +42,8 @@ my-script-variant/
 ```
 
 游戏会根据这份契约推导固定 API、运行时、入口、权限、标准资源路径、语言处理和可选图标元数据。作者不需要手写旧版运行时或权限字段。
+
+在包根目录放置可选的 `icon.png`，即可让 Mod 在 MeetSudoku 中使用自己的图标。它必须是有效的正方形 PNG，尺寸不超过 `1024 x 1024`，文件不超过 `4 MiB`。Script V1 会自动发现这个固定文件名；精简 manifest 不要增加 `icon` 字段。包图标与 Steam Workshop 的 `previewfile` 分开：App 会在自己的 Mod 界面复用包图标，Workshop 预览图则属于 Steam 页面。图标缺失或无法解码时会回退到 App Logo。
 
 ## 选择示例
 

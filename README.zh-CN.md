@@ -24,6 +24,17 @@ Community Variant Script API V1 让作者通过 `main.lua`、题目数据和可�
 固定的规则含义和所有规则推导都必须放在 `main.lua` 中；JSON 只是数据，不是第二套规则语言。
 建议从 `examples/` 中最接近的公开包开始，并将该变形数独的完整逻辑保留在自己的 `main.lua`。
 
+## 包图标
+
+如果希望 Mod 在 MeetSudoku 中显示自己的图标，可以在包根目录放置可选的
+`icon.png`。它必须是有效的正方形 PNG，尺寸不超过 `1024 x 1024`，文件不超过
+`4 MiB`。当前 Script V1 会自动发现这个固定的根目录文件名；精简的
+`manifest.json` 不要增加 `icon` 字段。
+
+包图标与 Steam 创意工坊的 `previewfile` 不同：包图标随 Mod 一起提供，并由 App
+复用于插件列表、闯关和每日数独入口；Workshop 预览图是上传到 Steam 页面上的图片。
+图标缺失或无法解码时，MeetSudoku 会回退到 App Logo。
+
 ## 五分钟开始
 
 1. 从下面的公开示例中选择最接近玩家看到的规则形状。
@@ -40,6 +51,7 @@ my-variant/
   main.lua
   variant.json
   puzzle_bank.json
+  icon.png              # 可选，MeetSudoku 内显示的正方形 PNG 图标
   i18n/
     en_us.json
     zh_cn.json

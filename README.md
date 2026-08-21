@@ -30,6 +30,18 @@ The fixed rule meaning and all rule derivation stay in `main.lua`; JSON is data,
 not a second rule language. Start from the closest package in `examples/` and
 keep the complete logic in that package's `main.lua`.
 
+## Package icon
+
+Add an optional `icon.png` at the package root to give the Mod its own image in
+MeetSudoku. It must be a valid square PNG no larger than `1024 x 1024` and
+`4 MiB`. Script V1 discovers this exact root filename automatically; do not
+add an `icon` field to the minimal `manifest.json`.
+
+This package icon is separate from the Steam Workshop `previewfile`: the icon
+is bundled with the Mod and reused by the app, while the Workshop preview is
+the image uploaded to the Steam page. If the package icon is absent or cannot
+be decoded, MeetSudoku falls back to its app logo.
+
 ## Five-minute path
 
 1. Choose the closest player-visible rule shape from the examples below.
@@ -48,6 +60,7 @@ my-variant/
   main.lua
   variant.json
   puzzle_bank.json
+  icon.png              # optional square PNG used inside MeetSudoku
   i18n/
     en_us.json
     zh_cn.json

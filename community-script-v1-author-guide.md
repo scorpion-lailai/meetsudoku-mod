@@ -46,6 +46,7 @@ my-script-variant/
   i18n/
     en_us.json
     zh_cn.json
+  icon.png              # optional square PNG used inside MeetSudoku
 ```
 
 The minimal manifest is:
@@ -62,6 +63,14 @@ The minimal manifest is:
 The game derives the fixed API, runtime, entry, permissions, standard resource
 paths, locale handling, and optional icon metadata from this contract. Authors
 do not hand-fill legacy runtime or permission fields.
+
+An optional root `icon.png` gives the package its own MeetSudoku image. It must
+be a valid square PNG no larger than `1024 x 1024` and `4 MiB`. Script V1
+discovers this exact filename automatically; do not add an `icon` field to the
+minimal manifest. This package icon is separate from a Steam Workshop
+`previewfile`: the app reuses the package icon in its Mod surfaces, while the
+preview image belongs to the Steam page. Missing or undecodable icons fall
+back to the app logo.
 
 ## Choose an example
 
