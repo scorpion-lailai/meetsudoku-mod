@@ -1,0 +1,10 @@
+{
+  "variant.title": "Dutch Whispers Sudoku",
+  "variant.description": "Every adjacent pair on a whisper line differs by at least four.",
+  "rule.dutch_whispers": "Adjacent digits on a whisper line must differ by at least 4.",
+  "rule_guide.title": "Dutch Whispers Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Digits on a whisper line are orthogonally connected.",
+  "rule_guide.item_2": "Every adjacent pair on the line differs by at least four.",
+  "rule_guide.item_3": "A whisper line may turn at an orthogonal corner."
+}

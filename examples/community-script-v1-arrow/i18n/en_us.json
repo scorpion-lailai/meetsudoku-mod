@@ -1,0 +1,9 @@
+{
+  "variant.title": "Arrow Sudoku",
+  "variant.description": "Each arrow circle equals the sum of the digits on its path.",
+  "rule.arrow_sum": "The arrow circle must equal the sum of its path.",
+  "rule_guide.title": "Arrow Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Each arrow circle must equal the sum of the digits along its arrow path."
+}

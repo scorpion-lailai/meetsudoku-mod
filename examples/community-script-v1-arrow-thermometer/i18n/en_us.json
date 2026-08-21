@@ -1,0 +1,11 @@
+{
+  "variant.title": "Arrow Thermometer Sudoku",
+  "variant.description": "Thermometers increase from bulb to tip, and arrow circles equal their path sums.",
+  "rule.thermometer_order": "Digits must strictly increase along the thermometer.",
+  "rule.arrow_sum": "The arrow circle must equal the sum of its path.",
+  "rule_guide.title": "Arrow Thermometer Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Digits on each thermometer must strictly increase from bulb to tip.",
+  "rule_guide.item_3": "Each arrow circle must equal the sum of the digits along its arrow path."
+}

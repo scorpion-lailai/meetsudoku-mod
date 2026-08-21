@@ -1,0 +1,8 @@
+{
+  "variant.title": "Windoku",
+  "variant.description": "Each of the four marked 3×3 windows must contain no repeated digit.",
+  "rule_guide.title": "Windoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Each of the four marked 3×3 windows must also contain no repeated digit."
+}

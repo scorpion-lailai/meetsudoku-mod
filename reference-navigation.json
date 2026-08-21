@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "grid_layout_and_linked_regions",
+      "en": "Grid layout and linked regions",
+      "zh": "棋盘布局与关联区域"
+    },
+    {
+      "id": "cell_neighbour_and_pair_patterns",
+      "en": "Cell, neighbour, and pair patterns",
+      "zh": "格、邻域与成对关系"
+    },
+    {
+      "id": "clues_labels_and_numeric_conditions",
+      "en": "Clues, labels, and numeric conditions",
+      "zh": "提示、标签与数字条件"
+    },
+    {
+      "id": "paths_and_ordered_sequences",
+      "en": "Paths and ordered sequences",
+      "zh": "路径与有序序列"
+    },
+    {
+      "id": "board_changes_during_play",
+      "en": "Board changes during play",
+      "zh": "解题过程中变化的棋盘状态"
+    }
+  ],
+  "startingPoints": [
+    {
+      "id": "fixed_rule",
+      "en": "A fixed rule from the start",
+      "zh": "开局固定的规则",
+      "recommended": "examples/community-script-v1-159-sudoku",
+      "enDescription": "Derive one package-wide rule from small puzzle data.",
+      "zhDescription": "从少量题目数据派生一个全局固定规则。"
+    },
+    {
+      "id": "checked_while_solving",
+      "en": "A rule checked while solving",
+      "zh": "解题过程中检查的规则",
+      "recommended": "examples/community-script-v1-fortress",
+      "enDescription": "Validate a local relationship as players place digits.",
+      "zhDescription": "在玩家落子时校验局部关系。"
+    },
+    {
+      "id": "custom_layout",
+      "en": "Custom regions or board layout",
+      "zh": "自定义区域或棋盘布局",
+      "recommended": "examples/community-script-v1-jigsaw",
+      "enDescription": "Describe regions or a nonstandard base layout.",
+      "zhDescription": "描述区域或非标准棋盘布局。"
+    },
+    {
+      "id": "clues_or_guides",
+      "en": "Clues, labels, or visual guides",
+      "zh": "提示、标签或视觉引导",
+      "recommended": "examples/community-script-v1-numbered-rooms",
+      "enDescription": "Turn puzzle-owned clue data into rules and marks.",
+      "zhDescription": "把题目自有的提示数据转成规则与标记。"
+    },
+    {
+      "id": "changing_cells",
+      "en": "Cells that change as play continues",
+      "zh": "解题过程中变化的格子",
+      "recommended": "examples/community-script-v1-fog-of-war",
+      "enDescription": "Describe a bounded, rule-driven change to visible cells.",
+      "zhDescription": "描述由规则驱动且范围受限的格子变化。"
+    }
+  ],
+  "entries": [
+    {"path": "examples/community-script-v1-159-sudoku", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-anti-king", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-anti-knight", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-anti-taxicab", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-anti-xv", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-arrow", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-arrow-thermometer", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-asterisk", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-battenburg", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-beacon-sudoku", "category": "board_changes_during_play"},
+    {"path": "examples/community-script-v1-between-lines", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-clone", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-composite", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-consecutive", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-counting-circles", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-diagonal", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-disjoint-groups", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-dutch-whispers", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-entropy", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-fog-of-war", "category": "board_changes_during_play"},
+    {"path": "examples/community-script-v1-fortress", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-friendly-sudoku", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-german-whispers", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-greater-than", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-intersection-sum", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-jigsaw", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-kropki", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-little-killer", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-lockout-lines", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-magic-square", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-minmax", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-modular-lines", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-no-boxes", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-non-consecutive", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-numbered-rooms", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-odd-even", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-palindrome", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-position-sums", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-prime", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-quadruple", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-region-sum-lines", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-renban", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-repeated-neighbours", "category": "cell_neighbour_and_pair_patterns"},
+    {"path": "examples/community-script-v1-same-values", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-sandwich", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-skyscraper", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-thermometer", "category": "paths_and_ordered_sequences"},
+    {"path": "examples/community-script-v1-windoku", "category": "grid_layout_and_linked_regions"},
+    {"path": "examples/community-script-v1-x-sums", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-xv", "category": "clues_labels_and_numeric_conditions"},
+    {"path": "examples/community-script-v1-zipper-lines", "category": "paths_and_ordered_sequences"}
+  ]
+}

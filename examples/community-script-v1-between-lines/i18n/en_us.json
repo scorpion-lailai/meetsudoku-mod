@@ -1,0 +1,10 @@
+{
+  "variant.title": "Between Lines Sudoku",
+  "variant.description": "Each line has a circle at both ends. Every other cell on the line must contain a digit between the two circle digits.",
+  "rule.between_lines": "Each line has a circle at both ends. Every other cell on the line must contain a digit between the two circle digits.",
+  "rule_guide.title": "Between Lines Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Enter one digit in each circle at the two ends of a line.",
+  "rule_guide.item_2": "Every other cell on the line must be greater than the smaller circle digit and less than the larger circle digit.",
+  "rule_guide.item_3": "For example, if the circles contain 2 and 7, the other cells may contain only 3, 4, 5 or 6. Their order does not matter, and not all of them need to appear."
+}

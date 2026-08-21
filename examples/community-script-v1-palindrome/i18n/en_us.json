@@ -1,0 +1,10 @@
+{
+  "variant.title": "Palindrome",
+  "variant.description": "Digits on each palindrome line are symmetric about the center.",
+  "rule.palindrome": "Digits on each palindrome line are symmetric about the center.",
+  "rule_guide.title": "Palindrome Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Digits on each purple palindrome line are symmetric about the center.",
+  "rule_guide.item_3": "Symmetric positions must contain the same digit."
+}

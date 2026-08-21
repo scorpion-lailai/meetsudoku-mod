@@ -1,0 +1,10 @@
+{
+  "variant.title": "Sandwich Sudoku",
+  "variant.description": "Each boundary clue equals the sum of all digits between 1 and 9 in its row or column.",
+  "rule.sandwich": "Each boundary clue equals the sum of all digits between 1 and 9 in its row or column.",
+  "rule_guide.title": "Sandwich Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "A clue on the top edge belongs to its column; a clue on the left edge belongs to its row.",
+  "rule_guide.item_2": "Find 1 and 9 in that row or column, then add every digit between them. Do not include 1 or 9.",
+  "rule_guide.item_3": "For example, in 4 1 3 5 2 8 9 6 7, the digits between 1 and 9 sum to 3 + 5 + 2 + 8 = 18. If 1 and 9 are adjacent, the clue is 0."
+}

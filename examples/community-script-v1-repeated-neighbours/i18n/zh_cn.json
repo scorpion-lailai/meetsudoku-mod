@@ -1,0 +1,11 @@
+{
+  "variant.title": "重复邻居数独",
+  "variant.description": "每个格子都表示它的正交邻格中是否有重复数字。",
+  "rule.repeated_neighbours_gray": "灰色格的正交邻格中至少有两个数字相同。",
+  "rule.repeated_neighbours_white": "未着色格的正交邻格中没有相同数字。",
+  "rule_guide.title": "重复邻居数独规则",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "对于每个灰色格，它上、下、左、右直接相邻的格子中，至少有两个格子填入相同数字。",
+  "rule_guide.item_3": "对于每个未着色格，它上、下、左、右直接相邻的格子必须全部填入不同数字。中间这个格子自身不参与比较。"
+}

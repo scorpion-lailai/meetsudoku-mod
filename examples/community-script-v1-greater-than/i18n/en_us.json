@@ -1,0 +1,9 @@
+{
+  "variant.title": "Greater Than Sudoku",
+  "variant.description": "The open side of each inequality sign faces the larger digit, and its point faces the smaller digit.",
+  "rule_guide.title": "Greater Than Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "The open side of each inequality sign faces the larger digit, and its point faces the smaller digit.",
+  "rule_guide.item_3": "Adjacent cells without an inequality sign have no additional order restriction."
+}

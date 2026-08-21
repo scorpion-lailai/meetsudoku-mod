@@ -1,0 +1,10 @@
+{
+  "variant.title": "Magic Square Sudoku",
+  "variant.description": "The marked 3x3 region is a magic square: each of its rows, columns, and main diagonals sums to 15.",
+  "rule.magic_square": "Every row, column, and main diagonal in the marked 3x3 region sums to 15.",
+  "rule_guide.title": "Magic Square Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "In the marked 3x3 region, each of its three rows, three columns, and two main diagonals must sum to 15.",
+  "rule_guide.item_3": "Unmarked 3x3 boxes have no extra magic-square restriction."
+}

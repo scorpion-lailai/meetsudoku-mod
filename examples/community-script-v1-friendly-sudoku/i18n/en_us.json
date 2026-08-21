@@ -1,0 +1,10 @@
+{
+  "variant.title": "Friendly Sudoku",
+  "variant.description": "The number above the grid tells how many cells match their row, column, or box number.",
+  "rule.friendly_sudoku": "A cell is friendly when its digit equals its row, column, or box number. The number above the grid is the exact total.",
+  "rule_guide.title": "Friendly Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "A cell is friendly when its digit equals its row number, column number, or box number.",
+  "rule_guide.item_3": "The number above the grid is the exact number of friendly cells in the completed puzzle."
+}

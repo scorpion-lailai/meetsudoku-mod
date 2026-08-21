@@ -1,0 +1,10 @@
+{
+  "variant.title": "信标数独",
+  "variant.description": "每次落子都会发出短距离照明；正确落子还会额外照亮周围方格。",
+  "rule_guide.title": "信标数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "部分空格开局时会被遮罩隐藏。",
+  "rule_guide.item_3": "每次填写数字都会照亮该格上下左右两格范围内的十字区域。",
+  "rule_guide.item_4": "正确填写还会照亮周围的 3x3 方格。已照亮的格子会保持可见，直到重新开始。"
+}

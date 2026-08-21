@@ -1,0 +1,8 @@
+{
+  "variant.title": "交点和值数独",
+  "variant.description": "每个交点数字等于周围四格的数字之和。",
+  "rule_guide.title": "交点和值数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "内部交点上的数字等于与该交点相邻的四个格子之和。"
+}

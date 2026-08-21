@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 6,
+  "levels": true,
+  "daily": {
+    "mode": "random",
+    "seed": "community_script_v1_region_sum_lines_daily_v1"
+  }
+}

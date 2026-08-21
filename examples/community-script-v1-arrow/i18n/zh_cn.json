@@ -1,0 +1,9 @@
+{
+  "variant.title": "箭头数独",
+  "variant.description": "每个箭头圆头中的数字必须等于路径上数字之和。",
+  "rule.arrow_sum": "箭头圆头必须等于路径数字之和。",
+  "rule_guide.title": "箭头数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "每个箭头圆头中的数字，必须等于箭头路径上所有数字之和。"
+}

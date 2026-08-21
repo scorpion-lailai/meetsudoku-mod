@@ -1,0 +1,10 @@
+{
+  "variant.title": "合数数独",
+  "variant.description": "带 C 标记的格子只能填合数数字 4、6、8、9。",
+  "rule.composite": "带 C 标记的格子只能填合数数字 4、6、8、9。",
+  "rule_guide.title": "合数数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "带 C 标记的格子只能填合数数字。",
+  "rule_guide.item_2": "本规则中的合数数字是 4、6、8、9；数字 1 既不是质数也不是合数。",
+  "rule_guide.item_3": "没有 C 标记的格子不受合数规则限制，仍按普通数独规则填写。"
+}

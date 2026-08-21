@@ -1,0 +1,8 @@
+{
+  "variant.title": "星形数独",
+  "variant.description": "星形线连接的九个格必须填入 1 到 9，且不能重复。",
+  "rule_guide.title": "星形数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "星形线连接的九个格还必须填入 1 到 9，且不能重复。"
+}

@@ -1,0 +1,6 @@
+{
+  "manifestVersion": 3,
+  "id": "john.community_script_v1_greater_than",
+  "name": "Greater Than Sudoku",
+  "version": "0.2.0"
+}

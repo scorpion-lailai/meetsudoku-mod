@@ -1,0 +1,9 @@
+{
+  "variant.title": "Numbered Rooms",
+  "variant.description": "An outside clue points into a row or column. Its first cell selects the position that must contain the clue digit.",
+  "rule_guide.title": "Numbered Rooms Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Read each outside clue toward the board. If the first cell is N, the Nth cell in that direction must contain the clue digit.",
+  "rule_guide.item_3": "For example, a left-side clue 5 beside a row whose first cell is 4 means the fourth cell from the left is 5. Clues at opposite ends work independently."
+}

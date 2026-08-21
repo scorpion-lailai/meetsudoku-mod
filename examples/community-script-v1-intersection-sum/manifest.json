@@ -1,0 +1,6 @@
+{
+  "manifestVersion": 3,
+  "id": "john.community_script_v1_intersection_sum",
+  "name": "Intersection Sum Sudoku",
+  "version": "0.1.0"
+}

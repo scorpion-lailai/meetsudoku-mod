@@ -1,0 +1,10 @@
+{
+  "variant.title": "熵数独",
+  "variant.description": "每个相邻的 2x2 四格区域都必须包含小、中、大三类数字。",
+  "rule.entropy": "每个相邻的 2x2 区域都必须至少包含一个小数字、一个中数字和一个大数字。",
+  "rule_guide.title": "熵数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "把数字分为三类：小数字 1、2、3，中数字 4、5、6，大数字 7、8、9。",
+  "rule_guide.item_2": "棋盘上每个相邻的 2x2 四格区域，都必须至少包含一个小数字、一个中数字和一个大数字。",
+  "rule_guide.item_3": "例如 1 4 / 7 2 符合规则；1 2 / 4 5 缺少大数字，不符合规则。"
+}

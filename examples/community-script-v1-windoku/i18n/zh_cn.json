@@ -1,0 +1,8 @@
+{
+  "variant.title": "窗口数独",
+  "variant.description": "四个标出的 3×3 窗口内数字都不能重复。",
+  "rule_guide.title": "窗口数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "四个标出的 3×3 窗口内数字也不能重复。"
+}

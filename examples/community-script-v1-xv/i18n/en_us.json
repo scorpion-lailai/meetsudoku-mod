@@ -1,0 +1,9 @@
+{
+  "variant.title": "XV Sudoku",
+  "variant.description": "An X means adjacent digits sum to 10, and a V means they sum to 5.",
+  "rule_guide.title": "XV Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "An X mark between two adjacent cells means their digits must sum to 10.",
+  "rule_guide.item_3": "A V mark between two adjacent cells means their digits must sum to 5."
+}

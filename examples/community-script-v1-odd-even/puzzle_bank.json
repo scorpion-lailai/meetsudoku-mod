@@ -1,0 +1,5275 @@
+{
+  "schemaVersion": 2,
+  "puzzles": [
+    {
+      "difficulty": 1,
+      "puzzle": "080000000941000020007080001005000000000070800000301004090752003000000000400003000",
+      "solution": "382197645941536728567284391235468179614975832879321564196752483753849216428613957",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 67,
+              "parity": "even"
+            },
+            {
+              "cell": 46,
+              "parity": "odd"
+            },
+            {
+              "cell": 56,
+              "parity": "even"
+            },
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 70,
+              "parity": "odd"
+            },
+            {
+              "cell": 31,
+              "parity": "even"
+            },
+            {
+              "cell": 68,
+              "parity": "odd"
+            },
+            {
+              "cell": 27,
+              "parity": "even"
+            },
+            {
+              "cell": 21,
+              "parity": "even"
+            },
+            {
+              "cell": 63,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 47,
+              "parity": "odd"
+            },
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "odd"
+            },
+            {
+              "cell": 13,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 38,
+              "parity": "even"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 32,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            },
+            {
+              "cell": 49,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000805300000200000500030000160000000000002560700010800000007009000000050090580004",
+      "solution": "419865327376241985528739416162958743984372561735614892851427639647193258293586174",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 65,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            },
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 4,
+              "parity": "even"
+            },
+            {
+              "cell": 56,
+              "parity": "odd"
+            },
+            {
+              "cell": 68,
+              "parity": "odd"
+            },
+            {
+              "cell": 31,
+              "parity": "odd"
+            },
+            {
+              "cell": 38,
+              "parity": "even"
+            },
+            {
+              "cell": 50,
+              "parity": "even"
+            },
+            {
+              "cell": 60,
+              "parity": "even"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "even"
+            },
+            {
+              "cell": 25,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "even"
+            },
+            {
+              "cell": 19,
+              "parity": "even"
+            },
+            {
+              "cell": 1,
+              "parity": "odd"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 14,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "060000100000009003090210000000000030000904010000830200900080005030001000200000070",
+      "solution": "567348192128679543493215768854162937372954816619837254941783625736521489285496371",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            },
+            {
+              "cell": 42,
+              "parity": "even"
+            },
+            {
+              "cell": 13,
+              "parity": "odd"
+            },
+            {
+              "cell": 46,
+              "parity": "odd"
+            },
+            {
+              "cell": 24,
+              "parity": "odd"
+            },
+            {
+              "cell": 27,
+              "parity": "even"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 55,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 3,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "odd"
+            },
+            {
+              "cell": 29,
+              "parity": "even"
+            },
+            {
+              "cell": 4,
+              "parity": "even"
+            },
+            {
+              "cell": 76,
+              "parity": "odd"
+            },
+            {
+              "cell": 23,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 47,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "odd"
+            },
+            {
+              "cell": 59,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000000000308900001700000000000008000502006080040053060905002400200000007000009000",
+      "solution": "194827635358964721726531948639218574572496183841753269985372416213645897467189352",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 24,
+              "parity": "odd"
+            },
+            {
+              "cell": 1,
+              "parity": "odd"
+            },
+            {
+              "cell": 16,
+              "parity": "even"
+            },
+            {
+              "cell": 4,
+              "parity": "even"
+            },
+            {
+              "cell": 21,
+              "parity": "odd"
+            },
+            {
+              "cell": 76,
+              "parity": "even"
+            },
+            {
+              "cell": 30,
+              "parity": "even"
+            },
+            {
+              "cell": 48,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 45,
+              "parity": "even"
+            },
+            {
+              "cell": 23,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "odd"
+            },
+            {
+              "cell": 73,
+              "parity": "even"
+            },
+            {
+              "cell": 79,
+              "parity": "odd"
+            },
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 2,
+              "parity": "even"
+            },
+            {
+              "cell": 13,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "820000000003408000009050000060005004000000008900004000000007040070009100590000002",
+      "solution": "827613495153498627649752831268375914734961258915284763386127549472539186591846372",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 52,
+              "parity": "even"
+            },
+            {
+              "cell": 58,
+              "parity": "even"
+            },
+            {
+              "cell": 4,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "odd"
+            },
+            {
+              "cell": 30,
+              "parity": "odd"
+            },
+            {
+              "cell": 16,
+              "parity": "even"
+            },
+            {
+              "cell": 47,
+              "parity": "odd"
+            },
+            {
+              "cell": 27,
+              "parity": "even"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 10,
+              "parity": "odd"
+            },
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "odd"
+            },
+            {
+              "cell": 29,
+              "parity": "even"
+            },
+            {
+              "cell": 31,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 56,
+              "parity": "even"
+            },
+            {
+              "cell": 7,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "070096000000000000640000002000000506090602003000000001018000000050703000360000010",
+      "solution": "273596148185234679649187352827341596491652783536978421718469235952713864364825917",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 76,
+              "parity": "even"
+            },
+            {
+              "cell": 65,
+              "parity": "even"
+            },
+            {
+              "cell": 70,
+              "parity": "even"
+            },
+            {
+              "cell": 32,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            },
+            {
+              "cell": 60,
+              "parity": "even"
+            },
+            {
+              "cell": 14,
+              "parity": "even"
+            },
+            {
+              "cell": 71,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 50,
+              "parity": "even"
+            },
+            {
+              "cell": 22,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "odd"
+            },
+            {
+              "cell": 51,
+              "parity": "even"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 59,
+              "parity": "odd"
+            },
+            {
+              "cell": 15,
+              "parity": "even"
+            },
+            {
+              "cell": 28,
+              "parity": "even"
+            },
+            {
+              "cell": 0,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "003000009000000812608000743000096000000000060000100500000003000060080000000260070",
+      "solution": "123847659479635812658912743285796431914358267736124598592473186367581924841269375",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 38,
+              "parity": "even"
+            },
+            {
+              "cell": 68,
+              "parity": "odd"
+            },
+            {
+              "cell": 9,
+              "parity": "even"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 4,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 22,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "even"
+            },
+            {
+              "cell": 10,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "odd"
+            },
+            {
+              "cell": 12,
+              "parity": "even"
+            },
+            {
+              "cell": 41,
+              "parity": "even"
+            },
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 65,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 71,
+              "parity": "even"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "006005009000016200000020004600000000018000940470000000240039050000700000000000000",
+      "solution": "326475819984316275157928364692847531518263947473591682241639758839754126765182493",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 11,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 52,
+              "parity": "even"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "even"
+            },
+            {
+              "cell": 63,
+              "parity": "even"
+            },
+            {
+              "cell": 56,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "even"
+            },
+            {
+              "cell": 36,
+              "parity": "odd"
+            },
+            {
+              "cell": 24,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 68,
+              "parity": "even"
+            },
+            {
+              "cell": 10,
+              "parity": "even"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 64,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "odd"
+            },
+            {
+              "cell": 67,
+              "parity": "odd"
+            },
+            {
+              "cell": 44,
+              "parity": "odd"
+            },
+            {
+              "cell": 31,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000103400800000050000402100000200010000010029012000003004006000005900000000000900",
+      "solution": "726153498841769352539482167683295714457318629912674583194836275275941836368527941",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 68,
+              "parity": "odd"
+            },
+            {
+              "cell": 17,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "odd"
+            },
+            {
+              "cell": 73,
+              "parity": "even"
+            },
+            {
+              "cell": 18,
+              "parity": "odd"
+            },
+            {
+              "cell": 12,
+              "parity": "odd"
+            },
+            {
+              "cell": 64,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "even"
+            },
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 67,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 26,
+              "parity": "odd"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 58,
+              "parity": "odd"
+            },
+            {
+              "cell": 25,
+              "parity": "even"
+            },
+            {
+              "cell": 2,
+              "parity": "even"
+            },
+            {
+              "cell": 63,
+              "parity": "even"
+            },
+            {
+              "cell": 79,
+              "parity": "even"
+            },
+            {
+              "cell": 71,
+              "parity": "even"
+            },
+            {
+              "cell": 48,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000050900000600000072000304008000000500800400001037600040080000000000500300005040",
+      "solution": "814352967953674821672918354738246195526891473491537682145789236287463519369125748",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 23,
+              "parity": "even"
+            },
+            {
+              "cell": 44,
+              "parity": "odd"
+            },
+            {
+              "cell": 60,
+              "parity": "even"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            },
+            {
+              "cell": 59,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "even"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            },
+            {
+              "cell": 30,
+              "parity": "even"
+            },
+            {
+              "cell": 74,
+              "parity": "odd"
+            },
+            {
+              "cell": 3,
+              "parity": "odd"
+            },
+            {
+              "cell": 27,
+              "parity": "odd"
+            },
+            {
+              "cell": 25,
+              "parity": "odd"
+            },
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 10,
+              "parity": "odd"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 15,
+              "parity": "even"
+            },
+            {
+              "cell": 57,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "even"
+            },
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 64,
+              "parity": "even"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "800009100060000000100200300020000080000400200003800500000020809002001000300000000",
+      "solution": "834769152265134798197258346521376984978415263643892517416523879782941635359687421",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 44,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "even"
+            },
+            {
+              "cell": 70,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "even"
+            },
+            {
+              "cell": 36,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "even"
+            },
+            {
+              "cell": 2,
+              "parity": "even"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 77,
+              "parity": "odd"
+            },
+            {
+              "cell": 22,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 9,
+              "parity": "even"
+            },
+            {
+              "cell": 12,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            },
+            {
+              "cell": 67,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "odd"
+            },
+            {
+              "cell": 46,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 30,
+              "parity": "odd"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "160000000000000000000600010900000241006000007000000090020001000000070008850046070",
+      "solution": "163457982794182635582693714975368241316924857248715396427831569631579428859246173",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 23,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 60,
+              "parity": "odd"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 58,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 22,
+              "parity": "odd"
+            },
+            {
+              "cell": 70,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            },
+            {
+              "cell": 4,
+              "parity": "odd"
+            },
+            {
+              "cell": 48,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 61,
+              "parity": "even"
+            },
+            {
+              "cell": 50,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "even"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 13,
+              "parity": "even"
+            },
+            {
+              "cell": 30,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000000003900000060000001020500006007004008001000040000070060900009000012600009000",
+      "solution": "786925143912437568345681729538216497264798351197543286471862935859374612623159874",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            },
+            {
+              "cell": 7,
+              "parity": "even"
+            },
+            {
+              "cell": 68,
+              "parity": "even"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "even"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            },
+            {
+              "cell": 14,
+              "parity": "odd"
+            },
+            {
+              "cell": 50,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 21,
+              "parity": "even"
+            },
+            {
+              "cell": 64,
+              "parity": "odd"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            },
+            {
+              "cell": 17,
+              "parity": "even"
+            },
+            {
+              "cell": 12,
+              "parity": "even"
+            },
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 76,
+              "parity": "odd"
+            },
+            {
+              "cell": 10,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000905080000010003000000000700080300900000200304000070003050010000003002600400000",
+      "solution": "462935187589716423137842596716284359958371264324569871243657918875193642691428735",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "even"
+            },
+            {
+              "cell": 15,
+              "parity": "even"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            },
+            {
+              "cell": 0,
+              "parity": "even"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 24,
+              "parity": "odd"
+            },
+            {
+              "cell": 65,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 60,
+              "parity": "odd"
+            },
+            {
+              "cell": 21,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 46,
+              "parity": "even"
+            },
+            {
+              "cell": 59,
+              "parity": "odd"
+            },
+            {
+              "cell": 4,
+              "parity": "odd"
+            },
+            {
+              "cell": 30,
+              "parity": "even"
+            },
+            {
+              "cell": 25,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000080070000400080000010306000000000400030009020500003000000007054000290010000400",
+      "solution": "145386972263497185978215346539861724481732569726549813892154637354678291617923458",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 72,
+              "parity": "even"
+            },
+            {
+              "cell": 47,
+              "parity": "even"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 14,
+              "parity": "odd"
+            },
+            {
+              "cell": 13,
+              "parity": "odd"
+            },
+            {
+              "cell": 60,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "odd"
+            },
+            {
+              "cell": 41,
+              "parity": "even"
+            },
+            {
+              "cell": 10,
+              "parity": "even"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 66,
+              "parity": "even"
+            },
+            {
+              "cell": 71,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "even"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 20,
+              "parity": "even"
+            },
+            {
+              "cell": 11,
+              "parity": "odd"
+            },
+            {
+              "cell": 31,
+              "parity": "even"
+            },
+            {
+              "cell": 8,
+              "parity": "even"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 56,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "008072004400000700000000001090800040040006005010005008000400080000000000900000007",
+      "solution": "158372964469158732732694851295817643847236195316945278671423589523789416984561327",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 52,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "odd"
+            },
+            {
+              "cell": 67,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "even"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 33,
+              "parity": "even"
+            },
+            {
+              "cell": 6,
+              "parity": "odd"
+            },
+            {
+              "cell": 1,
+              "parity": "odd"
+            },
+            {
+              "cell": 59,
+              "parity": "odd"
+            },
+            {
+              "cell": 58,
+              "parity": "even"
+            },
+            {
+              "cell": 11,
+              "parity": "odd"
+            },
+            {
+              "cell": 38,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 20,
+              "parity": "even"
+            },
+            {
+              "cell": 68,
+              "parity": "odd"
+            },
+            {
+              "cell": 73,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 13,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "odd"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000000000203000070050907000000070008005000037800200900000020801008000200040000000",
+      "solution": "789312654263458179154967382491673528625891437837245916376529841918734265542186793",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 18,
+              "parity": "odd"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "odd"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 52,
+              "parity": "odd"
+            },
+            {
+              "cell": 55,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 56,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 76,
+              "parity": "even"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            },
+            {
+              "cell": 67,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "even"
+            },
+            {
+              "cell": 77,
+              "parity": "even"
+            },
+            {
+              "cell": 47,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 70,
+              "parity": "even"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 49,
+              "parity": "even"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "090000000070090403008260900000000000001040200600500000023000008000030000000900500",
+      "solution": "195483672276195483348267951457326819931748265682519347723654198569831724814972536",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "even"
+            },
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 68,
+              "parity": "odd"
+            },
+            {
+              "cell": 72,
+              "parity": "even"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 53,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 71,
+              "parity": "even"
+            },
+            {
+              "cell": 59,
+              "parity": "even"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "even"
+            },
+            {
+              "cell": 25,
+              "parity": "odd"
+            },
+            {
+              "cell": 70,
+              "parity": "even"
+            },
+            {
+              "cell": 49,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "even"
+            },
+            {
+              "cell": 65,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "even"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 29,
+              "parity": "odd"
+            },
+            {
+              "cell": 26,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "702500000063470905000000070000700000000000001000269500300100000000000400000300000",
+      "solution": "792516834863472915415938276284751369956843721137269548349125687521687493678394152",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 58,
+              "parity": "even"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 67,
+              "parity": "even"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "even"
+            },
+            {
+              "cell": 79,
+              "parity": "odd"
+            },
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "even"
+            },
+            {
+              "cell": 16,
+              "parity": "odd"
+            },
+            {
+              "cell": 47,
+              "parity": "odd"
+            },
+            {
+              "cell": 72,
+              "parity": "even"
+            },
+            {
+              "cell": 27,
+              "parity": "even"
+            },
+            {
+              "cell": 32,
+              "parity": "odd"
+            },
+            {
+              "cell": 55,
+              "parity": "even"
+            },
+            {
+              "cell": 38,
+              "parity": "even"
+            },
+            {
+              "cell": 63,
+              "parity": "odd"
+            },
+            {
+              "cell": 65,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 42,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "even"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 71,
+              "parity": "odd"
+            },
+            {
+              "cell": 19,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000000000250000700006000009000080070000000000008040903000530680010600000003700005",
+      "solution": "734259861259816734186473529491385276325967418678142953947531682512698347863724195",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 62,
+              "parity": "even"
+            },
+            {
+              "cell": 38,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 16,
+              "parity": "odd"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 11,
+              "parity": "odd"
+            },
+            {
+              "cell": 52,
+              "parity": "odd"
+            },
+            {
+              "cell": 2,
+              "parity": "even"
+            },
+            {
+              "cell": 45,
+              "parity": "even"
+            },
+            {
+              "cell": 56,
+              "parity": "odd"
+            },
+            {
+              "cell": 71,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "even"
+            },
+            {
+              "cell": 32,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "odd"
+            },
+            {
+              "cell": 76,
+              "parity": "even"
+            },
+            {
+              "cell": 19,
+              "parity": "even"
+            },
+            {
+              "cell": 24,
+              "parity": "odd"
+            },
+            {
+              "cell": 59,
+              "parity": "odd"
+            },
+            {
+              "cell": 73,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "100030000002000007070400000000000800000008000050064703000000900000000008007085100",
+      "solution": "185237496492816357673459281364571829719328564258964713826143975541792638937685142",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 30,
+              "parity": "odd"
+            },
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 29,
+              "parity": "even"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 59,
+              "parity": "odd"
+            },
+            {
+              "cell": 3,
+              "parity": "even"
+            },
+            {
+              "cell": 27,
+              "parity": "odd"
+            },
+            {
+              "cell": 25,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "odd"
+            },
+            {
+              "cell": 12,
+              "parity": "even"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 44,
+              "parity": "even"
+            },
+            {
+              "cell": 73,
+              "parity": "odd"
+            },
+            {
+              "cell": 45,
+              "parity": "even"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            },
+            {
+              "cell": 58,
+              "parity": "even"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 64,
+              "parity": "even"
+            },
+            {
+              "cell": 67,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000970000500800000000021000908000000013080060000309000000000007002000000000030098",
+      "solution": "846973512521864739397521486978615243413782965265349871139458627682197354754236198",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 34,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 20,
+              "parity": "odd"
+            },
+            {
+              "cell": 18,
+              "parity": "odd"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "even"
+            },
+            {
+              "cell": 8,
+              "parity": "even"
+            },
+            {
+              "cell": 44,
+              "parity": "odd"
+            },
+            {
+              "cell": 26,
+              "parity": "even"
+            },
+            {
+              "cell": 55,
+              "parity": "odd"
+            },
+            {
+              "cell": 46,
+              "parity": "even"
+            },
+            {
+              "cell": 41,
+              "parity": "even"
+            },
+            {
+              "cell": 31,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 61,
+              "parity": "even"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            },
+            {
+              "cell": 49,
+              "parity": "even"
+            },
+            {
+              "cell": 24,
+              "parity": "even"
+            },
+            {
+              "cell": 74,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "003000601000059020500030900007000060020090000000000100600000000705000400000000500",
+      "solution": "973428651461759823582631974197584362826193745354267189649375218735812496218946537",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 56,
+              "parity": "odd"
+            },
+            {
+              "cell": 64,
+              "parity": "odd"
+            },
+            {
+              "cell": 10,
+              "parity": "even"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 3,
+              "parity": "even"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 52,
+              "parity": "even"
+            },
+            {
+              "cell": 74,
+              "parity": "even"
+            },
+            {
+              "cell": 42,
+              "parity": "odd"
+            },
+            {
+              "cell": 23,
+              "parity": "odd"
+            },
+            {
+              "cell": 31,
+              "parity": "even"
+            },
+            {
+              "cell": 75,
+              "parity": "odd"
+            },
+            {
+              "cell": 25,
+              "parity": "odd"
+            },
+            {
+              "cell": 55,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "even"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            },
+            {
+              "cell": 21,
+              "parity": "even"
+            },
+            {
+              "cell": 53,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "even"
+            },
+            {
+              "cell": 4,
+              "parity": "even"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "040307000005000970000000000010000000000000004000009006500070000100400050783005000",
+      "solution": "849327561265841973371956248918634725637512894452789136594173682126498357783265419",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 61,
+              "parity": "even"
+            },
+            {
+              "cell": 2,
+              "parity": "odd"
+            },
+            {
+              "cell": 18,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "even"
+            },
+            {
+              "cell": 9,
+              "parity": "even"
+            },
+            {
+              "cell": 64,
+              "parity": "even"
+            },
+            {
+              "cell": 7,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "even"
+            },
+            {
+              "cell": 13,
+              "parity": "even"
+            },
+            {
+              "cell": 22,
+              "parity": "odd"
+            },
+            {
+              "cell": 26,
+              "parity": "even"
+            },
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 23,
+              "parity": "even"
+            },
+            {
+              "cell": 78,
+              "parity": "even"
+            },
+            {
+              "cell": 31,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "odd"
+            },
+            {
+              "cell": 51,
+              "parity": "odd"
+            },
+            {
+              "cell": 55,
+              "parity": "odd"
+            },
+            {
+              "cell": 20,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            },
+            {
+              "cell": 49,
+              "parity": "even"
+            },
+            {
+              "cell": 76,
+              "parity": "even"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "650020000000908000020560000000200500000000000300080000003000700000070030405000001",
+      "solution": "658721493731948256924563178817239564596417382342685917163852749289174635475396821",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 64,
+              "parity": "even"
+            },
+            {
+              "cell": 55,
+              "parity": "even"
+            },
+            {
+              "cell": 15,
+              "parity": "even"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 23,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 25,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 13,
+              "parity": "even"
+            },
+            {
+              "cell": 58,
+              "parity": "odd"
+            },
+            {
+              "cell": 52,
+              "parity": "odd"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "odd"
+            },
+            {
+              "cell": 26,
+              "parity": "even"
+            },
+            {
+              "cell": 18,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "even"
+            },
+            {
+              "cell": 68,
+              "parity": "even"
+            },
+            {
+              "cell": 39,
+              "parity": "even"
+            },
+            {
+              "cell": 48,
+              "parity": "even"
+            },
+            {
+              "cell": 36,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "odd"
+            },
+            {
+              "cell": 46,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "010200003047300008000000000000000806000920100003400000002000000300000050500000080",
+      "solution": "815279463247361598936854721129537846478926135653418279792685314384192657561743982",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 50,
+              "parity": "even"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 75,
+              "parity": "odd"
+            },
+            {
+              "cell": 41,
+              "parity": "even"
+            },
+            {
+              "cell": 46,
+              "parity": "odd"
+            },
+            {
+              "cell": 60,
+              "parity": "odd"
+            },
+            {
+              "cell": 67,
+              "parity": "odd"
+            },
+            {
+              "cell": 27,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "odd"
+            },
+            {
+              "cell": 13,
+              "parity": "even"
+            },
+            {
+              "cell": 24,
+              "parity": "odd"
+            },
+            {
+              "cell": 64,
+              "parity": "even"
+            },
+            {
+              "cell": 0,
+              "parity": "even"
+            },
+            {
+              "cell": 23,
+              "parity": "even"
+            },
+            {
+              "cell": 51,
+              "parity": "even"
+            },
+            {
+              "cell": 25,
+              "parity": "even"
+            },
+            {
+              "cell": 59,
+              "parity": "odd"
+            },
+            {
+              "cell": 20,
+              "parity": "even"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000003015002850000050000004000000001003060000100009807000000000006500000000002040",
+      "solution": "678943215412857369359216784284735691793168452165429837847391526926584173531672948",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "even"
+            },
+            {
+              "cell": 73,
+              "parity": "odd"
+            },
+            {
+              "cell": 76,
+              "parity": "odd"
+            },
+            {
+              "cell": 23,
+              "parity": "even"
+            },
+            {
+              "cell": 0,
+              "parity": "even"
+            },
+            {
+              "cell": 20,
+              "parity": "odd"
+            },
+            {
+              "cell": 67,
+              "parity": "even"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "even"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 14,
+              "parity": "odd"
+            },
+            {
+              "cell": 42,
+              "parity": "even"
+            },
+            {
+              "cell": 63,
+              "parity": "odd"
+            },
+            {
+              "cell": 68,
+              "parity": "even"
+            },
+            {
+              "cell": 56,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "odd"
+            },
+            {
+              "cell": 60,
+              "parity": "odd"
+            },
+            {
+              "cell": 27,
+              "parity": "even"
+            },
+            {
+              "cell": 46,
+              "parity": "even"
+            },
+            {
+              "cell": 16,
+              "parity": "even"
+            },
+            {
+              "cell": 55,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000020000100000000000000074000000600009006027000000050040080230000200500200500001",
+      "solution": "784923165156748392392165874425879613819356427637412958541687239978231546263594781",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 19,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "odd"
+            },
+            {
+              "cell": 11,
+              "parity": "even"
+            },
+            {
+              "cell": 31,
+              "parity": "odd"
+            },
+            {
+              "cell": 45,
+              "parity": "even"
+            },
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 2,
+              "parity": "even"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "odd"
+            },
+            {
+              "cell": 73,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            },
+            {
+              "cell": 50,
+              "parity": "even"
+            },
+            {
+              "cell": 24,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "odd"
+            },
+            {
+              "cell": 42,
+              "parity": "even"
+            },
+            {
+              "cell": 12,
+              "parity": "odd"
+            },
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "odd"
+            },
+            {
+              "cell": 22,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "009000070000002000000000450060100900000020007300500004006000000005870000090000080",
+      "solution": "139458276584762391627913458462187935951324867378596124816235749245879613793641582",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 68,
+              "parity": "odd"
+            },
+            {
+              "cell": 52,
+              "parity": "even"
+            },
+            {
+              "cell": 64,
+              "parity": "even"
+            },
+            {
+              "cell": 19,
+              "parity": "even"
+            },
+            {
+              "cell": 71,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 3,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "odd"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            },
+            {
+              "cell": 36,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "even"
+            },
+            {
+              "cell": 50,
+              "parity": "even"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 49,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 51,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 76,
+              "parity": "even"
+            },
+            {
+              "cell": 62,
+              "parity": "odd"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "even"
+            },
+            {
+              "cell": 18,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "100530007003080600092007000000000000000000500000000023000020050001000000700008090",
+      "solution": "164532987573984612892167435345279168627813549918645723489721356251396874736458291",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 2,
+              "parity": "even"
+            },
+            {
+              "cell": 67,
+              "parity": "odd"
+            },
+            {
+              "cell": 73,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "odd"
+            },
+            {
+              "cell": 22,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            },
+            {
+              "cell": 25,
+              "parity": "odd"
+            },
+            {
+              "cell": 46,
+              "parity": "odd"
+            },
+            {
+              "cell": 21,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "even"
+            },
+            {
+              "cell": 59,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "even"
+            },
+            {
+              "cell": 44,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "even"
+            },
+            {
+              "cell": 49,
+              "parity": "even"
+            },
+            {
+              "cell": 28,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "even"
+            },
+            {
+              "cell": 34,
+              "parity": "even"
+            },
+            {
+              "cell": 51,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "090000000000010000000700006200000001430000080000000000507080020060207150000000008",
+      "solution": "792563814643812597851794236286459371435671982179328645517986423368247159924135768",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 71,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 47,
+              "parity": "odd"
+            },
+            {
+              "cell": 11,
+              "parity": "odd"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 10,
+              "parity": "even"
+            },
+            {
+              "cell": 79,
+              "parity": "even"
+            },
+            {
+              "cell": 2,
+              "parity": "even"
+            },
+            {
+              "cell": 28,
+              "parity": "even"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 23,
+              "parity": "even"
+            },
+            {
+              "cell": 29,
+              "parity": "even"
+            },
+            {
+              "cell": 18,
+              "parity": "even"
+            },
+            {
+              "cell": 49,
+              "parity": "even"
+            },
+            {
+              "cell": 12,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "odd"
+            },
+            {
+              "cell": 51,
+              "parity": "even"
+            },
+            {
+              "cell": 77,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 24,
+              "parity": "even"
+            },
+            {
+              "cell": 14,
+              "parity": "even"
+            },
+            {
+              "cell": 42,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000012005490000000000080006000000000000000000010043009109200000007900058500000000",
+      "solution": "768312945492756381351489276974128563236597814815643729189265437627934158543871692",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 27,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 1,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 47,
+              "parity": "odd"
+            },
+            {
+              "cell": 44,
+              "parity": "even"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 25,
+              "parity": "odd"
+            },
+            {
+              "cell": 68,
+              "parity": "even"
+            },
+            {
+              "cell": 13,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "even"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 14,
+              "parity": "even"
+            },
+            {
+              "cell": 16,
+              "parity": "even"
+            },
+            {
+              "cell": 78,
+              "parity": "even"
+            },
+            {
+              "cell": 45,
+              "parity": "even"
+            },
+            {
+              "cell": 77,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 64,
+              "parity": "even"
+            },
+            {
+              "cell": 42,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "900000030700090120000000900007102400800000000002000060009000000000020003000300040",
+      "solution": "921567834753894126648213957367182495894635271512749368139456782476928513285371649",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 51,
+              "parity": "odd"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 26,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 70,
+              "parity": "odd"
+            },
+            {
+              "cell": 20,
+              "parity": "even"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "odd"
+            },
+            {
+              "cell": 4,
+              "parity": "even"
+            },
+            {
+              "cell": 8,
+              "parity": "even"
+            },
+            {
+              "cell": 19,
+              "parity": "even"
+            },
+            {
+              "cell": 64,
+              "parity": "odd"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            },
+            {
+              "cell": 38,
+              "parity": "even"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "odd"
+            },
+            {
+              "cell": 68,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "002000000010000070003600020007008006020010000000060200000007001050030000700040000",
+      "solution": "492375168816924573573681429347258916625419387189763254264597831958136742731842695",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 50,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "even"
+            },
+            {
+              "cell": 24,
+              "parity": "even"
+            },
+            {
+              "cell": 26,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 70,
+              "parity": "even"
+            },
+            {
+              "cell": 79,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "even"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 4,
+              "parity": "odd"
+            },
+            {
+              "cell": 30,
+              "parity": "even"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 14,
+              "parity": "even"
+            },
+            {
+              "cell": 8,
+              "parity": "even"
+            },
+            {
+              "cell": 52,
+              "parity": "odd"
+            },
+            {
+              "cell": 9,
+              "parity": "even"
+            },
+            {
+              "cell": 56,
+              "parity": "even"
+            },
+            {
+              "cell": 60,
+              "parity": "even"
+            },
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000010570003000020060700000030804000040200600000000005400000900000000008090080000",
+      "solution": "824316579973548126165792384639854217548271693712963845481637952357129468296485731",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 70,
+              "parity": "even"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 79,
+              "parity": "odd"
+            },
+            {
+              "cell": 33,
+              "parity": "even"
+            },
+            {
+              "cell": 13,
+              "parity": "even"
+            },
+            {
+              "cell": 67,
+              "parity": "even"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 50,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "odd"
+            },
+            {
+              "cell": 58,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "odd"
+            },
+            {
+              "cell": 20,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "even"
+            },
+            {
+              "cell": 25,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "odd"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 72,
+              "parity": "even"
+            },
+            {
+              "cell": 44,
+              "parity": "odd"
+            },
+            {
+              "cell": 14,
+              "parity": "even"
+            },
+            {
+              "cell": 52,
+              "parity": "even"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000007602106900000007200005061509000000000000000400006500000000002000000000070200",
+      "solution": "459837612126945783837216945761589324245763891983421576574692138392158467618374259",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 46,
+              "parity": "even"
+            },
+            {
+              "cell": 79,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "odd"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "odd"
+            },
+            {
+              "cell": 3,
+              "parity": "even"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 19,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "even"
+            },
+            {
+              "cell": 35,
+              "parity": "even"
+            },
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 72,
+              "parity": "even"
+            },
+            {
+              "cell": 64,
+              "parity": "odd"
+            },
+            {
+              "cell": 13,
+              "parity": "even"
+            },
+            {
+              "cell": 55,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "even"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 38,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "even"
+            },
+            {
+              "cell": 68,
+              "parity": "even"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 52,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000070000000005800010000002100000680060000000000000040700000904401003008300007000",
+      "solution": "839274561274615893615398472143752689562849317987136245726581934451963728398427156",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 12,
+              "parity": "even"
+            },
+            {
+              "cell": 28,
+              "parity": "even"
+            },
+            {
+              "cell": 74,
+              "parity": "even"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 64,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "even"
+            },
+            {
+              "cell": 46,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 79,
+              "parity": "odd"
+            },
+            {
+              "cell": 58,
+              "parity": "even"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 21,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "odd"
+            },
+            {
+              "cell": 47,
+              "parity": "odd"
+            },
+            {
+              "cell": 20,
+              "parity": "odd"
+            },
+            {
+              "cell": 70,
+              "parity": "even"
+            },
+            {
+              "cell": 51,
+              "parity": "even"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 22,
+              "parity": "odd"
+            },
+            {
+              "cell": 44,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "odd"
+            },
+            {
+              "cell": 16,
+              "parity": "odd"
+            },
+            {
+              "cell": 29,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "060000080080000036000002001090000005000090800005008000000000000000074000001309050",
+      "solution": "167953284289417536453682791894236175672591843315748962946825317538174629721369458",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 12,
+              "parity": "even"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            },
+            {
+              "cell": 64,
+              "parity": "odd"
+            },
+            {
+              "cell": 14,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "even"
+            },
+            {
+              "cell": 30,
+              "parity": "even"
+            },
+            {
+              "cell": 56,
+              "parity": "even"
+            },
+            {
+              "cell": 38,
+              "parity": "even"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 22,
+              "parity": "even"
+            },
+            {
+              "cell": 18,
+              "parity": "even"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 65,
+              "parity": "even"
+            },
+            {
+              "cell": 2,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "odd"
+            },
+            {
+              "cell": 55,
+              "parity": "even"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 60,
+              "parity": "odd"
+            },
+            {
+              "cell": 9,
+              "parity": "even"
+            },
+            {
+              "cell": 39,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "070000200000000510000210003000038061090000070008020050004300000000070000000000000",
+      "solution": "471953286329864517865217493247538961593641872618729354154396728986472135732185649",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 3,
+              "parity": "odd"
+            },
+            {
+              "cell": 51,
+              "parity": "odd"
+            },
+            {
+              "cell": 4,
+              "parity": "odd"
+            },
+            {
+              "cell": 68,
+              "parity": "even"
+            },
+            {
+              "cell": 28,
+              "parity": "even"
+            },
+            {
+              "cell": 27,
+              "parity": "even"
+            },
+            {
+              "cell": 12,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "even"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 20,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "even"
+            },
+            {
+              "cell": 58,
+              "parity": "odd"
+            },
+            {
+              "cell": 25,
+              "parity": "odd"
+            },
+            {
+              "cell": 24,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "odd"
+            },
+            {
+              "cell": 38,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "even"
+            },
+            {
+              "cell": 64,
+              "parity": "even"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            },
+            {
+              "cell": 23,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "080000700003200000005000800000800030007003080050004090040000000070000004000105000",
+      "solution": "984351762713268945625497813461829537297513486358674291549736128176982354832145679",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 61,
+              "parity": "even"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 70,
+              "parity": "odd"
+            },
+            {
+              "cell": 44,
+              "parity": "even"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 47,
+              "parity": "even"
+            },
+            {
+              "cell": 2,
+              "parity": "even"
+            },
+            {
+              "cell": 65,
+              "parity": "even"
+            },
+            {
+              "cell": 53,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "odd"
+            },
+            {
+              "cell": 72,
+              "parity": "even"
+            },
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 68,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "odd"
+            },
+            {
+              "cell": 16,
+              "parity": "even"
+            },
+            {
+              "cell": 33,
+              "parity": "odd"
+            },
+            {
+              "cell": 13,
+              "parity": "even"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            },
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 10,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "even"
+            },
+            {
+              "cell": 4,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000060000007010000010000000000000580200000000900005040003000960060000008090500200",
+      "solution": "549263817627918435318457629174629583235841796986375142453782961762194358891536274",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 22,
+              "parity": "odd"
+            },
+            {
+              "cell": 27,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 76,
+              "parity": "odd"
+            },
+            {
+              "cell": 72,
+              "parity": "even"
+            },
+            {
+              "cell": 59,
+              "parity": "even"
+            },
+            {
+              "cell": 10,
+              "parity": "even"
+            },
+            {
+              "cell": 46,
+              "parity": "even"
+            },
+            {
+              "cell": 6,
+              "parity": "even"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 55,
+              "parity": "odd"
+            },
+            {
+              "cell": 49,
+              "parity": "odd"
+            },
+            {
+              "cell": 29,
+              "parity": "even"
+            },
+            {
+              "cell": 53,
+              "parity": "even"
+            },
+            {
+              "cell": 57,
+              "parity": "odd"
+            },
+            {
+              "cell": 1,
+              "parity": "even"
+            },
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 18,
+              "parity": "odd"
+            },
+            {
+              "cell": 21,
+              "parity": "even"
+            },
+            {
+              "cell": 51,
+              "parity": "odd"
+            },
+            {
+              "cell": 44,
+              "parity": "even"
+            },
+            {
+              "cell": 26,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "odd"
+            },
+            {
+              "cell": 31,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "908000002000000500003007904000000000007009000004000350009000001000006080000010000",
+      "solution": "968534172741962538523187964382675419157349826694821357879253641215496783436718295",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "odd"
+            },
+            {
+              "cell": 53,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "even"
+            },
+            {
+              "cell": 1,
+              "parity": "even"
+            },
+            {
+              "cell": 14,
+              "parity": "even"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 28,
+              "parity": "even"
+            },
+            {
+              "cell": 48,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "even"
+            },
+            {
+              "cell": 57,
+              "parity": "even"
+            },
+            {
+              "cell": 44,
+              "parity": "even"
+            },
+            {
+              "cell": 45,
+              "parity": "even"
+            },
+            {
+              "cell": 67,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "odd"
+            },
+            {
+              "cell": 17,
+              "parity": "even"
+            },
+            {
+              "cell": 75,
+              "parity": "odd"
+            },
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            },
+            {
+              "cell": 18,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "even"
+            },
+            {
+              "cell": 73,
+              "parity": "odd"
+            },
+            {
+              "cell": 22,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "078305000000002800000000050000007000040609000003000000002000000000500706000000015",
+      "solution": "178345269965172834324968157256817493841639572793254681512796348439581726687423915",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 45,
+              "parity": "odd"
+            },
+            {
+              "cell": 74,
+              "parity": "odd"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            },
+            {
+              "cell": 70,
+              "parity": "even"
+            },
+            {
+              "cell": 44,
+              "parity": "even"
+            },
+            {
+              "cell": 49,
+              "parity": "odd"
+            },
+            {
+              "cell": 19,
+              "parity": "even"
+            },
+            {
+              "cell": 77,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "even"
+            },
+            {
+              "cell": 63,
+              "parity": "even"
+            },
+            {
+              "cell": 42,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 16,
+              "parity": "odd"
+            },
+            {
+              "cell": 48,
+              "parity": "even"
+            },
+            {
+              "cell": 34,
+              "parity": "odd"
+            },
+            {
+              "cell": 12,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 68,
+              "parity": "odd"
+            },
+            {
+              "cell": 52,
+              "parity": "even"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 24,
+              "parity": "odd"
+            },
+            {
+              "cell": 59,
+              "parity": "even"
+            },
+            {
+              "cell": 53,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "950040026001000090060000010700053000000000003000806000000000000000002000020090000",
+      "solution": "953741826841265397267938514796153482582479163314826975638517249479382651125694738",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "odd"
+            },
+            {
+              "cell": 38,
+              "parity": "even"
+            },
+            {
+              "cell": 67,
+              "parity": "even"
+            },
+            {
+              "cell": 24,
+              "parity": "odd"
+            },
+            {
+              "cell": 39,
+              "parity": "even"
+            },
+            {
+              "cell": 34,
+              "parity": "even"
+            },
+            {
+              "cell": 52,
+              "parity": "odd"
+            },
+            {
+              "cell": 26,
+              "parity": "even"
+            },
+            {
+              "cell": 18,
+              "parity": "even"
+            },
+            {
+              "cell": 72,
+              "parity": "odd"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 64,
+              "parity": "odd"
+            },
+            {
+              "cell": 71,
+              "parity": "odd"
+            },
+            {
+              "cell": 54,
+              "parity": "even"
+            },
+            {
+              "cell": 14,
+              "parity": "odd"
+            },
+            {
+              "cell": 66,
+              "parity": "odd"
+            },
+            {
+              "cell": 2,
+              "parity": "odd"
+            },
+            {
+              "cell": 69,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "odd"
+            },
+            {
+              "cell": 35,
+              "parity": "even"
+            },
+            {
+              "cell": 33,
+              "parity": "even"
+            },
+            {
+              "cell": 58,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 75,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000002900000370000090004500005000009007000080900000000609000000000008093000000020",
+      "solution": "174562938586379412293184567865731249347925681912846375639217854421658793758493126",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 15,
+              "parity": "even"
+            },
+            {
+              "cell": 67,
+              "parity": "odd"
+            },
+            {
+              "cell": 2,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "odd"
+            },
+            {
+              "cell": 21,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 34,
+              "parity": "even"
+            },
+            {
+              "cell": 25,
+              "parity": "even"
+            },
+            {
+              "cell": 80,
+              "parity": "even"
+            },
+            {
+              "cell": 50,
+              "parity": "even"
+            },
+            {
+              "cell": 16,
+              "parity": "odd"
+            },
+            {
+              "cell": 47,
+              "parity": "even"
+            },
+            {
+              "cell": 55,
+              "parity": "odd"
+            },
+            {
+              "cell": 42,
+              "parity": "even"
+            },
+            {
+              "cell": 44,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "odd"
+            },
+            {
+              "cell": 14,
+              "parity": "odd"
+            },
+            {
+              "cell": 62,
+              "parity": "even"
+            },
+            {
+              "cell": 66,
+              "parity": "even"
+            },
+            {
+              "cell": 40,
+              "parity": "even"
+            },
+            {
+              "cell": 76,
+              "parity": "odd"
+            },
+            {
+              "cell": 30,
+              "parity": "odd"
+            },
+            {
+              "cell": 1,
+              "parity": "odd"
+            },
+            {
+              "cell": 37,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000506000001000000000000000200010000010040000300000007000000000006407003430905600",
+      "solution": "893576421621894375574231869269718534715349286348652197952163748186427953437985612",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 35,
+              "parity": "even"
+            },
+            {
+              "cell": 26,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "even"
+            },
+            {
+              "cell": 21,
+              "parity": "even"
+            },
+            {
+              "cell": 7,
+              "parity": "even"
+            },
+            {
+              "cell": 32,
+              "parity": "even"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 60,
+              "parity": "odd"
+            },
+            {
+              "cell": 24,
+              "parity": "even"
+            },
+            {
+              "cell": 62,
+              "parity": "even"
+            },
+            {
+              "cell": 1,
+              "parity": "odd"
+            },
+            {
+              "cell": 25,
+              "parity": "even"
+            },
+            {
+              "cell": 12,
+              "parity": "even"
+            },
+            {
+              "cell": 30,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "odd"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 13,
+              "parity": "odd"
+            },
+            {
+              "cell": 56,
+              "parity": "even"
+            },
+            {
+              "cell": 4,
+              "parity": "odd"
+            },
+            {
+              "cell": 57,
+              "parity": "odd"
+            },
+            {
+              "cell": 18,
+              "parity": "odd"
+            },
+            {
+              "cell": 22,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "005080000300000000004006100000700040050008600070000000000000000060001500013070000",
+      "solution": "195482763326197458784356129231769845459218637678543912847625391962831574513974286",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 75,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            },
+            {
+              "cell": 15,
+              "parity": "even"
+            },
+            {
+              "cell": 50,
+              "parity": "odd"
+            },
+            {
+              "cell": 22,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "even"
+            },
+            {
+              "cell": 11,
+              "parity": "even"
+            },
+            {
+              "cell": 1,
+              "parity": "odd"
+            },
+            {
+              "cell": 56,
+              "parity": "odd"
+            },
+            {
+              "cell": 12,
+              "parity": "odd"
+            },
+            {
+              "cell": 58,
+              "parity": "even"
+            },
+            {
+              "cell": 33,
+              "parity": "even"
+            },
+            {
+              "cell": 52,
+              "parity": "odd"
+            },
+            {
+              "cell": 72,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 31,
+              "parity": "even"
+            },
+            {
+              "cell": 18,
+              "parity": "odd"
+            },
+            {
+              "cell": 16,
+              "parity": "odd"
+            },
+            {
+              "cell": 19,
+              "parity": "even"
+            },
+            {
+              "cell": 14,
+              "parity": "odd"
+            },
+            {
+              "cell": 77,
+              "parity": "even"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 25,
+              "parity": "even"
+            },
+            {
+              "cell": 27,
+              "parity": "even"
+            },
+            {
+              "cell": 66,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000004000000000600020700004500009007000005000300020000000003000080002090000500103",
+      "solution": "837694521145238679926751834518369247279845316364127958751983462683412795492576183",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 2,
+              "parity": "odd"
+            },
+            {
+              "cell": 67,
+              "parity": "odd"
+            },
+            {
+              "cell": 30,
+              "parity": "odd"
+            },
+            {
+              "cell": 16,
+              "parity": "odd"
+            },
+            {
+              "cell": 73,
+              "parity": "odd"
+            },
+            {
+              "cell": 46,
+              "parity": "even"
+            },
+            {
+              "cell": 23,
+              "parity": "odd"
+            },
+            {
+              "cell": 9,
+              "parity": "odd"
+            },
+            {
+              "cell": 43,
+              "parity": "odd"
+            },
+            {
+              "cell": 40,
+              "parity": "even"
+            },
+            {
+              "cell": 69,
+              "parity": "odd"
+            },
+            {
+              "cell": 42,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "odd"
+            },
+            {
+              "cell": 55,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 56,
+              "parity": "odd"
+            },
+            {
+              "cell": 12,
+              "parity": "even"
+            },
+            {
+              "cell": 77,
+              "parity": "even"
+            },
+            {
+              "cell": 60,
+              "parity": "even"
+            },
+            {
+              "cell": 11,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "even"
+            },
+            {
+              "cell": 76,
+              "parity": "odd"
+            },
+            {
+              "cell": 66,
+              "parity": "even"
+            },
+            {
+              "cell": 3,
+              "parity": "even"
+            },
+            {
+              "cell": 48,
+              "parity": "odd"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "005000000000009000600210000007800000000000000900000200020600010003070400090031000",
+      "solution": "815346972432759186679218543257894631361527894948163257724685319183972465596431728",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 13,
+              "parity": "odd"
+            },
+            {
+              "cell": 28,
+              "parity": "odd"
+            },
+            {
+              "cell": 1,
+              "parity": "odd"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "odd"
+            },
+            {
+              "cell": 56,
+              "parity": "even"
+            },
+            {
+              "cell": 25,
+              "parity": "even"
+            },
+            {
+              "cell": 12,
+              "parity": "odd"
+            },
+            {
+              "cell": 80,
+              "parity": "even"
+            },
+            {
+              "cell": 20,
+              "parity": "odd"
+            },
+            {
+              "cell": 47,
+              "parity": "even"
+            },
+            {
+              "cell": 10,
+              "parity": "odd"
+            },
+            {
+              "cell": 31,
+              "parity": "odd"
+            },
+            {
+              "cell": 8,
+              "parity": "even"
+            },
+            {
+              "cell": 5,
+              "parity": "even"
+            },
+            {
+              "cell": 9,
+              "parity": "even"
+            },
+            {
+              "cell": 52,
+              "parity": "odd"
+            },
+            {
+              "cell": 26,
+              "parity": "odd"
+            },
+            {
+              "cell": 24,
+              "parity": "odd"
+            },
+            {
+              "cell": 6,
+              "parity": "odd"
+            },
+            {
+              "cell": 41,
+              "parity": "odd"
+            },
+            {
+              "cell": 48,
+              "parity": "odd"
+            },
+            {
+              "cell": 33,
+              "parity": "even"
+            },
+            {
+              "cell": 42,
+              "parity": "even"
+            },
+            {
+              "cell": 16,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "002000000047012000000003000090000080005000000070000500000300009000200000100080062",
+      "solution": "312495678647812395589763214291534786435678921876129543728346159964251837153987462",
+      "rules": {
+        "odd_even": {
+          "marks": [
+            {
+              "cell": 37,
+              "parity": "odd"
+            },
+            {
+              "cell": 17,
+              "parity": "odd"
+            },
+            {
+              "cell": 15,
+              "parity": "odd"
+            },
+            {
+              "cell": 63,
+              "parity": "odd"
+            },
+            {
+              "cell": 60,
+              "parity": "odd"
+            },
+            {
+              "cell": 1,
+              "parity": "odd"
+            },
+            {
+              "cell": 21,
+              "parity": "odd"
+            },
+            {
+              "cell": 7,
+              "parity": "odd"
+            },
+            {
+              "cell": 0,
+              "parity": "odd"
+            },
+            {
+              "cell": 58,
+              "parity": "even"
+            },
+            {
+              "cell": 31,
+              "parity": "odd"
+            },
+            {
+              "cell": 36,
+              "parity": "even"
+            },
+            {
+              "cell": 50,
+              "parity": "odd"
+            },
+            {
+              "cell": 30,
+              "parity": "odd"
+            },
+            {
+              "cell": 32,
+              "parity": "even"
+            },
+            {
+              "cell": 65,
+              "parity": "even"
+            },
+            {
+              "cell": 42,
+              "parity": "odd"
+            },
+            {
+              "cell": 5,
+              "parity": "odd"
+            },
+            {
+              "cell": 45,
+              "parity": "even"
+            },
+            {
+              "cell": 48,
+              "parity": "odd"
+            },
+            {
+              "cell": 61,
+              "parity": "odd"
+            },
+            {
+              "cell": 19,
+              "parity": "even"
+            },
+            {
+              "cell": 54,
+              "parity": "odd"
+            },
+            {
+              "cell": 78,
+              "parity": "even"
+            },
+            {
+              "cell": 35,
+              "parity": "even"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

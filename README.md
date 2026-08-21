@@ -1,0 +1,147 @@
+# MeetSudoku Plugin SDK
+
+[Chinese](README.zh-CN.md)
+
+Community Variant Script API V1 lets authors create Sudoku variants with
+`main.lua`, puzzle data, and optional board marks. Start with the
+[author guide](community-script-v1-author-guide.md) for the public package and
+Lua/JSON contract.
+
+<!-- GENERATED:capability-navigation:start -->
+## Choose a starting example
+
+Choose the example that most closely matches the rule you want players to see.
+
+| Your goal | Start here | Why |
+|---|---|---|
+| A fixed rule from the start | [`159 Sudoku`](examples/community-script-v1-159-sudoku/) | Derive one package-wide rule from small puzzle data. |
+| A rule checked while solving | [`Fortress Sudoku`](examples/community-script-v1-fortress/) | Validate a local relationship as players place digits. |
+| Custom regions or board layout | [`Jigsaw Sudoku`](examples/community-script-v1-jigsaw/) | Describe regions or a nonstandard base layout. |
+| Clues, labels, or visual guides | [`Numbered Rooms`](examples/community-script-v1-numbered-rooms/) | Turn puzzle-owned clue data into rules and marks. |
+| Cells that change as play continues | [`Fog of War Sudoku`](examples/community-script-v1-fog-of-war/) | Describe a bounded, rule-driven change to visible cells. |
+
+## Browse by capability
+
+Every public playable reference appears once, grouped by the rule shape that is most useful when choosing an authoring starting point.
+
+### Grid layout and linked regions
+
+[`Asterisk Sudoku`](examples/community-script-v1-asterisk/) ·
+[`Clone Sudoku`](examples/community-script-v1-clone/) ·
+[`Counting Circles Sudoku`](examples/community-script-v1-counting-circles/) ·
+[`Diagonal Sudoku`](examples/community-script-v1-diagonal/) ·
+[`Disjoint Groups Sudoku`](examples/community-script-v1-disjoint-groups/) ·
+[`Jigsaw Sudoku`](examples/community-script-v1-jigsaw/) ·
+[`Magic Square Sudoku`](examples/community-script-v1-magic-square/) ·
+[`No Boxes Sudoku`](examples/community-script-v1-no-boxes/) ·
+[`Same Values Sudoku`](examples/community-script-v1-same-values/) ·
+[`Windoku`](examples/community-script-v1-windoku/)
+
+### Cell, neighbour, and pair patterns
+
+[`Anti-King Sudoku`](examples/community-script-v1-anti-king/) ·
+[`Anti-Knight Sudoku`](examples/community-script-v1-anti-knight/) ·
+[`Anti-Taxicab`](examples/community-script-v1-anti-taxicab/) ·
+[`Anti-XV Sudoku`](examples/community-script-v1-anti-xv/) ·
+[`Battenburg Sudoku`](examples/community-script-v1-battenburg/) ·
+[`Composite Sudoku`](examples/community-script-v1-composite/) ·
+[`Entropy Sudoku`](examples/community-script-v1-entropy/) ·
+[`Fortress Sudoku`](examples/community-script-v1-fortress/) ·
+[`Friendly Sudoku`](examples/community-script-v1-friendly-sudoku/) ·
+[`MinMax Sudoku`](examples/community-script-v1-minmax/) ·
+[`Non-Consecutive Sudoku`](examples/community-script-v1-non-consecutive/) ·
+[`Odd/Even Sudoku`](examples/community-script-v1-odd-even/) ·
+[`Prime Sudoku`](examples/community-script-v1-prime/) ·
+[`Repeated Neighbours Sudoku`](examples/community-script-v1-repeated-neighbours/)
+
+### Clues, labels, and numeric conditions
+
+[`159 Sudoku`](examples/community-script-v1-159-sudoku/) ·
+[`Consecutive Sudoku`](examples/community-script-v1-consecutive/) ·
+[`Greater Than Sudoku`](examples/community-script-v1-greater-than/) ·
+[`Intersection Sum Sudoku`](examples/community-script-v1-intersection-sum/) ·
+[`Kropki Sudoku`](examples/community-script-v1-kropki/) ·
+[`Little Killer Sudoku`](examples/community-script-v1-little-killer/) ·
+[`Numbered Rooms`](examples/community-script-v1-numbered-rooms/) ·
+[`Position Sums Sudoku`](examples/community-script-v1-position-sums/) ·
+[`Quadruple Sudoku`](examples/community-script-v1-quadruple/) ·
+[`Sandwich Sudoku`](examples/community-script-v1-sandwich/) ·
+[`Skyscraper Sudoku`](examples/community-script-v1-skyscraper/) ·
+[`X-Sums Sudoku`](examples/community-script-v1-x-sums/) ·
+[`XV Sudoku`](examples/community-script-v1-xv/)
+
+### Paths and ordered sequences
+
+[`Arrow Sudoku`](examples/community-script-v1-arrow/) ·
+[`Arrow Thermometer Sudoku`](examples/community-script-v1-arrow-thermometer/) ·
+[`Between Lines Sudoku`](examples/community-script-v1-between-lines/) ·
+[`Dutch Whispers Sudoku`](examples/community-script-v1-dutch-whispers/) ·
+[`German Whispers Sudoku`](examples/community-script-v1-german-whispers/) ·
+[`Lockout Lines Sudoku`](examples/community-script-v1-lockout-lines/) ·
+[`Modular Lines Sudoku`](examples/community-script-v1-modular-lines/) ·
+[`Palindrome`](examples/community-script-v1-palindrome/) ·
+[`Region Sum Lines Sudoku`](examples/community-script-v1-region-sum-lines/) ·
+[`Renban Lines Sudoku`](examples/community-script-v1-renban/) ·
+[`Thermometer Sudoku`](examples/community-script-v1-thermometer/) ·
+[`Zipper Lines Sudoku`](examples/community-script-v1-zipper-lines/)
+
+### Board changes during play
+
+[`Beacon Sudoku`](examples/community-script-v1-beacon-sudoku/) ·
+[`Fog of War Sudoku`](examples/community-script-v1-fog-of-war/)
+
+<!-- GENERATED:capability-navigation:end -->
+
+## Public examples
+
+`examples/` contains public playable reference packages. Each one demonstrates
+a complete rule that authors can adapt: the package-wide rule belongs in
+`main.lua`, while each puzzle supplies only its changing geometry or values.
+
+## Languages and naming
+
+Every public package must include both `i18n/en_us.json` and
+`i18n/zh_cn.json`. Additional languages are optional and use lowercase locale
+filenames: a two- or three-letter language code, with
+an optional two-letter region suffix, such as `ja.json`, `pt_br.json`,
+`zh_cn.json`, or `zh_tw.json`. The game resolves an exact locale first, then a
+declared language-only locale, then `en_us`.
+
+Use one stable name and localized player-facing names:
+
+- `manifest.id` is the permanent technical identifier.
+- `manifest.name` is the stable, non-localized package-management name.
+- `variant.title` is the player-facing name in each locale and may be
+  translated.
+- `variant.description` and every `rule_guide.*` value are player-facing copy
+  in that locale.
+
+Every declared locale must contain the complete `en_us` key set, including all
+`rule_guide.*` keys. Use the existing key families—`variant.*`,
+`rule.<handler>`, and `rule_guide.*`—rather than locale-specific key names.
+Runtime fallback is a resilience mechanism and does not make a locale complete.
+
+## Public SDK material
+
+`operator-fixtures/` contains small, non-playable syntax examples for generic
+operators. Non-public technical packages and repository qualification evidence
+are intentionally kept outside this public mirror. Neither operator fixtures
+nor this repository is a starting point for a playable variant; use the public
+examples and author guide instead.
+
+## SDK layout
+
+```text
+plugin-sdk/
+  README.md
+  README.zh-CN.md
+  community-script-v1-author-guide.md
+  manifest.schema.json
+  types-community.lua
+  examples/
+  operator-fixtures/
+```
+
+This repository is a public SDK mirror. The Sudoku application repository
+remains the source of truth for runtime implementation, qualification records,
+release metadata, and non-public technical packages.

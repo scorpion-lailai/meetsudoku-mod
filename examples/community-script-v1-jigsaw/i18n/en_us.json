@@ -1,0 +1,9 @@
+{
+  "variant.title": "Jigsaw Sudoku",
+  "variant.description": "Each puzzle-owned irregular region must contain no repeated digit.",
+  "rule.jigsaw_region_repeat": "An irregular region cannot repeat a digit.",
+  "rule_guide.title": "Jigsaw Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row and column must contain no repeated digit.",
+  "rule_guide.item_2": "Each marked irregular region must contain no repeated digit."
+}

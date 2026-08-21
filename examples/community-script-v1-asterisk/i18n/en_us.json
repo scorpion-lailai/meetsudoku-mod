@@ -1,0 +1,8 @@
+{
+  "variant.title": "Asterisk Sudoku",
+  "variant.description": "The nine cells on the asterisk contain the digits 1 through 9 without repetition.",
+  "rule_guide.title": "Asterisk Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "The nine cells joined by the asterisk lines must also contain the digits 1 through 9 without repetition."
+}

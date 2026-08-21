@@ -1,0 +1,10 @@
+{
+  "variant.title": "战争迷雾数独",
+  "variant.description": "在迷雾中完成数独，正确填写数字会揭示附近的隐藏格。",
+  "rule_guide.title": "战争迷雾数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "开局时，每个题目给定数字及其周围一格范围会被揭示。",
+  "rule_guide.item_3": "在已揭示格中填入正确数字后，该格及其周围一格范围会被揭示。",
+  "rule_guide.item_4": "填错数字或填写笔记不会揭示新的格子。"
+}

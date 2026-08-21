@@ -1,0 +1,11 @@
+{
+  "variant.title": "四数提示数独",
+  "variant.description": "白圈中的数字必须出现在该交点周围的四个格子中。",
+  "rule.quadruple": "白圈中的每个数字都必须出现在周围四格中。",
+  "rule_guide.title": "四数提示数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "白圈中的每个数字都必须出现在该交点周围的四个格子中。",
+  "rule_guide.item_3": "同一数字在白圈中出现多次时，周围四格也必须出现相同次数。",
+  "rule_guide.item_4": "白圈可以只给出少于四个数字；没有写出的数字和没有白圈的交点不增加额外限制。"
+}

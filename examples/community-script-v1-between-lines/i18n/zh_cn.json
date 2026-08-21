@@ -1,0 +1,10 @@
+{
+  "variant.title": "线间数独",
+  "variant.description": "每条线两端各有一个圆圈，线上的其他格只能填两个圆圈数字之间的数字。",
+  "rule.between_lines": "每条线两端各有一个圆圈，线上的其他格只能填两个圆圈数字之间的数字。",
+  "rule_guide.title": "线间数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "每条线两端的圆圈各填一个数字。",
+  "rule_guide.item_2": "线上的其他格，必须比两个圆圈中较小的数字大，同时比其中较大的数字小。",
+  "rule_guide.item_3": "例如两端是 2 和 7，线上的其他格只能填 3、4、5 或 6；顺序不限，也不要求这些数字全部出现。"
+}

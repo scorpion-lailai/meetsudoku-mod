@@ -1,0 +1,9 @@
+{
+  "variant.title": "奇偶数独",
+  "variant.description": "带奇偶标记的格子必须填入对应奇偶性的数字。",
+  "rule.odd_even_parity": "这个数字不符合该格子的奇偶标记。",
+  "rule_guide.title": "奇偶数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "奇数标记的格子只能填奇数，偶数标记的格子只能填偶数。"
+}

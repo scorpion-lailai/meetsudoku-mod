@@ -1,0 +1,308 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://meetsudoku.local/plugin-sdk/manifest.schema.json",
+  "title": "MeetSudoku Plugin Manifest",
+  "oneOf": [
+    { "$ref": "#/$defs/communityScriptAuthorManifest" },
+    { "$ref": "#/$defs/communityVariantManifest" },
+    { "$ref": "#/$defs/communityConstraintProgramManifest" },
+    { "$ref": "#/$defs/communityScriptManifest" }
+  ],
+  "$defs": {
+    "communityScriptAuthorManifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["manifestVersion", "id", "name", "version"],
+      "properties": {
+        "manifestVersion": { "const": 3 },
+        "id": { "$ref": "#/$defs/pluginId" },
+        "name": { "type": "string", "minLength": 1 },
+        "version": { "type": "string", "minLength": 1 }
+      }
+    },
+    "api1": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["min", "max"],
+      "properties": {
+        "min": { "const": 1 },
+        "max": { "const": 1 }
+      }
+    },
+    "api2": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["min", "max"],
+      "properties": {
+        "min": { "const": 2 },
+        "max": { "const": 2 }
+      }
+    },
+    "api3": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["min", "max"],
+      "properties": {
+        "min": { "const": 3 },
+        "max": { "const": 3 }
+      }
+    },
+    "api4": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["min", "max"],
+      "properties": {
+        "min": { "const": 4 },
+        "max": { "const": 4 }
+      }
+    },
+    "api5": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["min", "max"],
+      "properties": {
+        "min": { "const": 5 },
+        "max": { "const": 5 }
+      }
+    },
+    "dependencies": {
+      "type": "array",
+      "maxItems": 0
+    },
+    "pluginId": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9_-]*(\\.[a-z0-9][a-z0-9_-]*)+$"
+    },
+    "relativePath": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^(?!/)(?!.*(^|[\\\\/])\\.\\.($|[\\\\/]))[^\\\\/]+([\\\\/][^\\\\/]+)*$"
+    },
+    "communityVariantManifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "manifestVersion", "id", "name", "version", "api",
+        "runtime", "entry", "capabilities", "permissions",
+        "resources", "dependencies"
+      ],
+      "properties": {
+        "manifestVersion": { "const": 2 },
+        "id": { "$ref": "#/$defs/pluginId" },
+        "name": { "type": "string", "minLength": 1 },
+        "version": { "type": "string", "minLength": 1 },
+        "api": { "$ref": "#/$defs/api1" },
+        "runtime": { "const": "lua" },
+        "entry": { "$ref": "#/$defs/relativePath" },
+        "capabilities": {
+          "type": "array",
+          "prefixItems": [{ "const": "community_variant" }],
+          "items": false,
+          "minItems": 1,
+          "maxItems": 1
+        },
+        "permissions": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "read_board", "read_variant", "read_metadata",
+              "read_puzzle", "read_candidates", "provide_rule",
+              "provide_render_overlay"
+            ]
+          },
+          "minItems": 6,
+          "maxItems": 7,
+          "uniqueItems": true,
+          "allOf": [
+            { "contains": { "const": "read_board" } },
+            { "contains": { "const": "read_variant" } },
+            { "contains": { "const": "read_metadata" } },
+            { "contains": { "const": "read_puzzle" } },
+            { "contains": { "const": "read_candidates" } },
+            { "contains": { "const": "provide_rule" } }
+          ]
+        },
+        "resources": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["variant", "puzzleBank", "locales"],
+          "properties": {
+            "variant": { "$ref": "#/$defs/relativePath" },
+            "puzzleBank": { "$ref": "#/$defs/relativePath" },
+            "locales": {
+              "type": "object",
+              "minProperties": 1,
+              "required": ["en_us"],
+              "additionalProperties": { "$ref": "#/$defs/relativePath" }
+            },
+            "icon": { "$ref": "#/$defs/relativePath" }
+          }
+        },
+        "dependencies": { "$ref": "#/$defs/dependencies" }
+      }
+    },
+    "communityConstraintProgramManifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "manifestVersion", "id", "name", "version", "api",
+        "runtime", "entry", "capabilities", "permissions",
+        "ruleLanguage", "resources", "dependencies"
+      ],
+      "properties": {
+        "manifestVersion": { "const": 2 },
+        "id": { "$ref": "#/$defs/pluginId" },
+        "name": { "type": "string", "minLength": 1 },
+        "version": { "type": "string", "minLength": 1 },
+        "api": { "$ref": "#/$defs/api4" },
+        "runtime": { "const": "lua" },
+        "entry": { "$ref": "#/$defs/relativePath" },
+        "capabilities": {
+          "type": "array",
+          "prefixItems": [{ "const": "community_variant" }],
+          "items": false,
+          "minItems": 1,
+          "maxItems": 1
+        },
+        "permissions": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "read_board", "read_variant", "read_metadata",
+              "read_puzzle", "read_candidates", "provide_rule",
+              "provide_render_overlay"
+            ]
+          },
+          "minItems": 6,
+          "maxItems": 7,
+          "uniqueItems": true,
+          "allOf": [
+            { "contains": { "const": "read_board" } },
+            { "contains": { "const": "read_variant" } },
+            { "contains": { "const": "read_metadata" } },
+            { "contains": { "const": "read_puzzle" } },
+            { "contains": { "const": "read_candidates" } },
+            { "contains": { "const": "provide_rule" } }
+          ]
+        },
+        "ruleLanguage": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "constraintProgramVersion", "semanticHashVersion",
+            "requiredOperators"
+          ],
+          "properties": {
+            "constraintProgramVersion": { "const": 1 },
+            "semanticHashVersion": { "const": 1 },
+            "requiredOperators": {
+              "type": "object",
+              "additionalProperties": false,
+              "minProperties": 1,
+              "properties": {
+                "all_different": { "const": 1 },
+                "and": { "const": 1 },
+                "constant": { "const": 1 },
+                "count": { "const": 1 },
+                "exact_sum_equals_constant": { "const": 1 },
+                "equal": { "const": 1 },
+                "greater_than": { "const": 1 },
+                "greater_than_or_equal": { "const": 1 },
+                "less_than": { "const": 1 },
+                "less_than_or_equal": { "const": 1 },
+                "multiset_equal_group": { "const": 1 },
+                "not": { "const": 1 },
+                "not_equal": { "const": 1 },
+                "or": { "const": 1 },
+                "self_referential_frequency_group": { "const": 1 },
+                "sum": { "const": 1 },
+                "value": { "const": 1 },
+                "value_selected_pair_sum_equals_constant": { "const": 1 }
+              }
+            }
+          }
+        },
+        "resources": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["variant", "puzzleBank", "locales"],
+          "properties": {
+            "variant": { "$ref": "#/$defs/relativePath" },
+            "puzzleBank": { "$ref": "#/$defs/relativePath" },
+            "locales": {
+              "type": "object",
+              "minProperties": 1,
+              "required": ["en_us"],
+              "additionalProperties": { "$ref": "#/$defs/relativePath" }
+            },
+            "icon": { "$ref": "#/$defs/relativePath" }
+          }
+        },
+        "dependencies": { "$ref": "#/$defs/dependencies" }
+      }
+    },
+    "communityScriptManifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "manifestVersion", "id", "name", "version", "api",
+        "runtime", "entry", "capabilities", "permissions",
+        "resources", "dependencies"
+      ],
+      "properties": {
+        "manifestVersion": { "const": 2 },
+        "id": { "$ref": "#/$defs/pluginId" },
+        "name": { "type": "string", "minLength": 1 },
+        "version": { "type": "string", "minLength": 1 },
+        "api": { "$ref": "#/$defs/api5" },
+        "runtime": { "const": "lua" },
+        "entry": { "$ref": "#/$defs/relativePath" },
+        "capabilities": {
+          "type": "array",
+          "prefixItems": [{ "const": "community_variant" }],
+          "items": false,
+          "minItems": 1,
+          "maxItems": 1
+        },
+        "permissions": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "read_board", "read_variant", "read_metadata",
+              "read_puzzle", "read_candidates", "provide_rule",
+              "provide_render_overlay"
+            ]
+          },
+          "minItems": 6,
+          "maxItems": 7,
+          "uniqueItems": true,
+          "allOf": [
+            { "contains": { "const": "read_board" } },
+            { "contains": { "const": "read_variant" } },
+            { "contains": { "const": "read_metadata" } },
+            { "contains": { "const": "read_puzzle" } },
+            { "contains": { "const": "read_candidates" } },
+            { "contains": { "const": "provide_rule" } }
+          ]
+        },
+        "resources": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["variant", "puzzleBank", "locales"],
+          "properties": {
+            "variant": { "$ref": "#/$defs/relativePath" },
+            "puzzleBank": { "$ref": "#/$defs/relativePath" },
+            "locales": {
+              "type": "object",
+              "minProperties": 1,
+              "required": ["en_us"],
+              "additionalProperties": { "$ref": "#/$defs/relativePath" }
+            },
+            "icon": { "$ref": "#/$defs/relativePath" }
+          }
+        },
+        "dependencies": { "$ref": "#/$defs/dependencies" }
+      }
+    }
+  }
+}

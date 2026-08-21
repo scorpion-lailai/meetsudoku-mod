@@ -1,0 +1,10 @@
+{
+  "variant.title": "X-Sums Sudoku",
+  "variant.description": "Each outside clue gives the sum of the first X cells seen from that side, where X is the digit in the first cell.",
+  "rule.x_sums": "Each outside clue gives the sum of the first X cells seen from that side, where X is the digit in the first cell.",
+  "rule_guide.title": "X-Sums Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each outside clue applies to the row or column seen from that side.",
+  "rule_guide.item_2": "The first digit nearest the clue decides how many cells are included in the sum.",
+  "rule_guide.item_3": "For example, if a left clue is 23 and the first digit in that row is 4, the first 4 cells from the left must sum to 23."
+}

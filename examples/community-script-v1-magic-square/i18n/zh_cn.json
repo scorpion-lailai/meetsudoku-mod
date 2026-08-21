@@ -1,0 +1,10 @@
+{
+  "variant.title": "魔方阵数独",
+  "variant.description": "标记的 3x3 区域是一个魔方阵，其中每行、每列和两条主对角线的数字之和都等于 15。",
+  "rule.magic_square": "标记的 3x3 区域中，每行、每列和两条主对角线的数字之和都等于 15。",
+  "rule_guide.title": "魔方阵数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "标记的 3x3 区域中，三行、三列和两条主对角线的数字之和都必须等于 15。",
+  "rule_guide.item_3": "未标记的 3x3 宫没有额外的魔方阵限制。"
+}

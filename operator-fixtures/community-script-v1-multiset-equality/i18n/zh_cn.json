@@ -1,0 +1,9 @@
+{
+  "variant.title": "多重集相等算子夹具",
+  "variant.description": "演示两组格子的数字频次相同且顺序不限的技术参考。",
+  "rule_guide.title": "多重集相等参考规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "两组指定格子必须包含相同的数字，并且每个数字的出现次数也必须相同。",
+  "rule_guide.item_3": "数字所在位置可以不同，比较的是两组中的数字及其出现次数。"
+}

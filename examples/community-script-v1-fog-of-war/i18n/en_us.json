@@ -1,0 +1,10 @@
+{
+  "variant.title": "Fog of War Sudoku",
+  "variant.description": "Solve the Sudoku while correct entries reveal nearby hidden cells.",
+  "rule_guide.title": "Fog of War Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "At the start, each given digit and the cells immediately around it are revealed.",
+  "rule_guide.item_3": "Enter the correct digit in a revealed cell to reveal that cell and the cells immediately around it.",
+  "rule_guide.item_4": "Wrong digits and notes do not reveal new cells."
+}

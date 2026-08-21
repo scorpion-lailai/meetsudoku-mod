@@ -1,0 +1,10 @@
+{
+  "variant.title": "Disjoint Groups Sudoku",
+  "variant.description": "Cells in the same relative position across the nine boxes cannot repeat.",
+  "rule.disjoint_group_repeat": "Digits cannot repeat within a disjoint group.",
+  "rule_guide.title": "Disjoint Groups Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "The nine cells in the same relative position across the nine boxes form a group.",
+  "rule_guide.item_3": "Each group must contain the digits 1 through 9 without repetition."
+}

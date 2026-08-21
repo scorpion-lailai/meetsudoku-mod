@@ -1,0 +1,9 @@
+{
+  "variant.title": "Anti-Knight Sudoku",
+  "variant.description": "Equal digits may not be separated by a chess-knight move.",
+  "rule.anti_knight_equal": "A knight's move cannot contain equal digits.",
+  "rule_guide.title": "Anti-Knight Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Two equal digits may not be separated by a chess knight move."
+}

@@ -1,0 +1,10 @@
+{
+  "variant.title": "计数圆圈数独",
+  "variant.description": "每个标记区域内，数字 d 必须恰好出现 d 次。",
+  "rule.counting_circles": "如果圆圈区域中出现数字 d，那么该区域必须恰好包含 d 个数字 d。",
+  "rule_guide.title": "计数圆圈规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "在每个标记区域内，数字 d 必须恰好出现 d 次，包括当前这个数字所在的格子。",
+  "rule_guide.item_3": "各标记区域互不影响；未标记的格子不受计数圆圈规则限制。"
+}

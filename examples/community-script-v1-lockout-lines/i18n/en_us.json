@@ -1,0 +1,10 @@
+{
+  "variant.title": "Lockout Lines Sudoku",
+  "variant.description": "The diamond endpoints of each line differ by at least 4. Every other digit on that line lies outside the two endpoint digits.",
+  "rule.lockout_lines": "The diamond endpoints of each line differ by at least 4. Every other digit on that line lies outside the two endpoint digits.",
+  "rule_guide.title": "Lockout Lines Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each line has a diamond at both ends.",
+  "rule_guide.item_2": "The two diamond digits must differ by at least 4.",
+  "rule_guide.item_3": "Every other digit on the line must be smaller than both diamond digits or larger than both."
+}

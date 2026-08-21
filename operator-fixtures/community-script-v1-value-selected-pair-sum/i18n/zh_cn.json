@@ -1,0 +1,8 @@
+{
+  "variant.title": "按值选位和值运算符验证",
+  "variant.description": "用于验证按值选取两个位置并求和运算符的非可玩样例。",
+  "rule_guide.title": "按值选位和值验证规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "两个 selector 格中的数字选择有序九格序列中的位置。",
+  "rule_guide.item_2": "两个被选中的数字之和必须等于固定目标值。"
+}

@@ -1,0 +1,9 @@
+{
+  "variant.title": "数比数独",
+  "variant.description": "不等号的开口朝向较大的数字，尖端朝向较小的数字。",
+  "rule_guide.title": "数比数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "不等号的开口朝向较大的数字，尖端朝向较小的数字。",
+  "rule_guide.item_3": "没有不等号标记的相邻格不增加额外的大小限制。"
+}

@@ -1,0 +1,9 @@
+{
+  "variant.title": "连数线数独",
+  "variant.description": "每条紫色连数线上的数字互不重复，并能以任意顺序组成一组连续数字。",
+  "rule.renban": "每条紫色连数线上的数字互不重复，并能以任意顺序组成一组连续数字。",
+  "rule_guide.title": "连数线数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "同一条紫色连数线上的数字不能重复。",
+  "rule_guide.item_2": "每条线上的数字组成一组连续数字，但在线上的排列顺序不限。"
+}

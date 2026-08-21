@@ -1,0 +1,8 @@
+{
+  "variant.title": "克隆數獨",
+  "variant.description": "兩個同形區域中相對位置相同的格子必須填入相同數字。",
+  "rule_guide.title": "克隆數獨規則",
+  "rule_guide.section_title": "規則說明",
+  "rule_guide.item_1": "每一行、每一列和每個 3×3 宮內的數字都不能重複。",
+  "rule_guide.item_2": "兩個同形區域形狀和方向相同；相對位置相同的格子必須填入相同數字。"
+}

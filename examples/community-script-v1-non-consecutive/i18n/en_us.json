@@ -1,0 +1,9 @@
+{
+  "variant.title": "Non-Consecutive Sudoku",
+  "variant.description": "Orthogonally adjacent cells may not contain consecutive digits.",
+  "rule.non_consecutive_adjacent": "Orthogonally adjacent cells cannot contain consecutive digits.",
+  "rule_guide.title": "Non-Consecutive Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Orthogonally adjacent cells may not contain consecutive digits."
+}

@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 6,
+  "levels": true,
+  "daily": {
+    "mode": "random",
+    "seed": "community_script_v1_clone_daily_v1"
+  }
+}

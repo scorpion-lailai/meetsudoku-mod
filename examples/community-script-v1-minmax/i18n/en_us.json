@@ -1,0 +1,9 @@
+{
+  "variant.title": "MinMax Sudoku",
+  "variant.description": "A marked cell must be smaller or larger than all of its orthogonal neighbors.",
+  "rule_guide.title": "MinMax Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "An inward-triangle cell is smaller than all of its orthogonal neighbors; an outward-triangle cell is larger than all of them.",
+  "rule_guide.item_3": "For example, if a Minimum cell contains 3, every orthogonal neighbor must be greater than 3."
+}

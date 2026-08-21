@@ -1,0 +1,10 @@
+{
+  "variant.title": "Fortress Sudoku",
+  "variant.description": "Every shaded cell is greater than each orthogonally adjacent unshaded cell.",
+  "rule.fortress": "Every shaded cell is greater than each orthogonally adjacent unshaded cell.",
+  "rule_guide.title": "Fortress Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Every shaded cell is greater than each unshaded cell directly above, below, left or right of it.",
+  "rule_guide.item_2": "For example, a shaded 6 may touch an unshaded 4, but it cannot touch an unshaded 7.",
+  "rule_guide.item_3": "Two adjacent cells with the same shading have no extra Fortress relationship."
+}

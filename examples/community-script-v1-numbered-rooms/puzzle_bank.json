@@ -1,0 +1,5055 @@
+{
+  "schemaVersion": 2,
+  "puzzles": [
+    {
+      "difficulty": 1,
+      "puzzle": "000000000000010020621408095050080047008300209007001603080074530000802970000190802",
+      "solution": "749265318835719426621438795253986147168347259497521683982674531316852974574193862",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "754009200680234007090715000060001700010000536000673009000100070006020490000040005",
+      "solution": "754869213681234957293715648369581724817492536425673189948156372576328491132947865",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "065290710030006400019000200100000000000160009970000000501072006602905074307601050",
+      "solution": "465298713238716495719543268154329687823167549976854321591472836682935174347681952",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "040062180000000040580130006000920000900300200230700000095010728610080000827090630",
+      "solution": "749562183361879542582134976178926354956348217234751869495613728613287495827495631",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "632018000000620010501070602000180097000369004018042003000406001024800000000050008",
+      "solution": "632518479497623815581974632346185297275369184918742563853496721124837956769251348",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "009051600010020895007000140000070900780060401296080700108002000900800504500000086",
+      "solution": "829451637413627895657398142341275968785963421296184753168542379972836514534719286",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "005710630106050904203094000052040007060000008001800050500106020017000090004589000",
+      "solution": "945718632186352974273694581852941367769235148431867259598176423617423895324589716",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "080306000001940083073802010300070058000039700000568030000620009702093005000004300",
+      "solution": "284316597561947283973852614326471958815239746497568132138625479742193865659784321",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "900204051086000907015079000004000030091026004607040090560002078700085000008000200",
+      "solution": "973264851286513947415879623824951736391726584657348192569132478742685319138497265",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "047695010000203079000001200030004028970802000000050107190000756050100300060030900",
+      "solution": "247695813615283479389741265531974628976812534428356197193428756754169382862537941",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "090008000100000020500060001000600070408027160763800040009000030005070209806239000",
+      "solution": "692718354137594628584362791921643875458927163763851942279185436315476289846239517",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "706000900002946000008002060000001603861000070003400809080005030005104298000000006",
+      "solution": "716358924352946781948712365479281653861539472523467819284695137635174298197823546",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "749002001026400080300000000000070060500068970807200100001704005000806004005000820",
+      "solution": "749582631126437589358691247912375468534168972867249153681724395293856714475913826",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000089700000070209700000380301750006000401900007000518000002000000900800572830104",
+      "solution": "623189745814375269759624381391758426285461973467293518948512637136947852572836194",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000063000005400973040570000082015300010040000000006021431950260000600000067004000",
+      "solution": "179263485625481973843579612982715346716342859354896721431958267598627134267134598",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "702503068310040050004690700000070000100000806400080175008905010000000503000020004",
+      "solution": "792513468316847259584692731865174392137259846429386175248935617971468523653721984",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "004800100000307652500000080000003240073580000068002005016009004002400507000001090",
+      "solution": "624895173189347652537126489951673248273584961468912735816759324392468517745231896",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "002090008000070200080000040830009076704850902001400005003040891000100704000906000",
+      "solution": "572694138146378259389521647835219476764853912291467385653742891928135764417986523",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000080273010230005003004100000700010020000030400000506345800729002040680000000304",
+      "solution": "954681273618237945273594168869753412521469837437128596345816729792345681186972354",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "078926004000080207420070008840030000302008700010000600280090070000810092000002000",
+      "solution": "178926534693584217425371968849637125362158749517249683281495376756813492934762851",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "080000010009080500234901607702030000000205003093000100000010006000760000007520901",
+      "solution": "586472319179683524234951687752136498418295763693847152925314876841769235367528941",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "300287406004000000006940001000009000100530200008600000200451009001000503005000812",
+      "solution": "319287456754163928826945731462719385197538264538624197283451679671892543945376812",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "900000310006000050300090670000020000607008043030070260003205090264009030090000800",
+      "solution": "952647318476813952318592674149326785627958143835471269783265491264189537591734826",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000003009030000700200060834300700948000020000950006000105002407023940000004070300",
+      "solution": "476813259538294761219567834362751948841329576957486123185632497723948615694175382",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "900000240080000050002009080003718000724590308000030709000003000000407890800005400",
+      "solution": "965871243387642951142359687693718524724596318518234769456983172231467895879125436",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "100004800003000900024003157002000000508409270700000000946080000085090600000346000",
+      "solution": "197524863653871924824963157412657398538419276769238415946185732385792641271346589",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "280600104000200080007008000000304600000720018800900000500009203308401000700032040",
+      "solution": "285697134416253987937148526172384695693725418854916372541879263328461759769532841",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000500036030006000010000590600080009080003654903000870108059003000000000200368100",
+      "solution": "829541736537296418416837592651784329782913654943625871178459263364172985295368147",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000564000764000500005980430400000900800090052090001080000300000000005070040720361",
+      "solution": "389564127764132598125987436452876913817493652693251784976318245231645879548729361",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000701000900050600000009070009127000007090234020040700700014060600000340002006980",
+      "solution": "238761495971453628564289173349127856157698234826345719793814562685972341412536987",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "003900700002000000060007000050409300620003000094200081501600200800512406000700000",
+      "solution": "483951762712346598965827143158469327627183954394275681541638279879512436236794815",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "060000000041050800020000900000405638080000000670190054000010427407000010009003006",
+      "solution": "965824173341957862728361945192475638584236791673198254836519427457682319219743586",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "600027504000095000008006273000210000002003000305080900007900025200050700500002000",
+      "solution": "613827594724395861958146273486219357192573486375684912847931625261458739539762148",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "640009000830240600000030009070052190000004000065700002092071000000400000710080030",
+      "solution": "647819523839245671251637489478352196923164758165798342392571864586423917714986235",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000090304910703508000402007000200060700056040000000000023900400050004271007000030",
+      "solution": "276598314914763528385412697598241763731856942642379185123987456859634271467125839",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "300040600000310000100006738003000860000060090590800000601007500054032000800090040",
+      "solution": "385749612762318954149256738213974865478561293596823471631487529954632187827195346",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "001690000000580000000431802002140070000000003000070006000704300003910024104006700",
+      "solution": "281697435349582167675431892962143578517869243438275916896724351753918624124356789",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "032890007500004100000056230105000020000000070900507301204900006000040003000170000",
+      "solution": "432891567567234198819756234175368429328419675946527381254983716781642953693175842",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000000900040000000105090064000209070000580012302701000920030005800650020500900300",
+      "solution": "273416958649825137185397264418269573796583412352741896927138645831654729564972381",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000000380060500497009000012601000008020600050540000060906000103000106000005087040",
+      "solution": "452971386168523497379864512691745238823619754547238961986452173734196825215387649",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000004000000000005600059824010468003060500040590000000200813009001000002000000080",
+      "solution": "925784361148632795637159824712468953863591247594327618256813479481976532379245186",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000304000802700009300290400200070000007400000008000204100040600050000003020030081",
+      "solution": "975314862842765139361298457234679518517482396698153274183947625756821943429536781",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000070809000400000091020640009008200300000008000009105000007310000042057000150000",
+      "solution": "645371829832496571791825643519768234326514798478239165254987316183642957967153482",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000600024005000900002700000006080040000000003814003200000206001090430008607800000",
+      "solution": "973651824465328917182749536536182749729564183814973265358296471291437658647815392",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "010080930000030004000061000100005000000000005520074009043000001670240050050000007",
+      "solution": "215487936769532184384961572137695248496823715528174369943758621671249853852316497",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "500040709020050000006000020702380001304200980000790000409028600000000000000100000",
+      "solution": "583642719927851346146937528792385461354216987861794235419528673638479152275163894",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "008659000000000000090070080010030054000000000005000100020063700040912060050407900",
+      "solution": "238659471671824593594371286912738654463195827785246139129563748847912365356487912",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 8
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "004050380005000000008004006000506200700102008060000000500400001000005734040000850",
+      "solution": "274651389615893427938724516491586273753142698862379145527438961189265734346917852",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 5
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000500000001760090075300020020100680008000007000020000400900061000806530006000900",
+      "solution": "943582716281764395675319428524197683198653247367428159432975861719846532856231974",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 6
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 8
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 9
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 5
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 8
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 6
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "050730800370000000029004013200000900000020008604090325060000000000005200080009000",
+      "solution": "456731892371982564829564713238456971795123648614897325567248139943615287182379456",
+      "rules": {
+        "numbered_rooms": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "digit": 7
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "digit": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "digit": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "digit": 6
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "digit": 9
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "digit": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "digit": 7
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "digit": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "digit": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "digit": 9
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "digit": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "digit": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "digit": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "digit": 7
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "digit": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "digit": 2
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

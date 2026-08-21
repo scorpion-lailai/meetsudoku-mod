@@ -1,0 +1,9 @@
+{
+  "variant.title": "温度计数独",
+  "variant.description": "每条温度计从圆头到末端必须严格递增。",
+  "rule.thermometer_order": "温度计上的数字必须严格递增。",
+  "rule_guide.title": "温度计数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "每条温度计上的数字必须从圆头到末端严格递增。"
+}

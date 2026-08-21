@@ -1,0 +1,10 @@
+{
+  "variant.title": "Counting Circles Sudoku",
+  "variant.description": "In each marked group, a digit d must appear exactly d times.",
+  "rule.counting_circles": "If digit d appears in a circle group, it must appear exactly d times in that group.",
+  "rule_guide.title": "Counting Circles Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "In a marked group, every digit d must occur exactly d times, including its own cell.",
+  "rule_guide.item_3": "Marked groups are independent; unmarked cells have no Counting Circles restriction."
+}

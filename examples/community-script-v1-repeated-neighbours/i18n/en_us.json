@@ -1,0 +1,11 @@
+{
+  "variant.title": "Repeated Neighbours Sudoku",
+  "variant.description": "Every cell tells whether its orthogonal neighbours contain a repeated digit.",
+  "rule.repeated_neighbours_gray": "A gray cell has at least one equal pair among its orthogonal neighbours.",
+  "rule.repeated_neighbours_white": "An unshaded cell has no equal pair among its orthogonal neighbours.",
+  "rule_guide.title": "Repeated Neighbours Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "For every gray cell, at least two cells directly above, below, left, or right of it must contain the same digit.",
+  "rule_guide.item_3": "For every unshaded cell, all cells directly above, below, left, or right of it must contain different digits. The center cell itself is not compared."
+}

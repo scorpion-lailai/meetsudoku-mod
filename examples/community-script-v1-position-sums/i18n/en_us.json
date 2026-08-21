@@ -1,0 +1,9 @@
+{
+  "variant.title": "Position Sums Sudoku",
+  "variant.description": "The first two digits select two positions; the two outside lanes show their direct sum and selected-position sum.",
+  "rule_guide.title": "Position Sums Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Rows, columns, and 3x3 boxes contain no repeated digit.",
+  "rule_guide.item_2": "For each directed clue line, the first two digits are A and B. The first lane is A+B.",
+  "rule_guide.item_3": "The second lane is the sum of the digits at positions A and B, counted from the shown side."
+}

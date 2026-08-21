@@ -1,0 +1,8 @@
+{
+  "variant.title": "No Boxes Sudoku",
+  "variant.description": "Each row and column contains every digit once. The standard 3x3 boxes are not used.",
+  "rule_guide.title": "No Boxes Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row and each column must contain the digits 1 through 9 without repeats.",
+  "rule_guide.item_2": "The standard 3x3 boxes do not apply in this variant."
+}

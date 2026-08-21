@@ -1,0 +1,10 @@
+{
+  "variant.title": "堡垒数独",
+  "variant.description": "每个阴影格都必须大于与它正交相邻的非阴影格。",
+  "rule.fortress": "每个阴影格都必须大于与它正交相邻的非阴影格。",
+  "rule_guide.title": "堡垒数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "每个阴影格都必须大于它上、下、左、右直接相邻的非阴影格。",
+  "rule_guide.item_2": "例如阴影格填 6 时，相邻非阴影格可以填 4，但不能填 7。",
+  "rule_guide.item_3": "两个相邻格如果阴影状态相同，堡垒规则不在它们之间增加关系。"
+}

@@ -1,0 +1,11 @@
+{
+  "variant.title": "Kropki Sudoku",
+  "variant.description": "White dots mark consecutive digits. Black dots mark a 1:2 ratio.",
+  "rule.kropki_consecutive": "The white dot cells must contain consecutive digits.",
+  "rule.kropki_ratio2": "The black dot cells must contain digits in a 1:2 ratio.",
+  "rule_guide.title": "Kropki Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "A white dot means the two connected digits must be consecutive.",
+  "rule_guide.item_3": "A black dot means one connected digit must be exactly twice the other."
+}

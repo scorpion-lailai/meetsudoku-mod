@@ -1,0 +1,10 @@
+{
+  "variant.title": "Zipper Lines Sudoku",
+  "variant.description": "Two cells equally distant from the center of a zipper line must sum to the center digit.",
+  "rule.zipper_lines": "Two cells equally distant from the center of a zipper line must sum to the center digit.",
+  "rule_guide.title": "Zipper Lines Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each zipper line has one center cell marked by a diamond.",
+  "rule_guide.item_2": "Two cells equally distant from the center must sum to the digit in the center cell.",
+  "rule_guide.item_3": "For example, if the center is 7, the two cells next to it must sum to 7, and the next outer pair must also sum to 7."
+}

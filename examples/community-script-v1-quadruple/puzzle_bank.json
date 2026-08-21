@@ -1,0 +1,8421 @@
+{
+  "schemaVersion": 2,
+  "puzzles": [
+    {
+      "difficulty": 1,
+      "puzzle": "310785460080000005760000000870000049400000021000340000000610000000000000900003700",
+      "solution": "319785462284136975765294138872561349453978621691342587548617293137429856926853714",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                1,
+                5,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                9,
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                9,
+                1,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                6,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                5,
+                6,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                1,
+                7,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                9,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                9,
+                4,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                2,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                7,
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                3,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 4
+              },
+              "digits": [
+                4,
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                5,
+                1,
+                4
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "038000002000000000000030094050000273007300001002070005000720000800104300200900600",
+      "solution": "738649512549217836126538794451896273987352461362471985693725148875164329214983657",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                6,
+                2,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                4,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                7,
+                8,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                5,
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                5,
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                5,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                1,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                9,
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                9,
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                5,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                6,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                2,
+                9,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000060008600020035200000040700000019000607052000000467000000000080050000530070026",
+      "solution": "943561278618724935275893641764285319391647852852139467427916583186352794539478126",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                8,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                1,
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                4,
+                3,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                7,
+                6,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                8,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                6,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 2
+              },
+              "digits": [
+                5,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 4
+              },
+              "digits": [
+                1,
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 8
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                6,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                2,
+                1
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "003560087000004900900000000237800000000000008000001002000900000019600500700300869",
+      "solution": "143569287625784931978123645237895416491276358586431792362958174819647523754312869",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                1,
+                6,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                4,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                1,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 4
+              },
+              "digits": [
+                2,
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                6,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                3,
+                5,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                5,
+                3,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                3,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 8
+              },
+              "digits": [
+                2,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                7,
+                1,
+                2
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "400500600200003000000004000790000053620000010140000009900070006860000004300000098",
+      "solution": "439582671287163945516794382798216453625439817143857269954378126861925734372641598",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 8
+              },
+              "digits": [
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                7,
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                4,
+                5,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                6,
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                4,
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                5,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 4
+              },
+              "digits": [
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                7,
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                4,
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                8,
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                2,
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 4
+              },
+              "digits": [
+                9,
+                6
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "473000005009000000861524000000869500000072300000000007600007001000000003700000004",
+      "solution": "473698125529713468861524739317869542958472316246135987685347291194256873732981654",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                1,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                1,
+                4,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                6,
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                6,
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                7,
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 8
+              },
+              "digits": [
+                2,
+                1,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                5,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                1,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 4
+              },
+              "digits": [
+                3,
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                9,
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 4
+              },
+              "digits": [
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                5,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                8,
+                7,
+                6
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "574001806930000042800000700000080000000000000000320000000910003100800000369700500",
+      "solution": "574231896936578142821694735613487259285169374497325618758916423142853967369742581",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                2,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                1,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                3,
+                5,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                1,
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                8,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 3
+              },
+              "digits": [
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 8
+              },
+              "digits": [
+                5,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                9,
+                7,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                6,
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                5,
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                4,
+                9,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                5,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                8,
+                1
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000028410000900367000000528000032690000000203000000040100000004000000000072100086",
+      "solution": "567328419821945367394761528748532691956814273213679845185296734639487152472153986",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                6,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                9,
+                4,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                7,
+                8,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                6,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                1,
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                3,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                5,
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                9,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                7,
+                5,
+                3
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "009000460000000025000000000805000000006308000000007002001030096560080047090064010",
+      "solution": "359872461617493825248516973825641739976328154134957682481735296562189347793264518",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                8,
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                7,
+                9,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                7,
+                4,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                6,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                1,
+                6,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                6,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                7,
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                9,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                5,
+                2,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                2,
+                1,
+                2
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000000096000000000800000000960000000438000009000300008000154002204683007000972010",
+      "solution": "571238496629415873843796521967841235438527169152369748796154382214683957385972614",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                1,
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                2,
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 2
+              },
+              "digits": [
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                5,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                7,
+                3,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                7,
+                7,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                6,
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                2,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                2,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                1,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                5,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                7,
+                4,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                3,
+                8,
+                9
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "090037000000000000000000056000000015005000068169080000602090000900708002700004680",
+      "solution": "596237841834651297217849356328976415475312968169485723682593174941768532753124689",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                6,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                4,
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 8
+              },
+              "digits": [
+                1,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                8,
+                3,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                6,
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                2,
+                9,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                1,
+                3,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                7,
+                8,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                9,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                3,
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                2,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                4,
+                5,
+                3
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "700003000430000001050000020820100036510200008090000002300000509200506000100000000",
+      "solution": "761423895432895671958671423824157936513269748697348152346782519279516384185934267",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                2,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                7,
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                4,
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                5,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                7,
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                7,
+                3,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                4,
+                8,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                1,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                8,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000625940000300061000000200000000000409000000000082000900003000040091026060007819",
+      "solution": "137625948284379561596148237853914672429736185671582493918263754745891326362457819",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                1,
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                7,
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                5,
+                9,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                7,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                6,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                4,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 8
+              },
+              "digits": [
+                8,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                1,
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                1,
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                9,
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                8,
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                8,
+                2,
+                4
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000000502008000036096300087603700050020000040080000003000020009700000004300060005",
+      "solution": "134876592578942136296351487613794258925638741487215963851423679762589314349167825",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                1,
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                8,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                4,
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                2,
+                1,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                6,
+                7,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 4
+              },
+              "digits": [
+                6,
+                3,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                8,
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                5,
+                9,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                5,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                6,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                6,
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                2,
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                3,
+                7,
+                8
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "800200003246000001500000026125000008037002410000163072000000000000000000000900000",
+      "solution": "871256943246379851593841726125497368637582419489163572354618297912734685768925134",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                9,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                7,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                7,
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                1,
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                4,
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                8,
+                5,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                5,
+                9,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                8,
+                4,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 8
+              },
+              "digits": [
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                6,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                8,
+                4
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "200080010060007030100000678400000560000000090009300040002000051750000080900000004",
+      "solution": "297683415865147239134295678478921563316574892529368147642839751753412986981756324",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                7,
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                1,
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                5,
+                2,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                8,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                8,
+                8,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                8,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 4
+              },
+              "digits": [
+                3,
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 4
+              },
+              "digits": [
+                1,
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                1,
+                2,
+                6
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "130080006800030050090654000001400000500800004600500000000048001000760300000010000",
+      "solution": "135987426864132759792654183381426975527893614649571238973248561418765392256319847",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                5,
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                7,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                3,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                9,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 2
+              },
+              "digits": [
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                6,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                1,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                2,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 1
+              },
+              "digits": [
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                4,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "600004590000000700800000230700500040000200000008000000065400983400300000390806000",
+      "solution": "672134598534982716819675234726593841153248679948761352265417983487329165391856427",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                6,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                9,
+                2,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                7,
+                9,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                9,
+                3,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                8,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                8,
+                1,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 8
+              },
+              "digits": [
+                7,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                8,
+                9,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                1,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                6,
+                5,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "001000003006400000375820009734080000580000070000200000000900000400600000293000001",
+      "solution": "941765823826493715375821649734186592582349176169257384617934258458612937293578461",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                6,
+                5,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 8
+              },
+              "digits": [
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                1,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                4,
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                1,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                6,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                1,
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                4,
+                2,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                3,
+                6
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000620040009500080814300005300200004156000009400000018000000053000030000000000002",
+      "solution": "537628941269541387814397625398215764156784239472963518921876453785432196643159872",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                5,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                2,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                5,
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                6,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                2,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                7,
+                6,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                6,
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                8,
+                5,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 4
+              },
+              "digits": [
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                1,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "920040003700000009000000004000200100000000600000000005000000001859360007132000986",
+      "solution": "925846713741523869386719254694235178573198642218674395467982531859361427132457986",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                8,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                7,
+                3,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                2,
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                8,
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                8,
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                1,
+                9,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                4,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 8
+              },
+              "digits": [
+                7,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                3,
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                8,
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                7,
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                3,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                5,
+                4
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "002000876000000395000000402040000008265000947970042000000004000000000001000050000",
+      "solution": "192435876784261395653798412341679258265813947978542163516324789427986531839157624",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                1,
+                7,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                5,
+                6,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                6,
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                9,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                6,
+                8,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                7,
+                9,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                8,
+                5,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                1,
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                1,
+                2,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                6,
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 4
+              },
+              "digits": [
+                3,
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                6,
+                5,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                3,
+                6,
+                2
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "500000000400800009000000500000000400000000010010400090000000280000183050140529736",
+      "solution": "581294673467835129329671548853912467694357812712468395935746281276183954148529736",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                1,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                9,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                6,
+                1,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                9,
+                6,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                7,
+                1,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                4,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                8,
+                5,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 3
+              },
+              "digits": [
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                9,
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                5,
+                6,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                7,
+                8,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                6,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                3,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "200000783800560092090200001000600000000000000006001000640000000780000600950800004",
+      "solution": "265914783817563492394278561538649127179325846426781359642157938783492615951836274",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                5,
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                8,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                5,
+                1,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                8,
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                1,
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 8
+              },
+              "digits": [
+                2,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                5,
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 4
+              },
+              "digits": [
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                5,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                2,
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                9,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 8
+              },
+              "digits": [
+                3,
+                8,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                9,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                2,
+                6,
+                2
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "008200105920503000100000700800009200000780036009000000081000000000040007600000002",
+      "solution": "348276195927513684156894723835469271214785936769132458481327569592648317673951842",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                5,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                9,
+                4,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                2,
+                1,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                5,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 4
+              },
+              "digits": [
+                3,
+                3,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                2,
+                2,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                4,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                6,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                9,
+                2,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 4
+              },
+              "digits": [
+                6,
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                3,
+                8
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000715089000002006590006001007000064030000097100000000000009048000000000005070002",
+      "solution": "326715489471892356598346271987231564632584197154967823213659748749128635865473912",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                6,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                8,
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                3,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                9,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                3,
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                2,
+                5,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                4,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                4,
+                9,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 4
+              },
+              "digits": [
+                6,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                1,
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 1
+              },
+              "digits": [
+                4,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                6,
+                3
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "810600950000000012000100030000500000061300005035000068490000000000070009007900000",
+      "solution": "814623957359748612672195834248567391761389425935412768496851273183276549527934186",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                3,
+                4,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                3,
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 2
+              },
+              "digits": [
+                5,
+                7,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                6,
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                8,
+                9,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                1,
+                2,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                6,
+                3,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                2,
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                2,
+                5,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 1
+              },
+              "digits": [
+                1,
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                4,
+                1
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "001005248000000001304081950000000000000000000200600100400100580100400007000800400",
+      "solution": "961735248825946371374281956749312865618594723253678194497163582182459637536827419",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                6,
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                3,
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                5,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                7,
+                4,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                4,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                4,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                3,
+                1,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                2,
+                4,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 8
+              },
+              "digits": [
+                5,
+                2,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 8
+              },
+              "digits": [
+                3,
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                5,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                7,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                6,
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                5,
+                9,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "200689170600000800000000096000004080000370000000000000000000000010000058067895320",
+      "solution": "243689175679512834158437296531264789896371542724958613985123467312746958467895321",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                2,
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                1,
+                5,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                4,
+                1,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                4,
+                3,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                8,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 2
+              },
+              "digits": [
+                9,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                5,
+                4,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                5,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                6,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                5,
+                1,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                3,
+                6
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "800027400000508001005310000000000046000200003000080027000000004000070059400090002",
+      "solution": "813927465296548371745316298128739546579264183634185927961852734382471659457693812",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                1,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                2,
+                9,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                2,
+                8,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                9,
+                6,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                1,
+                5,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                1,
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                2,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                2,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                2,
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                4,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                6,
+                3
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "050000409670000032000000001000090005300000806006840027000000000001000000492170000",
+      "solution": "153287469678419532924365781287691345349752816516843927835926174761534298492178653",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                8,
+                1,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                8,
+                4,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                4,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                2,
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                4,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                1,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                3,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 4
+              },
+              "digits": [
+                9,
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                6,
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                4,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                8,
+                5,
+                3
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000954618001000950050000070030000080005009007010000095000000030003000004008400000",
+      "solution": "372954618481726953956813472739541286265389147814672395647298531593167824128435769",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                7,
+                4,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                2,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                1,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                2,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 4
+              },
+              "digits": [
+                8,
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 4
+              },
+              "digits": [
+                7,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                6,
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 1
+              },
+              "digits": [
+                5,
+                9,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                7,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000070090760000000000000000000000635846000000503100000610930000008000009005408061",
+      "solution": "451873296769542183382619547197284635846357912523196874614935728238761459975428361",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                2,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                9,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                2,
+                9,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                3,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                1,
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                8,
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                4,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                9,
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 8
+              },
+              "digits": [
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                7,
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                7,
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 1
+              },
+              "digits": [
+                2,
+                3,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000040973000500008000000000000000000180000094030000001000350000700180400651090307",
+      "solution": "568241973219573648347869512972614835186735294435928761894357126723186459651492387",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                5,
+                6,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                7,
+                2,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                8,
+                6,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                6,
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                5,
+                1,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                1,
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                4,
+                8,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                2,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                7,
+                6,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                4,
+                2,
+                3
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "806100030943206100750000000200000016065000003400000000500000000600000040000500002",
+      "solution": "826175934943286157751934268289753416165429783437861529598642371612397845374518692",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                4,
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                4,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 4
+              },
+              "digits": [
+                4,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                9,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                3,
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                2,
+                9,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                9,
+                8,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                2,
+                7,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 2
+              },
+              "digits": [
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                8,
+                8,
+                6
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000041000003200004000900002006597000000000603000000000600380000007024000035000841",
+      "solution": "762841935953276184184953762316597428529418673478632519641385297897124356235769841",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                6,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                9,
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                8,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                3,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                5,
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                9,
+                4,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                3,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                7,
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                2,
+                5,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                9,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 8
+              },
+              "digits": [
+                5,
+                6
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "045870000600004000000005006004000500190000004070000081450007820080000000000058000",
+      "solution": "945876132637124958812935746264781593198563274573249681456317829781492365329658417",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                1,
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 8
+              },
+              "digits": [
+                3,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                1,
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                1,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                8,
+                1,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                9,
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                5,
+                9,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                8,
+                5,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                3,
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                3,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 4
+              },
+              "digits": [
+                2,
+                3,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                4,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                3,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                6,
+                5,
+                1
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "500070003700050000830000000040000000602510000910700000100200004070000008268000090",
+      "solution": "521476983794853126836921457347692815682514379915738642153289764479165238268347591",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                1,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                8,
+                1,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                2,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                6,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                2,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                2,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                5,
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                1,
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 8
+              },
+              "digits": [
+                5,
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 8
+              },
+              "digits": [
+                9,
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                5,
+                2
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000060000600042009400008000000000000915000006060700005892630004706000000100000900",
+      "solution": "589163247671542389423978651247356198915284736368719425892631574736495812154827963",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                3,
+                2,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                7,
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                6,
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                1,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                4,
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 6
+              },
+              "digits": [
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                5,
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 4
+              },
+              "digits": [
+                8,
+                2
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000206791000030002020000000000400000000300000468000000005600000007050000384127900",
+      "solution": "543286791179534682826971345931462578752398164468715239295643817617859423384127956",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                4,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                9,
+                6,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                8,
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                7,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 6
+              },
+              "digits": [
+                3,
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                4,
+                7,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                2,
+                5,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 8
+              },
+              "digits": [
+                7,
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 8
+              },
+              "digits": [
+                4,
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                5,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                1,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                2,
+                9,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                3,
+                5,
+                6
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "200008357000007000000050000000006100000000073000000048600200091002400000908700030",
+      "solution": "216948357395627814487153962834576129521894673769312548673285491152439786948761235",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                9,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                9,
+                6,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                9,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                7,
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                2,
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                2,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                2,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                4,
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                9,
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                3,
+                6,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                7,
+                1
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000008370000009540009143000000002000000000000003760000001390720798000000020000000",
+      "solution": "164528379832679541579143682456832197217954863983761254641395728798216435325487916",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                6,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                5,
+                2,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                8,
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                5,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 1
+              },
+              "digits": [
+                4,
+                5,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 3
+              },
+              "digits": [
+                6,
+                8,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 6
+              },
+              "digits": [
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                6,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 8
+              },
+              "digits": [
+                6,
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                9,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 4
+              },
+              "digits": [
+                1,
+                4,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                4,
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                3,
+                5,
+                6
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000250079000000800000008000800002004000000036000100298000900000002600005301520000",
+      "solution": "618253479245769813973418562867392154129845736534176298456987321782631945391524687",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                6,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                4,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                6,
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                6,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                1,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                5,
+                1,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                3,
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                2,
+                5,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 2
+              },
+              "digits": [
+                3,
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 1
+              },
+              "digits": [
+                5,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                4,
+                6,
+                8
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "003924000000610000009530000000003100200001300000000290000009480800000000960080000",
+      "solution": "583924617724618539619537824498253176276891345135746298357169482842375961961482753",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                8,
+                7,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 8
+              },
+              "digits": [
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                8,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 1
+              },
+              "digits": [
+                4,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                5,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 4
+              },
+              "digits": [
+                8,
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                1,
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                5,
+                7,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 4
+              },
+              "digits": [
+                1,
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 3
+              },
+              "digits": [
+                2,
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                9,
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                6,
+                5,
+                3
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "800000070020000000400000360000004000012970000540030000060000100235700000980600000",
+      "solution": "853496271126357489479218365398164752612975843547832916764529138235781694981643527",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                3,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 4
+              },
+              "digits": [
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                6,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                5,
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                9,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 4
+              },
+              "digits": [
+                2,
+                1,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                8,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 8
+              },
+              "digits": [
+                4,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                8,
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                7,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                1,
+                6,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                2,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                8,
+                4,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                1,
+                3,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                9,
+                2,
+                7
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "800032751000006924400000600200000000000000000000000009600000007000600012750040006",
+      "solution": "869432751317856924425719683274398165193567248586124379631285497948673512752941836",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                9,
+                7,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 3
+              },
+              "digits": [
+                8,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 2
+              },
+              "digits": [
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 8
+              },
+              "digits": [
+                8,
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                7,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                9,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                1,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 8
+              },
+              "digits": [
+                5,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                1,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                5,
+                6,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 6
+              },
+              "digits": [
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                6,
+                1,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                2,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 6
+              },
+              "digits": [
+                3,
+                1,
+                8
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000002000000003201900007900000058800000000000000000000690000102040309394070605",
+      "solution": "635784192479125863281936547913462758846357921527819436758693214162548379394271685",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 1
+              },
+              "digits": [
+                6,
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 2
+              },
+              "digits": [
+                5,
+                7,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 3
+              },
+              "digits": [
+                5,
+                9,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                8,
+                4,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                1,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                2,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                8,
+                6,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                1,
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 3
+              },
+              "digits": [
+                3,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 5
+              },
+              "digits": [
+                6,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                9,
+                2,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 8
+              },
+              "digits": [
+                3,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 1
+              },
+              "digits": [
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                9,
+                3,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                6,
+                1,
+                4
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "053000042000094008000000007400000006000003000000005003300056080100079000006030900",
+      "solution": "953867142721594368864312597432981756578623419619745823397456281185279634246138975",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 2,
+                "column": 1
+              },
+              "digits": [
+                7,
+                8,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 2
+              },
+              "digits": [
+                1,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                4,
+                3,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 7
+              },
+              "digits": [
+                5,
+                7,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 2
+              },
+              "digits": [
+                2,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                5,
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 1
+              },
+              "digits": [
+                5,
+                7,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 2
+              },
+              "digits": [
+                1,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 3
+              },
+              "digits": [
+                8,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 4
+              },
+              "digits": [
+                2,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 2
+              },
+              "digits": [
+                7,
+                8,
+                5
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 7
+              },
+              "digits": [
+                2,
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 8
+              },
+              "digits": [
+                3,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                3,
+                5
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "035400600000500000080000005790000000560043009020070000000000000840000106006000902",
+      "solution": "235418697679532841184796325791685234568243719423971568952167483847329156316854972",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 5
+              },
+              "digits": [
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 8
+              },
+              "digits": [
+                4,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 5
+              },
+              "digits": [
+                2,
+                9,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 6
+              },
+              "digits": [
+                2,
+                8,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                8,
+                4,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 3
+              },
+              "digits": [
+                4,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                2,
+                3,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 7
+              },
+              "digits": [
+                7,
+                5,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 3
+              },
+              "digits": [
+                2,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                1,
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                5,
+                6,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 8
+              },
+              "digits": [
+                6,
+                8,
+                8
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 3
+              },
+              "digits": [
+                2,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 7,
+                "column": 5
+              },
+              "digits": [
+                7,
+                2,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 5
+              },
+              "digits": [
+                2,
+                9,
+                4
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "600020008019000000080000000800000007491000003560800009000300005932007000000002000",
+      "solution": "675421938319768452284935176823594617491276583567813249146389725932157864758642391",
+      "rules": {
+        "quadruple": {
+          "clues": [
+            {
+              "intersection": {
+                "row": 1,
+                "column": 6
+              },
+              "digits": [
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 1,
+                "column": 7
+              },
+              "digits": [
+                9,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 4
+              },
+              "digits": [
+                7,
+                6,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 7
+              },
+              "digits": [
+                4,
+                5,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 2,
+                "column": 8
+              },
+              "digits": [
+                5,
+                2,
+                6
+              ]
+            },
+            {
+              "intersection": {
+                "row": 3,
+                "column": 5
+              },
+              "digits": [
+                3,
+                9,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 4
+              },
+              "digits": [
+                5,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 4,
+                "column": 7
+              },
+              "digits": [
+                6,
+                1
+              ]
+            },
+            {
+              "intersection": {
+                "row": 5,
+                "column": 5
+              },
+              "digits": [
+                7,
+                3
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 5
+              },
+              "digits": [
+                1,
+                8,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 6
+              },
+              "digits": [
+                3,
+                9,
+                7
+              ]
+            },
+            {
+              "intersection": {
+                "row": 6,
+                "column": 7
+              },
+              "digits": [
+                2,
+                2
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 4
+              },
+              "digits": [
+                6,
+                4
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 7
+              },
+              "digits": [
+                8,
+                9
+              ]
+            },
+            {
+              "intersection": {
+                "row": 8,
+                "column": 8
+              },
+              "digits": [
+                9,
+                1
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

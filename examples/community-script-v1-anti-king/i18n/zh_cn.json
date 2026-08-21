@@ -1,0 +1,8 @@
+{
+  "variant.title": "反国王数独",
+  "variant.description": "相同数字不能在王步相邻位置相接。",
+  "rule_guide.title": "反国王数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "任意两个相同数字不能以国际象棋国王的一步相邻，包括斜向相邻。"
+}

@@ -1,0 +1,9 @@
+{
+  "variant.title": "反骑士数独",
+  "variant.description": "骑士步相隔的两个格子不能填入相同数字。",
+  "rule.anti_knight_equal": "骑士步相隔的格子不能填入相同数字。",
+  "rule_guide.title": "反骑士数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "任意两个相同数字不能处在国际象棋骑士步相隔的位置。"
+}

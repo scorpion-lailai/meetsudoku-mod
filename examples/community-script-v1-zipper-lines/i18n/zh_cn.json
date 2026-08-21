@@ -1,0 +1,10 @@
+{
+  "variant.title": "拉链线数独",
+  "variant.description": "距拉链线中心相同距离的两个格子，其数字之和必须等于中心格数字。",
+  "rule.zipper_lines": "距拉链线中心相同距离的两个格子，其数字之和必须等于中心格数字。",
+  "rule_guide.title": "拉链线数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "每条拉链线都有一个带菱形标记的中心格。",
+  "rule_guide.item_2": "在线上距中心相同距离的两个格子，其数字之和必须等于中心格数字。",
+  "rule_guide.item_3": "例如中心格是 7，紧邻中心的两个格子之和必须是 7，再外侧的一对也必须是 7。"
+}

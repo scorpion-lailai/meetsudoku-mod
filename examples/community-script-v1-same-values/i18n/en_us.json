@@ -1,0 +1,10 @@
+{
+  "variant.title": "Same Values Sudoku",
+  "variant.description": "Regions with the same label contain the same digits, including repeated digits.",
+  "rule.same_values": "The two regions carrying the same label have identical digit multisets.",
+  "rule_guide.title": "Same Values Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "The two regions marked with the same letter must contain the same digits.",
+  "rule_guide.item_3": "The order of the digits does not matter, but repeated digits must occur the same number of times in both regions."
+}

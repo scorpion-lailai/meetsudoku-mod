@@ -1,0 +1,9 @@
+{
+  "variant.title": "位置和值数独",
+  "variant.description": "前两格数字决定两个位置，盘外两条提示分别表示前两格之和与选中位置数字之和。",
+  "rule_guide.title": "位置和值数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每行、每列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "沿提示方向，前两格数字记为 A 和 B；第一条提示等于 A+B。",
+  "rule_guide.item_3": "第二条提示等于从提示方向数第 A 格和第 B 格中的数字之和。"
+}

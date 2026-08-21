@@ -1,0 +1,10 @@
+{
+  "variant.title": "Consecutive Sudoku",
+  "variant.description": "Only explicitly marked orthogonal edges require a digit difference of 1.",
+  "rule.consecutive": "The cells joined by a marked edge must differ by 1.",
+  "rule_guide.title": "Consecutive Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "The two cells joined by a marked orthogonal edge must differ by 1.",
+  "rule_guide.item_3": "Unmarked adjacent edges add no extra restriction."
+}

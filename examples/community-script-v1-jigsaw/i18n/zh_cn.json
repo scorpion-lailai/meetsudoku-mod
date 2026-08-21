@@ -1,0 +1,9 @@
+{
+  "variant.title": "锯齿宫数独",
+  "variant.description": "每个题目定义的不规则区域内不能重复数字。",
+  "rule.jigsaw_region_repeat": "不规则区域内不能重复数字。",
+  "rule_guide.title": "锯齿宫数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行和每一列内的数字都不能重复。",
+  "rule_guide.item_2": "每个标出的不规则宫内数字都不能重复。"
+}

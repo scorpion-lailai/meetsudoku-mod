@@ -1,0 +1,9 @@
+{
+  "variant.title": "Thermometer Sudoku",
+  "variant.description": "Digits must strictly increase from each thermometer bulb to its tip.",
+  "rule.thermometer_order": "Digits must strictly increase along the thermometer.",
+  "rule_guide.title": "Thermometer Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Digits on each thermometer must strictly increase from bulb to tip."
+}

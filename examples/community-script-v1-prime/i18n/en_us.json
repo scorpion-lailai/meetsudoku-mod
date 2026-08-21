@@ -1,0 +1,10 @@
+{
+  "variant.title": "Prime Sudoku",
+  "variant.description": "Cells marked with P may contain only prime digits: 2, 3, 5 or 7.",
+  "rule.prime": "Cells marked with P may contain only prime digits: 2, 3, 5 or 7.",
+  "rule_guide.title": "Prime Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Cells marked with P may contain only prime digits.",
+  "rule_guide.item_2": "The prime digits in this rule are 2, 3, 5 and 7.",
+  "rule_guide.item_3": "Unmarked cells have no extra Prime rule restriction and follow normal Sudoku rules."
+}

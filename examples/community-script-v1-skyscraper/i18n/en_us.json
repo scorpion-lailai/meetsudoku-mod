@@ -1,0 +1,10 @@
+{
+  "variant.title": "Skyscraper Sudoku",
+  "variant.description": "Each outside clue counts the buildings visible from that side of its row or column.",
+  "rule.skyscraper": "Each outside clue counts the buildings visible from that side of its row or column.",
+  "rule_guide.title": "Skyscraper Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "The digits 1 to 9 are building heights. A taller building hides every shorter building behind it.",
+  "rule_guide.item_2": "Starting at the clue side, count a building only when it is taller than every building seen before it.",
+  "rule_guide.item_3": "For a fixed left clue of 4, read 2 1 4 3 6 5 9 8 7 from left to right: 2 is visible, 1 is hidden by 2, then 4, 6 and 9 become new tallest buildings, for 4 visible buildings in total."
+}

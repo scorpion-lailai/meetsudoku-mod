@@ -1,0 +1,8 @@
+{
+  "variant.title": "Exact-Sum Constant Operator Fixture",
+  "variant.description": "A non-playable proof of a fixed sum across two to four cells.",
+  "rule_guide.title": "Exact-Sum Constant Fixture",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "The marked cells must add up to the shown target.",
+  "rule_guide.item_2": "This technical fixture validates one fixed target across two to four distinct cells."
+}

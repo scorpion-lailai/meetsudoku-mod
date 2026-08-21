@@ -1,0 +1,10 @@
+{
+  "variant.title": "模数线数独",
+  "variant.description": "每条线上连续三格的数字，除以 3 后得到的余数必须各不相同。",
+  "rule.modular_lines": "每条线上连续三格的数字，除以 3 后得到的余数必须各不相同。",
+  "rule_guide.title": "模数线数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "在线上任取连续三格，把其中的数字分别除以 3，三个余数必须各不相同。",
+  "rule_guide.item_3": "例如连续三格是 1、5、9，余数分别是 1、2、0，因此符合规则。"
+}

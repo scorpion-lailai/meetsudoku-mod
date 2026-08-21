@@ -1,0 +1,9 @@
+{
+  "variant.title": "Renban Lines Sudoku",
+  "variant.description": "Digits on each purple line form a non-repeating consecutive set in any order.",
+  "rule.renban": "Digits on each purple line are distinct and form a consecutive set in any order.",
+  "rule_guide.title": "Renban Lines Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Digits cannot repeat on a purple Renban line.",
+  "rule_guide.item_2": "The digits on each line form a consecutive set, but may appear in any order."
+}

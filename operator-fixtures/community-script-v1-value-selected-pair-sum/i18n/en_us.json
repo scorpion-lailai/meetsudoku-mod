@@ -1,0 +1,8 @@
+{
+  "variant.title": "Value-Selected Pair Sum Operator Fixture",
+  "variant.description": "A non-playable proof of the value-selected pair-sum operator.",
+  "rule_guide.title": "Value-Selected Pair Sum Fixture",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "The two selector digits choose positions in an ordered nine-cell sequence.",
+  "rule_guide.item_2": "The two selected digits must add up to the fixed target."
+}

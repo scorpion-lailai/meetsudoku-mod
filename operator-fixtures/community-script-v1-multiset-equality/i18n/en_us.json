@@ -1,0 +1,9 @@
+{
+  "variant.title": "Multiset Equality Operator Fixture",
+  "variant.description": "A technical reference for two groups containing the same digit frequencies in any order.",
+  "rule_guide.title": "Multiset Reference Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "The two specified groups must contain the same digits with the same occurrence counts.",
+  "rule_guide.item_3": "The positions may differ; only each digit's frequency in the two groups is compared."
+}

@@ -1,0 +1,10 @@
+{
+  "variant.title": "连续数独",
+  "variant.description": "只有明确标记的正交边要求两格数字之差为 1。",
+  "rule.consecutive": "标记边连接的两格必须填入相差 1 的数字。",
+  "rule_guide.title": "连续数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3×3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "题面标记的正交边两端必须填入相差 1 的数字。",
+  "rule_guide.item_3": "没有标记的相邻边不增加额外限制。"
+}

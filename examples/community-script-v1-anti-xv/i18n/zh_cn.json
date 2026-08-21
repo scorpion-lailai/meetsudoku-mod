@@ -1,0 +1,9 @@
+{
+  "variant.title": "反 XV 数独",
+  "variant.description": "上下左右相邻两格之和不能是 5 或 10。",
+  "rule.anti_xv_adjacent_sum": "上下左右相邻两格之和不能是 5 或 10。",
+  "rule_guide.title": "反 XV 数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "任意上下左右相邻的两格之和都不能是 5 或 10。"
+}

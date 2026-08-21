@@ -1,0 +1,10 @@
+{
+  "variant.title": "质数数独",
+  "variant.description": "带 P 标记的格子只能填质数数字 2、3、5、7。",
+  "rule.prime": "带 P 标记的格子只能填质数数字 2、3、5、7。",
+  "rule_guide.title": "质数数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "带 P 标记的格子只能填质数数字。",
+  "rule_guide.item_2": "本规则中的质数数字是 2、3、5、7。",
+  "rule_guide.item_3": "没有 P 标记的格子不受质数规则限制，仍按普通数独规则填写。"
+}

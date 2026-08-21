@@ -1,0 +1,9 @@
+{
+  "variant.title": "Dynamic Index Operator Fixture",
+  "variant.description": "A technical reference for selecting one cell from an ordered sequence by another cell's digit.",
+  "rule_guide.title": "Dynamic Index Reference Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Read the digit in the index cell as a position from 1 through 9 in the ordered sequence.",
+  "rule_guide.item_3": "The digit in the selected sequence cell must equal the target value."
+}

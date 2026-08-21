@@ -1,0 +1,4315 @@
+{
+  "schemaVersion": 2,
+  "puzzles": [
+    {
+      "difficulty": 1,
+      "puzzle": "008500090002309050930104000000000000000001000001600500503000210000406900000250000",
+      "solution": "618572493742389651935164782376945128459821367821637549563798214287416935194253876",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 24
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 31
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 11
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000000000000000653040078210407200000000000008000083001030710402001400007000800000",
+      "solution": "312569874798124653645378219487251936163947528259683741836715492521496387974832165",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 7
+              },
+              "direction": "up_left",
+              "value": 47
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 31
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 43
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 11
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 19
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "060000000000261795000850100000004500000108000000006017100000806002000300070000002",
+      "solution": "561497238384261795927853164216974583745138629893526417139742856452689371678315942",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 42
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 50
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 27
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 3
+              },
+              "direction": "up_right",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "006300802000000003500000000030000968060000000000000350000000106600083005408200709",
+      "solution": "146395872782461593593872641235147968964538217871629354329754186617983425458216739",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 19
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 45
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 19
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 0
+              },
+              "direction": "down_left",
+              "value": 1
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 31
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "040850000050070020000000008400000070270003000000007653001000260000130780000000100",
+      "solution": "146852397859371426732649518463518972275963841918427653381794265624135789597286134",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 4
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 24
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 37
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "500003000000070000980400000000100000205907080040000091000094007400200008000706009",
+      "solution": "527813946364579812981462735896145273215937684743628591658394127479251368132786459",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 45
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 44
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "540030000000000704018002090000200006002001007003600000184000000060000000907060040",
+      "solution": "546739128239816754718452693891247536652391487473685219184573962365924871927168345",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 53
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 5
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 0
+              },
+              "direction": "up_right",
+              "value": 60
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 16
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 24
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 31
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 5
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 32
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "050000700000040000091000006510060000000005000900070013109020070400090000705006080",
+      "solution": "654831792273649158891752436512963847347185629986274513169428375438597261725316984",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 7
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 34
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 39
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 43
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 26
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 27
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 14
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000210000050740000000008290503924000970600800000007020000000000010400000025090000",
+      "solution": "896213475251749638437568291583924167972651843164387529649835712318472956725196384",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 57
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 5
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 5
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 34
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 11
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 0
+              },
+              "direction": "down_left",
+              "value": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "400030002000009000000000090000873024000000009002000000020007946700300280000004310",
+      "solution": "489735162231649578567218493915873624648152739372496851123587946794361285856924317",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 11
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 48
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 23
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 27
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 35
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 23
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "002000304000000070070040100803000000050280000006730200030000000000300600017006090",
+      "solution": "162975384548613972379842165823564719751289436496731258634198527985327641217456893",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 10
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 10
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 45
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 34
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 31
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 3
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 0
+              },
+              "direction": "up_right",
+              "value": 45
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "047003510000700000800000600000000097000070000071000030006040000003000700004630901",
+      "solution": "647823519139765248852419673365281497928374156471596832716942385293158764584637921",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 26
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 0
+              },
+              "direction": "up_right",
+              "value": 52
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 52
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 24
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 34
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000000000009807010006000000003000006500060098000080300060005700805001900090030060",
+      "solution": "738156429459827613126943875983714256574362198612589347361295784845671932297438561",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 3
+              },
+              "direction": "up_right",
+              "value": 34
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 0
+              },
+              "direction": "up_right",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 16
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 51
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 10
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "050900001302000905001075026015000000700600000209000000000080009030000000000504000",
+      "solution": "657932841382461975491875326815293467743658192269147538174386259538729614926514783",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 41
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 35
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 17
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 1
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 17
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 16
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000038060000710000023900000309007080708100004002309000000000700006000000000800600",
+      "solution": "971438562645712893823965417319547286758126934462389175194653728586271349237894651",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 35
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 47
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 16
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 2
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 33
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "461002080039000020572010030000000060000003000200000040610000003080051000000000000",
+      "solution": "461932587839567124572418936743185269196243875258796341614829753387651492925374618",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 31
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 19
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 26
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 41
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 27
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000005009680010453000080601000040020000100000090026000001050002000400000070000500",
+      "solution": "314675289687912453529384671136549827248137965795826134961758342852493716473261598",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 46
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 0
+              },
+              "direction": "down_left",
+              "value": 3
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 0
+              },
+              "direction": "up_right",
+              "value": 50
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 7
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 17
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 16
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000000000000002800020300405060100000000030090008920600200051976090007050000000000",
+      "solution": "451768239936542817827319465369174528542836791718925643283451976194687352675293184",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 16
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 10
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 7
+              },
+              "direction": "up_left",
+              "value": 42
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 48
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 0
+              },
+              "direction": "up_right",
+              "value": 48
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000080003814500072000704000700002000000800720000000000000040050000000140400007068",
+      "solution": "572186493814593672963724581746932815359861724128475936281649357637258149495317268",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 35
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 38
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 10
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 19
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 51
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "030250000000000000405008300000800000803000060900013000050700900704900052020000000",
+      "solution": "138257496267349518495168327546892731813475269972613845651724983784936152329581674",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 0
+              },
+              "direction": "down_left",
+              "value": 1
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 43
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 3
+              },
+              "direction": "up_right",
+              "value": 27
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 3
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 14
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000000000007603200400000000601750020700004006000900075000401000030000749006000000",
+      "solution": "965247381817693254423815967691758423752134896384926175579481632138562749246379518",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 10
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 23
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 17
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000050030370060000900100000090000301703500200500000046000000905007000000000007810",
+      "solution": "281754639375269184964138527896472351743516298512893746628341975137985462459627813",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 39
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 46
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 35
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 0
+              },
+              "direction": "down_left",
+              "value": 2
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "005020000000050000080300400002400000004182000008509000001007500900600802800000000",
+      "solution": "315724698426958713789361425532476981694182357178539264261847539957613842843295176",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 50
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 27
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 44
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "002003805800200700007000300000800200000000000003102090008000900001000030200901050",
+      "solution": "692713845835294761147586329516849273429357186783162594368425917951678432274931658",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 16
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 23
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 17
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 44
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000000000601040380200001000000483000003902000000000009002090500000000027400605008",
+      "solution": "348276915671549382295831476926483751713952864854167239162798543589314627437625198",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 4
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 45
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 7
+              },
+              "direction": "up_left",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 59
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "007520000090000000002300000050000080304059600870640030000000008708000000100000003",
+      "solution": "617528349493176852582394761956713284324859617871642935235467198748931526169285473",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 49
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 37
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000210030305070020000060000007080004040007980500000000436000000800000060050800000",
+      "solution": "694218735315479826728563419167982354243657981589341672436725198872194563951836247",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 44
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 35
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "600000005003070060800000701000600008006001007004980000300002180000008006000090000",
+      "solution": "671824395523179864849563721732645918986231457154987632367452189495318276218796543",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 24
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 34
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 38
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 27
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000700000300050000086120540010030000000200000000009010403007200000000000008304670",
+      "solution": "125746893347958162986123547714835926569271384832469715493687251671592438258314679",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 17
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 34
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 10
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 3
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 5
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 42
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 49
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 35
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000600040500294108000000000390000400007000003000302000700006001000501004000400020",
+      "solution": "938615742576294138124837965392758416687149253415362897743926581269581374851473629",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 38
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 54
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "003001000050000001040008000302000590000003000900005003090002000078000900030009060",
+      "solution": "823591746659734821147268359362147598785923614914685273496372185578416932231859467",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 0
+              },
+              "direction": "up_right",
+              "value": 41
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 23
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 39
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 46
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 35
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "300042000000086000000013002060000000000000020703050600078000045000200000900074000",
+      "solution": "317542869452986371689713452861427593594638127723159684278361945146295738935874216",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 52
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 17
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 31
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 51
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 24
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 34
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "080070000007089000000035000200010003000090000070000900008000039105048070000000050",
+      "solution": "382674591517289346964135287259817463831496725476523918648752139195348672723961854",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 4
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 41
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 40
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 24
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "600000108000000300000104500060005000000002000400780000004920030000408007100070000",
+      "solution": "645239178912857364837164592261345789578692413493781625754926831326418957189573246",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 24
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 47
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 31
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 25
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "006050120530710800002000070100000000000080001200070000800307009000020000040000000",
+      "solution": "786459123539712864412638975168543297397286451254971638821367549975824316643195782",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 39
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 31
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 35
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 52
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 13
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "800000040200000000000900000400000700003500400080000000300090000940700820500328100",
+      "solution": "895276341236451978714983265452839716673512489189647532328194657941765823567328194",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 23
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 0
+              },
+              "direction": "down_left",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "074050000610832709809460000000090007000000900007000010000005000060000000000009000",
+      "solution": "374951862615832749829467153156398427432176985987524316798245631561783294243619578",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 2
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 16
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 0
+              },
+              "direction": "up_right",
+              "value": 43
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 50
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000000000921000300003001002000089001000000000010000200040300000000004000102097634",
+      "solution": "758932416921465387463871592634289751275143968819756243546328179397614825182597634",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 16
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 31
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 35
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 3
+              },
+              "direction": "up_right",
+              "value": 23
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 24
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 14
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "080000000300100500000000800000000009510400002008200057002300610003060000000001004",
+      "solution": "685943271324187596791652843236715489517498362948236157452379618173864925869521734",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 43
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 7
+              },
+              "direction": "up_right",
+              "value": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000600000000000673860000900000050092000080406000260500000020009006000000000040067",
+      "solution": "359674821412895673867132954638451792125987436974263518581726349746319285293548167",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 50
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 35
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 43
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 17
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 6
+              },
+              "direction": "up_left",
+              "value": 35
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 16
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000200000000008206003094000009060040000000000000000009891000004270080000600921000",
+      "solution": "568217493947358216123694578319862745456739182782145369891573624275486931634921857",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 44
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 41
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 4
+              },
+              "direction": "up_right",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 48
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 3
+              },
+              "direction": "down_left",
+              "value": 14
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "600000004900000020027380005094527000000030400000000009082000001000000000000003070",
+      "solution": "653792814918456723427381695394527186261839457875614239782945361536178942149263578",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 34
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 27
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 4
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 36
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 45
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 15
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 35
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "400800000650100720390000050000400008900000001000000000102080000076200003000060000",
+      "solution": "427895136658143729391726854763451298985672341214938675142389567576214983839567412",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 43
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 2
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 30
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 3
+              },
+              "direction": "up_right",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 27
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000600820600000090700000070501000000000002300200740630020850000000410000000200",
+      "solution": "157893624823645179496712385274531968918476532365289741639124857582967413741358296",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 6
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 8
+              },
+              "direction": "down_left",
+              "value": 48
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 5
+              },
+              "direction": "down_left",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 27
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 3
+              },
+              "direction": "up_right",
+              "value": 31
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000070000300149970100605207010006000000400000000000000600010800000950000801000",
+      "solution": "461259873528367149973184625237418596189576432645923781792645318816732954354891267",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 47
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 38
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 38
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 4
+              },
+              "direction": "up_left",
+              "value": 29
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 7
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 5
+              },
+              "direction": "up_right",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 38
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 23
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "103004000000300090600000050000001005000090431000038000000000000800043007052006000",
+      "solution": "193654872578312694624987153739461285286795431415238769347829516861543927952176348",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 14
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 17
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 2
+              },
+              "direction": "up_right",
+              "value": 32
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 16
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 33
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "900000200000002000000006503000000120006508009001000640700000402060400000200000060",
+      "solution": "954837216638152974172946583597364128426518739381279645713685492869421357245793861",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 5
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 1
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 18
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 4
+              },
+              "direction": "down_right",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 0
+              },
+              "direction": "down_left",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 20
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 11
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "700000000000000000000003000502700000083000720001030080000000003060001490130500062",
+      "solution": "794162358315897246826453917542718639983645721671239584458926173267381495139574862",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 5
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 5
+              },
+              "direction": "up_left",
+              "value": 25
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 1
+              },
+              "direction": "up_left",
+              "value": 11
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 1
+              },
+              "direction": "down_left",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 46
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 5
+              },
+              "direction": "down_right",
+              "value": 23
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 1
+              },
+              "direction": "down_right",
+              "value": 32
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000060930000000006081002048000907000800600790000100007020090000600040004000000",
+      "solution": "481235769932746815576981432648513927213897654795462183857124396329678541164359278",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 6
+              },
+              "direction": "up_right",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 6
+              },
+              "direction": "down_left",
+              "value": 46
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 7
+              },
+              "direction": "down_right",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 8
+              },
+              "direction": "down_right",
+              "value": 1
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 4
+              },
+              "direction": "down_left",
+              "value": 22
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 7
+              },
+              "direction": "down_left",
+              "value": 37
+            },
+            {
+              "entry": {
+                "side": "top",
+                "index": 2
+              },
+              "direction": "down_left",
+              "value": 9
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 0
+              },
+              "direction": "down_right",
+              "value": 44
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 46
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "050390020080000750000007000026000080001000093008000000000200010013000502000000300",
+      "solution": "157394628389126754642587931426935187571468293938712465794253816813649572265871349",
+      "rules": {
+        "little_killer": {
+          "clues": [
+            {
+              "entry": {
+                "side": "right",
+                "index": 3
+              },
+              "direction": "up_left",
+              "value": 21
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 1
+              },
+              "direction": "up_right",
+              "value": 28
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 8
+              },
+              "direction": "up_left",
+              "value": 52
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 6
+              },
+              "direction": "down_right",
+              "value": 13
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 2
+              },
+              "direction": "up_left",
+              "value": 12
+            },
+            {
+              "entry": {
+                "side": "right",
+                "index": 0
+              },
+              "direction": "up_left",
+              "value": 8
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 3
+              },
+              "direction": "down_right",
+              "value": 26
+            },
+            {
+              "entry": {
+                "side": "left",
+                "index": 2
+              },
+              "direction": "down_right",
+              "value": 33
+            },
+            {
+              "entry": {
+                "side": "bottom",
+                "index": 8
+              },
+              "direction": "up_right",
+              "value": 9
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

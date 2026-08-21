@@ -1,0 +1,10 @@
+{
+  "variant.title": "Composite Sudoku",
+  "variant.description": "Cells marked with C may contain only composite digits: 4, 6, 8 or 9.",
+  "rule.composite": "Cells marked with C may contain only composite digits: 4, 6, 8 or 9.",
+  "rule_guide.title": "Composite Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Cells marked with C may contain only composite digits.",
+  "rule_guide.item_2": "The composite digits in this rule are 4, 6, 8 and 9. The digit 1 is neither prime nor composite.",
+  "rule_guide.item_3": "Unmarked cells have no extra Composite rule restriction and follow normal Sudoku rules."
+}

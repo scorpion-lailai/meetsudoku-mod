@@ -1,0 +1,8 @@
+{
+  "variant.title": "Anti-King Sudoku",
+  "variant.description": "Equal digits may not touch by a king move.",
+  "rule_guide.title": "Anti-King Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Two equal digits may not be adjacent by a chess king move, including diagonals."
+}

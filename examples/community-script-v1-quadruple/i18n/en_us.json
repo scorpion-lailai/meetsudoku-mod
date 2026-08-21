@@ -1,0 +1,11 @@
+{
+  "variant.title": "Quadruple Sudoku",
+  "variant.description": "Digits shown in a circle must appear in the four cells surrounding that intersection.",
+  "rule.quadruple": "Each circled digit must appear in the four surrounding cells.",
+  "rule_guide.title": "Quadruple Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Every digit shown in a white circle must appear in one of the four cells surrounding that intersection.",
+  "rule_guide.item_3": "If a digit appears more than once in a circle, it must appear the same number of times in the surrounding cells.",
+  "rule_guide.item_4": "A circle may show fewer than four digits; unshown digits and intersections without a circle add no extra restriction."
+}

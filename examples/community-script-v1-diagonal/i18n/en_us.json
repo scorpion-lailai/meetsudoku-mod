@@ -1,0 +1,10 @@
+{
+  "variant.title": "Diagonal Sudoku",
+  "variant.description": "Digits cannot repeat on either main diagonal.",
+  "rule.diagonal_repeat": "Digits cannot repeat on the same diagonal.",
+  "rule.single_diagonal_repeat": "Digits cannot repeat on the same diagonal.",
+  "rule_guide.title": "Diagonal Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Digits may not repeat on either of the two main diagonals."
+}

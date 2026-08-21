@@ -1,0 +1,9 @@
+{
+  "variant.title": "159 Sudoku",
+  "variant.description": "In each row, cells 1, 5, and 9 contain column numbers; the cells they point to must contain 1, 5, and 9 respectively.",
+  "rule_guide.title": "159 Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Check three locator cells in each row. If cell 1 contains N, cell N in that row must contain 1. If cell 5 contains N, cell N must contain 5; if cell 9 contains N, cell N must contain 9.",
+  "rule_guide.item_3": "For example, if the first cell of a row contains 4, count to the fourth cell from the left; it must contain 1. If the fifth cell contains 7, the seventh cell must contain 5."
+}

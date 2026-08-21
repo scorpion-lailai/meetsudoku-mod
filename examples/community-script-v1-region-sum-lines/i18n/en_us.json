@@ -1,0 +1,10 @@
+{
+  "variant.title": "Region Sum Lines Sudoku",
+  "variant.description": "Each continuous part of a line inside a 3x3 box has the same sum.",
+  "rule.region_sum_lines": "All box segments on the same line have the same sum.",
+  "rule_guide.title": "Region Sum Lines Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Split each line whenever it crosses into another 3x3 box. Every resulting segment on that line must have the same sum.",
+  "rule_guide.item_3": "If a line leaves a box and later returns, the separate parts inside that box are counted as separate segments."
+}

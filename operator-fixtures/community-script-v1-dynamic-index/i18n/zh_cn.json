@@ -1,0 +1,9 @@
+{
+  "variant.title": "动态索引算子夹具",
+  "variant.description": "用于演示根据一个格子的数字，从有序九格序列中选择对应格子的技术参考。",
+  "rule_guide.title": "动态索引参考规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "索引格中的数字表示有序九格序列里的第几个位置，位置范围是 1 到 9。",
+  "rule_guide.item_3": "被选中格子的数字必须等于题目给出的目标值。"
+}

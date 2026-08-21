@@ -1,0 +1,10 @@
+{
+  "variant.title": "Entropy Sudoku",
+  "variant.description": "Every adjacent 2x2 window must contain low, middle, and high digits.",
+  "rule.entropy": "Every adjacent 2x2 window must contain at least one low, one middle, and one high digit.",
+  "rule_guide.title": "Entropy Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Digits are split into three bands: low digits 1, 2, 3; middle digits 4, 5, 6; and high digits 7, 8, 9.",
+  "rule_guide.item_2": "Every adjacent 2x2 window must contain at least one digit from each of the three bands.",
+  "rule_guide.item_3": "For example, 1 4 / 7 2 follows the rule. The window 1 2 / 4 5 does not because it has no high digit."
+}

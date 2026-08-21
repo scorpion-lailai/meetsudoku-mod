@@ -1,0 +1,9 @@
+{
+  "variant.title": "数字房间",
+  "variant.description": "盘外提示指向一行或一列：最靠近提示的第一格决定位置，该位置必须填提示数字。",
+  "rule_guide.title": "数字房间规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行、每一列和每个 3x3 宫内的数字都不能重复。",
+  "rule_guide.item_2": "从每个盘外提示向棋盘内数。最靠近提示的第一格若是 N，则该方向第 N 格必须填提示数字。",
+  "rule_guide.item_3": "例如，某行左侧提示是 5，且该行最左格是 4，则从左数第 4 格必须填 5。两端的提示彼此独立。"
+}

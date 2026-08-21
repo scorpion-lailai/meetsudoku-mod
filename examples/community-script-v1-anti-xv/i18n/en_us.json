@@ -1,0 +1,9 @@
+{
+  "variant.title": "Anti-XV Sudoku",
+  "variant.description": "Orthogonally adjacent cells may not sum to 5 or 10.",
+  "rule.anti_xv_adjacent_sum": "Orthogonally adjacent cells cannot sum to 5 or 10.",
+  "rule_guide.title": "Anti-XV Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Every orthogonally adjacent pair must not sum to 5 or 10."
+}

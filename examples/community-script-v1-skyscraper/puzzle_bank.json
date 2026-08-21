@@ -1,0 +1,5555 @@
+{
+  "schemaVersion": 2,
+  "puzzles": [
+    {
+      "difficulty": 1,
+      "puzzle": "195020000006803004000000000000192037930670100000008290020080000000900700760000080",
+      "solution": "195426873276853914843719562658192437932674158417538296529387641384961725761245389",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "018630050063045000000000000001000000000400001300000085235100740000078560806000003",
+      "solution": "918637254763245819452819637541982376687453921329761485235196748194378562876524193",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000000200000000010631009745009083000040900082000470901000305000000107009300098000",
+      "solution": "478651293592734816631829745129583674745916382863472951917365428286147539354298167",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "900000160000018000000000380092034010800090070105072030000900003010000096049080000",
+      "solution": "983425167657318249421769385792534618834196572165872934276941853318257496549683721",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "020708509500090200000205840000000000400070028000450091000000003000500080240000965",
+      "solution": "124768539587394216639215847972681354415973628368452791856129473793546182241837965",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 6
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 6
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000710400040000007720304000010548000400037000000001504098003000004000700000086940",
+      "solution": "836715429145892367729364158917548632452637891683921574598473216264159783371286945",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "502804000008000003000703082800000000300402050006581000020000000103007006087000031",
+      "solution": "532864179718259463964713582845396217391472658276581394629138745153947826487625931",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "007080950050000000460500007340800090000002000106000300509000203600030000083006049",
+      "solution": "237184956951627834468593127342871695895362471176459382519748263624935718783216549",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "304007000090205740700400009000320160100000000900000000000706090000900050070542016",
+      "solution": "354897621698215743721463589547329168183654972962178435215736894436981257879542316",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000000049947100000300080720000002000012000004000010006000031007076009080053860900",
+      "solution": "821376549947125638365984721684792153712653894539418276298531467176249385453867912",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "050010800310008900040070003600000092000500300000290008590060004080900010060000030",
+      "solution": "256319847317428956948675123675183492829546371431297568593761284784932615162854739",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000070010020003000400800302000540900050307180307100250000000000000080090800900607",
+      "solution": "639472815528613749471859362182546973956327184347198256294761538763285491815934627",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 6
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "090000040402060300706080000100000800600050090024800100200070030060503008040008000",
+      "solution": "893215647452967381716384952179432865638751294524896173285179436961543728347628519",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "400000800603000205000000000008090007001300008000004002309006020060231000125900060",
+      "solution": "497562831613489275852173946238695417941327658576814392389756124764231589125948763",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "078003100920000708031000904040700600312000000060100000000000283080000070003000006",
+      "solution": "478293165925461738631587924549738612312956847867124359794615283286349571153872496",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "009170050025900000000050000000240300002500000000010508031760980000090070907800000",
+      "solution": "489173652125986743763452819518249367672538491394617528231765984846391275957824136",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "010003006900070000000600107050002701601054930090700000040009005000500004028000000",
+      "solution": "715493286986271453432685197854932761671854932293716548347169825169528374528347619",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000000000130000004020100009008000053200000700900000018004070000371060905062980100",
+      "solution": "685429371139756824427138569718692453243815796956347218894571632371264985562983147",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "007000208000000050001000000015062904000018070000000010020000000546030120300021840",
+      "solution": "497153268683294751251786493715362984932418576864579312128945637546837129379621845",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "009000705078000290000040081010090820003058100006000000000004010400003900301009000",
+      "solution": "149862735678135294235947681514396827793258146826471359962784513487513962351629478",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "600500932000309000039000000007090003900170400010030009205000000068700090070000006",
+      "solution": "681547932752389614439612785547298163923176458816435279295861347368724591174953826",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 6
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000000600608040001002608075280006000030500000910000850167000080000005040000800900",
+      "solution": "471359628658247391392618475285496137734581269916723854167934582829165743543872916",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "509070028000000069000002050000600090670590000004000670000000030000705906706013000",
+      "solution": "519376428342158769867942351281637594673594182954281673125469837438725916796813245",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000300509600000783000760400000000170000004000740002906500090000410850000060200005",
+      "solution": "274318569651429783983765421325986174196574238748132956532691847417853692869247315",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "092000000030000809158670320910730005070000000000190076700000000081040000000000010",
+      "solution": "692483751437251869158679324916734285574862193823195476769318542281546937345927618",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "600008000280097640050300070509002708070005400000009006400000200310000000020003000",
+      "solution": "647218359283597641951346872569432718172865493834179526496781235315624987728953164",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "070800069890050070000400000000080200080009700300570098000000507000140906000060001",
+      "solution": "275831469894652173163497852947386215586219734312574698631928547758143926429765381",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000926000100007008900500070040060380300005000650800010800000560000000709067009000",
+      "solution": "478926153125347698936581274749162385381795426652834917894273561213658749567419832",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "070000000051000000600002075000000800004700300000020050810036009420090700936200500",
+      "solution": "279645138351987246648312975762153894594768312183429657817536429425891763936274581",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 6
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000082600806004007904100300001000000000246000300000020000000860492010503080000040",
+      "solution": "573982614816534297924167385261793458758246931349851726135479862492618573687325149",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "060000000842000079000000010650001843000000901304000000008600000401000065000409100",
+      "solution": "165927438842163579973854612659271843287346951314598726738615294491782365526439187",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "800600530003050690000900002409010060100406000500000400000000900000090100950062000",
+      "solution": "891624537243857691675931842489215763137486259526379418712543986364798125958162374",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "060039000480602030300050800010000053700300009238900000002100000000003000800006000",
+      "solution": "567839421489612537321457896916748253745321689238965714652194378174583962893276145",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "090000008820000400030000197950603800200895000000040000000002080060000742500000000",
+      "solution": "195476328827931465436258197951623874274895613683147259749362581368519742512784936",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000001000503020000012030067080000000004080090007003010000004970920308001000005300",
+      "solution": "769851234543627189812439567381792456254186793697543812138264975925378641476915328",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "037000008000000030010000050080000940009048000000003085050319060298000004000820000",
+      "solution": "637451298945287631812936457581762943379548126426193785754319862298675314163824579",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 6
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000026054592000100600900708006030817000640000720000060000009000000000009200050000",
+      "solution": "187326954592784136634915728946532817851647392723198465418269573365871249279453681",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "803600001000002390200008000000000080008000030709000120006004002000030809920087000",
+      "solution": "893645271564712398271398564132579486658421937749863125386954712417236859925187643",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 6
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "200001000040050716507000000000000080602830500300400900008600409020000000054090000",
+      "solution": "269741835843952716517368294495216387672839541381475962138627459926584173754193628",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000000000030060700054107082000608090040500000000001050490050000000900000700310945",
+      "solution": "187243569239865714654197382315628497846579231972431856493756128521984673768312945",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "040000235000534000300090004080040000020300000096000540000020050000470002032000010",
+      "solution": "948761235217534869365892174583946721724315698196287543479128356651473982832659417",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 6
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 6
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000020050900040020005009900040000010000002060010074000094010049000000081052097",
+      "solution": "493861725758923146126475839937246581514738962862519374275394618649187253381652497",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 6
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "029850701400000060300000050090302040040000080000406000004009000800007004072000300",
+      "solution": "629854731451273968387961452795382146146795283238416579564139827813527694972648315",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000009070000000200000007008800062009010005006509704812970000520000590000000200000",
+      "solution": "481629375657813294293457168834162759712985436569734812976348521328591647145276983",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 5
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "081000079004700000000002000000306000006007000897400000500200041000000598400930006",
+      "solution": "281563479654789213973142865145326987326897154897451632569278341732614598418935726",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 5
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 6
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000300000030029810760104000390000000600000000000090000100043000009508000800712650",
+      "solution": "918375426435629817762184593394856271687231945521497368156943782279568134843712659",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "900100500600700040700049010090503607000004050005900000000000060076002000009470000",
+      "solution": "943168572621735948758249316894513627317624859265987134482391765176852493539476281",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 1
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 5
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "084009000060000009009600408020008040000004800540201000005000000613400200490000000",
+      "solution": "284759316361842579759613428926538147137964852548271693875126934613497285492385761",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "800204000009007048074010530000003000000056000010000000000390000000001009090478305",
+      "solution": "865234971139567248274819536946183752382756194517942863428395617753621489691478325",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 1
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 4
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "count": 4
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "count": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "009600002320000000450012093608020017000040000000070004000000209010008000960007000",
+      "solution": "879635142321984765456712893648329517137546928295871634584163279713298456962457381",
+      "rules": {
+        "skyscraper": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "count": 6
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "count": 5
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "count": 3
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "count": 1
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "count": 2
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "count": 3
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "count": 2
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "count": 4
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "count": 2
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "variant.title": "无宫数独",
+  "variant.description": "每一行和每一列都必须填入 1 至 9，标准 3x3 宫不参与规则。",
+  "rule_guide.title": "无宫数独规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "每一行和每一列都必须包含数字 1 至 9，且不能重复。",
+  "rule_guide.item_2": "本变体不使用标准 3x3 宫。"
+}

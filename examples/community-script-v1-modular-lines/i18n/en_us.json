@@ -1,0 +1,10 @@
+{
+  "variant.title": "Modular Lines Sudoku",
+  "variant.description": "Every consecutive group of three digits on a line must have different remainders when divided by 3.",
+  "rule.modular_lines": "Every consecutive group of three digits on a line must have different remainders when divided by 3.",
+  "rule_guide.title": "Modular Lines Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "For every three consecutive cells on a line, divide the three digits by 3; their remainders must all be different.",
+  "rule_guide.item_3": "For example, 1, 5, and 9 leave remainders 1, 2, and 0, so this window satisfies the rule."
+}

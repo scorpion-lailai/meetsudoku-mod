@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 6,
+  "levels": true,
+  "daily": {
+    "mode": "sequential",
+    "seed": "community_script_v1_dynamic_index_fixture_daily_v1"
+  }
+}

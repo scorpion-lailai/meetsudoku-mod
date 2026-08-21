@@ -1,0 +1,3055 @@
+{
+  "schemaVersion": 2,
+  "puzzles": [
+    {
+      "difficulty": 1,
+      "puzzle": "000290000002080007008000005106047020004051000000009701400030800005000009019708053",
+      "solution": "571296384932584167648173295196347528724851936853629741467935812385412679219768453",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 1
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 16
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 33
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 44
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 28
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 30
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 24
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "sum": 21
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "040020100002600394160000000008300420000278000200090018450000080000100040080400003",
+      "solution": "943827156872615394165943872598361427614278539237594618456732981329186745781459263",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "sum": 45
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 28
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 9
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 31
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 11
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 26
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 3
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 26
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 17
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 24
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "930204800060000004000607291004082000005000100070041008000000000090000482800003056",
+      "solution": "937214865162859734548637291314582679285796143679341528456928317793165482821473956",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 30
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 24
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 23
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 34
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 41
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 1
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 31
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 11
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "080920010001000700002004008270038091006000000890701000009000086400010070000097400",
+      "solution": "687923514941586723532174968275438691316259847894761352759342186463815279128697435",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 21
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 24
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 28
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 43
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 10
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 16
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 18
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 29
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "500840030010052900489070600170096000008000400040000307050300000004008000901004000",
+      "solution": "562849731317652984489173625173496258298735416645281397856327149734918562921564873",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "sum": 25
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 26
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 23
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 26
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 9
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 40
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 5
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 38
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000000006000000093073080410084005600000000000301420975890000300032800100000003809",
+      "solution": "149352786628174593573986412284795631957631248361428975895217364432869157716543829",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 32
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 10
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 17
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 38
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 32
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 6
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 38
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "080002000600000000004800000006009003300708052000234001902401080107006020000025090",
+      "solution": "583612479679543218214897536826159743341768952795234861932471685157986324468325197",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 34
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 21
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 38
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 27
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 15
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 1
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 18
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 21
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 16
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000070300090004250000000080002090010089410630000800504070000005901000060650940800",
+      "solution": "168275349397184256245369187432596718589417632716823594874631925921758463653942871",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 40
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 41
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 21
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 20
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 1
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 3
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 31
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 10
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "065200001071050030004000060800002006002360007090801020000000009708046000010700008",
+      "solution": "365287491971654832284139765857492316142365987693871524436518279728946153519723648",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 39
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 18
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 24
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 12
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 40
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 39
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 19
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 17
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "023809050450000000800000002008520906060903000030601700040000060087002009000100040",
+      "solution": "723849651456217398819356472178524936562973184934681725241795863687432519395168247",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "sum": 39
+            },
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 17
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 29
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 17
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 33
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 18
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 44
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 32
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 13
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 36
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000064009006009010900017648050600000008903002379001000100000000690000070500700200",
+      "solution": "715864329846329715932517648251648937468973152379251486127495863693182574584736291",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 40
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 19
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 17
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 18
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 1
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 38
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 44
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 45
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000900200600300048010600000850039074079050600420008000980100000040000020060070001",
+      "solution": "738945216695312748214687935856239174379451682421768359987124563143596827562873491",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 26
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 41
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 32
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 21
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 43
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 9
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 32
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 5
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 13
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "200079340000024000100300000000000800003000910082000050456090070810500200300410060",
+      "solution": "265879341738124695194356782671945823543782916982631457456293178819567234327418569",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 27
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 17
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 12
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 33
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 41
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 9
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 32
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 17
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "601005370209003000700000209003000000000602005020080003060920030000367082000100600",
+      "solution": "641295378259873164738416259173549826984632715526781493867924531415367982392158647",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 7
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 31
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 34
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 33
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 30
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 19
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "sum": 24
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "080305010000640700501000040000293001904007020000160009049000100100038000200000090",
+      "solution": "487325916392641785561789342856293471914857623723164859649572138175938264238416597",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 44
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 33
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 39
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 32
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 16
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 26
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 14
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 38
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 34
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "006530004380001070900200000630050010800609000050008009020000005000925340000004001",
+      "solution": "216537984385491276947286153639752418871649532452318769724163895168925347593874621",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 43
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 14
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 5
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 24
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 21
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 40
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 33
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "070029800050030000000580700600005307007800000040700080000100000430050271800300065",
+      "solution": "173429856258637149964581723689245317527813694341796582795162438436958271812374965",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 45
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 34
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 40
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 34
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 22
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 41
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 36
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 44
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 13
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000000264425000000600000530290530000043000050000700040004013020300002010900670003",
+      "solution": "137859264425367198689241537298534671743126859561798342854913726376482915912675483",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "sum": 1
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 28
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 25
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 34
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 32
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 39
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "020006407007000510403007869000200006650040020000009000000400070200001095000950600",
+      "solution": "925816437867394512413527869174235986659748123382169754596483271248671395731952648",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 1
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 32
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 33
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 6
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 28
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 36
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "sum": 30
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 25
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "500090000009050400048601000080045106000080502052000300804000000003000001210004039",
+      "solution": "536498217129753468748621953387245196491386572652917384864139725973562841215874639",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 1
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 30
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 3
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 37
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 17
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 9
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 9
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 33
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 15
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 30
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "200000100015080002730602980000040006000127304070530001000004000090000008006000030",
+      "solution": "289475163615389472734612985351948726968127354472536891523894617197263548846751239",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 32
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 10
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 25
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 34
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 37
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 10
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 38
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "sum": 25
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000000000000010060000320000006045203024003856003000900200000085350001004001700630",
+      "solution": "635897412792514368418326597186945273924173856573268941267439185359681724841752639",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 1
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 17
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 3
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 30
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 32
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 13
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 42
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 22
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 33
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "081000270000020000900000600630001040000000000100004967040006059093800100010902080",
+      "solution": "481693275365728491927415638639571842874269513152384967248136759593847126716952384",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 31
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 6
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 36
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 17
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 44
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 35
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 9
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 38
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "407039000050000230002000740010002004278046051000050000000600000000000007069304005",
+      "solution": "487239516651478239392561748513782964278946351946153872825617493134895627769324185",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 31
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 9
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 21
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 16
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 20
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 18
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 17
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 19
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "900400000063007010000030908200000059004000080650000240100006400049000002300140070",
+      "solution": "912485736863927514475631928238714659794562381651893247187256493549378162326149875",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 41
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 22
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 28
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 8
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 1
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 36
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 35
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 41
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "100000700020087350700004001000040500004001060008059000840600075000000000900005638",
+      "solution": "183562794429187356756394821371246589594831267268759143842613975635978412917425638",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 42
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 11
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 3
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 36
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 44
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 19
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 35
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 33
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 27
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "400800070000059000000204000000073000700900305090010847010000504008047100504000003",
+      "solution": "453861279126759438879234651685473912741982365392615847917326584238547196564198723",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 44
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 33
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 14
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 23
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 44
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 13
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "870000203000803000090040080400000020000407010760130040040000030080009450020084000",
+      "solution": "874915263216873594593246187431598726952467318768132945649751832387629451125384679",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 36
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 32
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 11
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 36
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 5
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 1
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 29
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 31
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000006004080900005002185700009010000708004003000000091004208570000000060025000108",
+      "solution": "571326984386947215942185736269813457718594623453672891134268579897451362625739148",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 1
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 43
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 32
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 39
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 27
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 22
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 27
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 33
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "607000000000010740520000038060000084410586070000704010070030000230100007008000000",
+      "solution": "647853921893612745521479638765391284412586379389724516176938452234165897958247163",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 40
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 33
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 15
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 40
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 6
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 24
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 40
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000049000007006000506001000000000000400007002760300594003604009100080420000195003",
+      "solution": "218549367947836215536271948395462871481957632762318594873624159159783426624195783",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 22
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 36
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 30
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 41
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 28
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 30
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 29
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 18
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 18
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "840700300007600108096000000030008004000091000904007005070180500200306700600000000",
+      "solution": "842719356357624198196853472731568924528491637964237815479182563215346789683975241",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "sum": 39
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 45
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 21
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 9
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 24
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 21
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 1
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 8
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 33
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 41
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "790600003540070208000500600050000800000700000000089035900002780000005000000907541",
+      "solution": "791628453546173298328594617159236874834751962672489135915342786467815329283967541",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 43
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 36
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 10
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 12
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 40
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 39
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 25
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 15
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 34
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "030000062000290007001600000090004703048076500000028000300060400060400000014800030",
+      "solution": "439785162685291347721643895296514783148376529573928614352169478867432951914857236",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 31
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 10
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 44
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 29
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 31
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 19
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 40
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "sum": 23
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 39
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000000003204670008060005000087000030000016800015004900009003607120007005000000410",
+      "solution": "571948263234671598968235741487529136392716854615384972849153627126497385753862419",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 45
+            },
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 14
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 11
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 23
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 33
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 16
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 38
+            },
+            {
+              "side": "bottom",
+              "index": 4,
+              "sum": 31
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000700806070000000006008070000500900050006107039210008400001380301000700000803001",
+      "solution": "243759816178462593596138274614587932852396147739214658467921385381645729925873461",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 26
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 17
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 32
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 3
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 31
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 38
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 28
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "970000800003080600800001000092006070400700003007240596000003000000174000000502009",
+      "solution": "976425831143987652825631947592316478468759123317248596251893764639174285784562319",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 25
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 7
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 6
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 20
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 34
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 28
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 42
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 21
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 23
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 45
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000260000000001007450070000070085021000400090000900708019006002000000300864002109",
+      "solution": "791264835632851947458379216973685421185427693246913758319746582527198364864532179",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 25
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 6
+            },
+            {
+              "side": "right",
+              "index": 2,
+              "sum": 28
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 18
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 43
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 10
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 8
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 38
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 26
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 10
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "050480000000000000709305600000104089010000500900000100007059460008000005065043090",
+      "solution": "351486927682917354749325618576134289814692573923578146137859462498261735265743891",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "sum": 9
+            },
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 36
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 37
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 15
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 25
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 41
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 6
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 27
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "791000005580731000000050100009504000104600000027100000005900000008002051040000200",
+      "solution": "791846325582731694463259178839524716154697832627183549215978463378462951946315287",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 15
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 27
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 3
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 20
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 13
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 32
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 10
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 39
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000200900003000870900703002100000208084090007060800005007100000002000510000900704",
+      "solution": "478215936523649871916783452135467298284591367769832145897154623642378519351926784",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 20
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 30
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 15
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 36
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 44
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 8
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 21
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "035420970040000100000500000000800702002306019090070000000100000000600800304900620",
+      "solution": "135428976248769153967513284651894732872356419493271568786142395529637841314985627",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 33
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 25
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 36
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 9
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 41
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 23
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 32
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 15
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 21
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 33
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "500001000002073000701009000000032870800007000004008602000306700000080023003004100",
+      "solution": "549261387682573491731849256195632874826417539374958612918326745467185923253794168",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 1
+            },
+            {
+              "side": "left",
+              "index": 5,
+              "sum": 14
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 24
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 14
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 24
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 7
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 18
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 38
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "009040001710039000003000050070200500001607040500000200000000000902080106007060082",
+      "solution": "689542731715839624423176958378214569291657843564398217836721495952483176147965382",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 18
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 40
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 15
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 34
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 29
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 45
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 15
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 18
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 31
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "035000108000503000012000003000309706000840010060000900004982000580600000006000800",
+      "solution": "735294168648513279912768543451329786297846315863157924374982651589671432126435897",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 4,
+              "sum": 11
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 35
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 0,
+              "sum": 38
+            },
+            {
+              "side": "right",
+              "index": 6,
+              "sum": 1
+            },
+            {
+              "side": "top",
+              "index": 3,
+              "sum": 7
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 28
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 30
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 44
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 45
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000600620705040400032000007009000365000000100300000010003062036007000050900370",
+      "solution": "571498623623715849489632715847259136365871294192364587714583962936127458258946371",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 0,
+              "sum": 26
+            },
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 37
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 7
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 35
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 36
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 6
+            },
+            {
+              "side": "top",
+              "index": 8,
+              "sum": 17
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 44
+            },
+            {
+              "side": "bottom",
+              "index": 5,
+              "sum": 30
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 39
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "805001709230000601000020000000000850008200000310590200000016500001002060000340000",
+      "solution": "845631729239457681176829435792163854568274193314598276923716548451982367687345912",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 1,
+              "sum": 5
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 36
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 19
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 1
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 20
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 3
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 23
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 1
+            },
+            {
+              "side": "bottom",
+              "index": 2,
+              "sum": 31
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 45
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000900105000053000500800000000120000000040090401000307109400006607209500850000004",
+      "solution": "273964185918753642564812739396127458785346291421598367139475826647289513852631974",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 6,
+              "sum": 1
+            },
+            {
+              "side": "left",
+              "index": 8,
+              "sum": 41
+            },
+            {
+              "side": "right",
+              "index": 1,
+              "sum": 6
+            },
+            {
+              "side": "right",
+              "index": 7,
+              "sum": 9
+            },
+            {
+              "side": "right",
+              "index": 8,
+              "sum": 21
+            },
+            {
+              "side": "top",
+              "index": 0,
+              "sum": 11
+            },
+            {
+              "side": "top",
+              "index": 1,
+              "sum": 36
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 27
+            },
+            {
+              "side": "bottom",
+              "index": 3,
+              "sum": 21
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 33
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "300006000006000070080102060040200000068905010700000500800004000050010000920060158",
+      "solution": "392756481516498273487132965145273896268945317739681524871524639653819742924367158",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 20
+            },
+            {
+              "side": "left",
+              "index": 3,
+              "sum": 1
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 32
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 37
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 12
+            },
+            {
+              "side": "top",
+              "index": 4,
+              "sum": 28
+            },
+            {
+              "side": "top",
+              "index": 5,
+              "sum": 25
+            },
+            {
+              "side": "top",
+              "index": 7,
+              "sum": 40
+            },
+            {
+              "side": "bottom",
+              "index": 0,
+              "sum": 45
+            },
+            {
+              "side": "bottom",
+              "index": 1,
+              "sum": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "500000093064030751000000000130092480006001509020070000400003060000000170000700000",
+      "solution": "587124693264938751913567248135692487746381529829475316471853962398246175652719834",
+      "rules": {
+        "x_sums": {
+          "clues": [
+            {
+              "side": "left",
+              "index": 2,
+              "sum": 45
+            },
+            {
+              "side": "left",
+              "index": 7,
+              "sum": 20
+            },
+            {
+              "side": "right",
+              "index": 3,
+              "sum": 41
+            },
+            {
+              "side": "right",
+              "index": 4,
+              "sum": 45
+            },
+            {
+              "side": "right",
+              "index": 5,
+              "sum": 26
+            },
+            {
+              "side": "top",
+              "index": 2,
+              "sum": 35
+            },
+            {
+              "side": "top",
+              "index": 6,
+              "sum": 27
+            },
+            {
+              "side": "bottom",
+              "index": 6,
+              "sum": 39
+            },
+            {
+              "side": "bottom",
+              "index": 7,
+              "sum": 16
+            },
+            {
+              "side": "bottom",
+              "index": 8,
+              "sum": 17
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

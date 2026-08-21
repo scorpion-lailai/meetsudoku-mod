@@ -1,0 +1,6 @@
+{
+  "manifestVersion": 3,
+  "id": "john.community_script_v1_multiset_equality_reference",
+  "name": "Multiset Equality Constraint Operator Fixture",
+  "version": "0.1.0"
+}

@@ -1,0 +1,10 @@
+{
+  "variant.title": "荷兰耳语数独",
+  "variant.description": "耳语线上的每一对相邻数字之差至少为 4。",
+  "rule.dutch_whispers": "耳语线上的相邻数字之差至少为 4。",
+  "rule_guide.title": "荷兰耳语数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "耳语线由正交相邻的格子组成。",
+  "rule_guide.item_2": "线上的每一对相邻数字之差至少为 4。",
+  "rule_guide.item_3": "耳语线可以在正交相邻的格子处转弯。"
+}

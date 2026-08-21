@@ -1,0 +1,9 @@
+{
+  "variant.title": "Odd/Even Sudoku",
+  "variant.description": "Marked cells must match their odd or even parity mark.",
+  "rule.odd_even_parity": "The digit does not match this cell's odd/even mark.",
+  "rule_guide.title": "Odd/Even Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3×3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Odd-marked cells must contain odd digits, and even-marked cells must contain even digits."
+}

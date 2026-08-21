@@ -1,0 +1,9 @@
+{
+  "variant.title": "Little Killer Sudoku",
+  "variant.description": "Each outside diagonal clue gives the sum of the digits on its diagonal ray.",
+  "rule_guide.title": "Little Killer Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each outside number and inward diagonal arrow identifies one diagonal ray.",
+  "rule_guide.item_2": "Add every digit on that ray. The total must equal the outside number.",
+  "rule_guide.item_3": "A digit may belong to more than one ray, so it must satisfy every clue that crosses its cell."
+}

@@ -1,0 +1,9 @@
+{
+  "variant.title": "Self-Referential Frequency Operator Fixture",
+  "variant.description": "A technical reference for an exact self-referential digit-frequency group.",
+  "rule_guide.title": "Frequency Reference Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "In the marked group, every digit that appears must occur exactly that many times.",
+  "rule_guide.item_3": "The cell containing a digit is included when counting its occurrences."
+}

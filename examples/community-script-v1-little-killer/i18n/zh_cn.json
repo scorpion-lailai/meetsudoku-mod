@@ -1,0 +1,9 @@
+{
+  "variant.title": "小杀手数独",
+  "variant.description": "每个盘外对角线提示给出该射线上所有数字的总和。",
+  "rule_guide.title": "小杀手数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "每个盘外数字和向内的对角箭头共同确定一条对角射线。",
+  "rule_guide.item_2": "把射线上的每个数字相加，结果必须等于盘外数字。",
+  "rule_guide.item_3": "一个数字可能同时位于多条射线，因此必须同时满足所有经过它的提示。"
+}

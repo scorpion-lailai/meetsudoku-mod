@@ -1,0 +1,3805 @@
+{
+  "schemaVersion": 2,
+  "puzzles": [
+    {
+      "difficulty": 1,
+      "puzzle": "820037560400000007600000083300800000700610800000700640000000478074080006000000005",
+      "solution": "821937564493568127657124983362849751745612839189753642216395478574281396938476215",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 22
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 6
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 9
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 30
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 17
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "080012354060000000000000000450070130600300040238000570000009425000000003000820007",
+      "solution": "987612354365947281124583769459276138671358942238194576816739425792465813543821697",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 21
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 35
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 25
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 3
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "000000006007826305000004287004508130000000600000200800800030000500000748046000003",
+      "solution": "182753496497826315365914287274568139958341672631279854829437561513692748746185923",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 29
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 20
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 25
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 9
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 20
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "030018762260007005805602000000000000000020000023050470040005100086070500000000004",
+      "solution": "439518762261397845875642913794836251518724396623159478342965187186473529957281634",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 28
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 24
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 22
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 21
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "674580000200000000800000500000000040900060703400020006000040005347850002560300800",
+      "solution": "674581329295673418831492567756938241928164753413725986189247635347856192562319874",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 25
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 4
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 17
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 17
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 26
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "702003046038007250040000000000000004100034570000050080400080065500000000800045020",
+      "solution": "752913846938467251641528739385792614196834572274651983427389165513276498869145327",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 25
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 22
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 25
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "054237000000405020307900060400008090500600000000024050040000000080000001035840006",
+      "solution": "654237189891465327327981465463518792572693814918724653246179538789356241135842976",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 11
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 20
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 15
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 26
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 18
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 29
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "003246705706000000200000008000000007000000000000480050609003000302670080475800036",
+      "solution": "893246715746158923251739468124365897538927641967481352689513274312674589475892136",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 13
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 10
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 28
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 19
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 28
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 19
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 28
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "803029000000000250420500080070800020080040000000752000700000000040000007530067842",
+      "solution": "853429671697318254421576983175893426382641795964752138718234569246985317539167842",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 13
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 10
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 28
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 3
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 25
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 17
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 26
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 1,
+      "puzzle": "680032700200000603300070200900060508000000030800000027400000000006000004708045062",
+      "solution": "689132745217459683345678291973264518152897436864513927421786359536921874798345162",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 15
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 29
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 27
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 21
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 32
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 28
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "753200040600000782000000000000000270002070060000000000370020605080093007000057028",
+      "solution": "753289146694315782128746539516938274842571963937462851371824695285693417469157328",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 35
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 6
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 19
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000804752080703000000006400900008000800000006300001800200000074400087065050000030",
+      "solution": "639814752584723691172956483916238547827549316345671829268395174493187265751462938",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 9
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 16
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 21
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 16
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "040000860860000310710006000000000600600000400000300278006000024004600080527000006",
+      "solution": "249153867865247319713896542472981653638725491951364278386579124194632785527418936",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 3
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 18
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 26
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "380420561650000000020000037200000040004000052006000008802040005700000004000300006",
+      "solution": "387429561651873429429615837278156943914738652536294718862941375793562184145387296",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 24
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 6
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 11
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 29
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 26
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 16
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "400000086600004070700000000520040003000980000000000000340520008000000307807360245",
+      "solution": "495732186631894572782156439528641793173985624964273851346527918259418367817369245",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 17
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 18
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 35
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 30
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "000031708000842506500000000000000800000008300200057000300000004805060070764000085",
+      "solution": "642531798971842536538976421157394862496218357283657149329785614815469273764123985",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 19
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 15
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 26
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 24
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 22
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 20
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "800903040200007800700800000000536000080000006030040000000080200020400000640392780",
+      "solution": "861923547294157863753864912912536478487219356536748129179685234328471695645392781",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 4
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 2
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 22
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 17
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "003000000809050006500000000000000000000598020000263740400600150300020080700085360",
+      "solution": "273946815819352476564817239632174598147598623985263741428639157356721984791485362",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 18
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 12
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 28
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 32
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 11
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "600504027700082000820079004000000000000003001074000002300005006460200005250000000",
+      "solution": "691534827745182693823679154132456789986723541574891362318945276467218935259367418",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 35
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 35
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 20
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 25
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 17
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 33
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 2,
+      "puzzle": "270000000034607050060000000000000080300700009000100003043200005028400030650000824",
+      "solution": "275893461134627958869541372417932586386754219592186743743218695928465137651379824",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 13
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 9
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 2
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 27
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 22
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 25
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 16
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000600704000005208500400300800360900407000000000004080000903800300856000680000400",
+      "solution": "291638754743195268568472391852361947437589612916724583125943876374856129689217435",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 6
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 2
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 18
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 32
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 18
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "600000084000604000300000070500067000000000000004589003003700006000845007457200008",
+      "solution": "695372184871654329342918675538167492769423851124589763283791546916845237457236918",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 17
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 22
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 30
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 18
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "750020130000000024000000850008000002005700003000060548000000000070003200649075300",
+      "solution": "754928136186537924293641857368154792425789613917362548532816479871493265649275381",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 29
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 13
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 6
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 17
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "705000008300900000600087000200300000400000000000000700004010300076240800023860547",
+      "solution": "745132698382956471619487253257394186431678925968521734894715362576243819123869547",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 11
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 22
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 4
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 21
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 21
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 14
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 31
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 20
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "000060000000005700050870460030010020000400000040280350400020070200750801700000005",
+      "solution": "974362518681945732352871469837516924526493187149287356495128673263759841718634295",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 27
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 6
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 22
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 15
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 24
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 20
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "706002304040005600000003200000000000004900000005000408500000026400500873300000145",
+      "solution": "756192384243785619819463257187346592624958731935271468571834926462519873398627145",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 33
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 23
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 15
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 26
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 14
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 33
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "508401300000306400000800600040008700073600005000004003400000006300000004600003820",
+      "solution": "568421379921376458734859612249538761873612945156794283497285136382167594615943827",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 2
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 2
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 18
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 22
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 18
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 17
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 21
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 10
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "425369000007008050080000000000000302000035007000672000003200000006780025000000403",
+      "solution": "425369871937128654681457239578941362264835197319672548853294716146783925792516483",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 21
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 4
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 11
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 24
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "006000003000560802500000000600700024000000068200000035000000486102804300850000070",
+      "solution": "486127593317569842529348617638715924975432168241986735793251486162874359854693271",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 14
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 21
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 21
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 16
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 21
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 3,
+      "puzzle": "086032705000000000070005002065003007040000000021040000000500040058024000000076058",
+      "solution": "986432715512768934473195682865213497349657821721849563297581346658324179134976258",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 23
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 28
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 20
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 24
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 26
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "800000002970030005560700008350002046480000000010004030000000000720000180000007050",
+      "solution": "831465792972831465564729318357192846486573921219684537195248673723956184648317259",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 22
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 2
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 19
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 24
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 14
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "500006203000002008006003000000300080385000000002000000070000004400207810058090067",
+      "solution": "597816243143952678826743159914325786385671492762489531671538924439267815258194367",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 15
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 16
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "800000207200007100007000380000000000509000000480000000300000000768400035105083640",
+      "solution": "836194257254837169917256384673941528529678413481325796342569871768412935195783642",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 6
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 4
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 17
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 27
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 27
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 21
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000000000070400005059200007000000500064000730500000204300000850608007040240300070",
+      "solution": "136875429872493615459261387723684591964152738581739264317946852698527143245318976",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 35
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 9
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 10
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 19
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 28
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "600058400005060802000070605000000006000040051000000020700600008800200000000784260",
+      "solution": "692158437475369812138472695341527986287946351956831724723695148864213579519784263",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 2
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 14
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 22
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 15
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 35
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 20
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 15
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "800000604700000053050670000020000005000002080085003020060087000009030067000000502",
+      "solution": "812359674796824153354671298427968315931542786685713429563287941249135867178496532",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 10
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 20
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 17
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 4
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 19
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 14
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 4
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 16
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "300000200208100370000000000003000000500073100000000500002000000004720630685340720",
+      "solution": "397864251248159376156237894423518967569473182871692543732986415914725638685341729",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 32
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 31
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 6
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 18
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 24
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 27
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 17
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 31
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 18
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 35
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "508300000079800002036700489050000008000200045800000000000010000300004007700602000",
+      "solution": "548329761179846532236751489657493128913278645824165973482517396365984217791632854",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 13
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 11
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 10
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 16
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "340000520000209300000000060000800000020007005000000000400308000700602803280004756",
+      "solution": "349761528865249371172583964637825419924137685518496237456378192791652843283914756",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 13
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 25
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 12
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 32
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 4,
+      "puzzle": "000000043300450072724000000053040017470000006060000054100000000000607400000300000",
+      "solution": "695278143318459672724163598253946817479581326861732954146825739932617485587394261",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 22
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 14
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 13
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 12
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 35
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 22
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000015036000000058070600762000400480000000500000000805006300600000004300002586",
+      "solution": "947623815236158749158479623762591438489367152513284967825946371671835294394712586",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 30
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 24
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 17
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 18
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 14
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 21
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 27
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 20
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000006430040000587080004009260000000000000028073000046016030200000000003008000075",
+      "solution": "791856432642193587385274169264389751159467328873512946516738294927645813438921675",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 6
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 12
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 32
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 11
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 27
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 21
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 22
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000836086500002000004170070051308300000200800000000000607450000000000000100783",
+      "solution": "145792836786513942923864175674251398351489267892376514218637459537948621469125783",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 23
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 12
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 23
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 20
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 17
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000050000000006600700008000500070076000093004000205025000000140805630000003527",
+      "solution": "713684952489352716652791348291536874576248193834179265325967481147825639968413527",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 21
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 17
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 25
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 18
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 22
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 14
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 18
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000000624208730000000610030004200000000300500000000070400020300800000005530006487",
+      "solution": "317859624268734951945612738784265193129387546653941872471528369896473215532196487",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 20
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 4
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 22
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 32
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 3
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 9
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 18
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 19
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "064705020000203780200000000000004200600000000300020000400000132000000054000032678",
+      "solution": "864715329951243786237968415175894263692351847348627591486579132723186954519432678",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 18
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 20
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 14
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 14
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 31
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 22
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 21
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "000080502400000070870020060040000000300040000000005020007000000003678054900310680",
+      "solution": "139786542426593178875421369542137896368249715791865423687954231213678954954312687",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 3
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 18
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 14
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 21
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 10
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 24
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 14
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "200086743037000000600000050700000008500000006820000000364000007000000005000260934",
+      "solution": "215986743437512869689374152796431528541728396823695471364159287972843615158267934",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 5
+            },
+            {
+              "axis": "row",
+              "index": 1,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 14
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 13
+            },
+            {
+              "axis": "row",
+              "index": 5,
+              "sum": 16
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 30
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 6
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 25
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 12
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 20
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "085000000920000407400000000250008300000000208060000005300400000600203000548600032",
+      "solution": "785924613926315487413876529259768341137549268864132975372451896691283754548697132",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 12
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 31
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 19
+            },
+            {
+              "axis": "row",
+              "index": 6,
+              "sum": 8
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 0
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 7
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 13
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 23
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 33
+            },
+            {
+              "axis": "column",
+              "index": 5,
+              "sum": 2
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 15
+            },
+            {
+              "axis": "column",
+              "index": 7,
+              "sum": 27
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "difficulty": 5,
+      "puzzle": "430006250050204073080300000000000000000023080040070090060047020070000000000000837",
+      "solution": "431796258956284173782315649395468712617923584248571396863147925579832461124659837",
+      "rules": {
+        "sandwich": {
+          "clues": [
+            {
+              "axis": "row",
+              "index": 0,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 2,
+              "sum": 15
+            },
+            {
+              "axis": "row",
+              "index": 3,
+              "sum": 30
+            },
+            {
+              "axis": "row",
+              "index": 4,
+              "sum": 7
+            },
+            {
+              "axis": "row",
+              "index": 7,
+              "sum": 23
+            },
+            {
+              "axis": "row",
+              "index": 8,
+              "sum": 17
+            },
+            {
+              "axis": "column",
+              "index": 0,
+              "sum": 31
+            },
+            {
+              "axis": "column",
+              "index": 1,
+              "sum": 0
+            },
+            {
+              "axis": "column",
+              "index": 2,
+              "sum": 31
+            },
+            {
+              "axis": "column",
+              "index": 3,
+              "sum": 5
+            },
+            {
+              "axis": "column",
+              "index": 4,
+              "sum": 8
+            },
+            {
+              "axis": "column",
+              "index": 6,
+              "sum": 21
+            },
+            {
+              "axis": "column",
+              "index": 8,
+              "sum": 17
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "variant.title": "Beacon Sudoku",
+  "variant.description": "Each entry sends a short reveal pulse; correct entries reveal an additional nearby square.",
+  "rule_guide.title": "Beacon Sudoku Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box must contain no repeated digit.",
+  "rule_guide.item_2": "Some empty cells start hidden behind a mask.",
+  "rule_guide.item_3": "Every placed digit reveals a cross up to two cells away.",
+  "rule_guide.item_4": "A correct placed digit also reveals the surrounding 3x3 square. Revealed cells stay visible until restart."
+}

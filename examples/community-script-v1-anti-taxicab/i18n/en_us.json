@@ -1,0 +1,9 @@
+{
+  "variant.title": "Anti-Taxicab",
+  "variant.description": "A digit cannot repeat exactly its own Manhattan distance away.",
+  "rule_guide.title": "Anti-Taxicab Rules",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "Each row, column, and 3x3 box contains no repeated digit.",
+  "rule_guide.item_2": "If a cell contains X, another cell exactly X Manhattan-distance steps away cannot also contain X.",
+  "rule_guide.item_3": "Manhattan distance is the number of horizontal and vertical steps between two cells. For example, two cells three steps apart cannot both contain 3."
+}

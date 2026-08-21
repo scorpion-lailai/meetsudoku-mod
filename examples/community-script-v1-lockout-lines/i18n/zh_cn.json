@@ -1,0 +1,10 @@
+{
+  "variant.title": "封锁线数独",
+  "variant.description": "每条线两端菱形中的数字相差至少 4；线上的其他数字必须都在两个端点数字范围之外。",
+  "rule.lockout_lines": "每条线两端菱形中的数字相差至少 4；线上的其他数字必须都在两个端点数字范围之外。",
+  "rule_guide.title": "封锁线数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "每条线的两端各有一个菱形。",
+  "rule_guide.item_2": "两个菱形中的数字相差至少 4。",
+  "rule_guide.item_3": "线上的其他数字必须同时小于两个端点数字，或同时大于两个端点数字。"
+}

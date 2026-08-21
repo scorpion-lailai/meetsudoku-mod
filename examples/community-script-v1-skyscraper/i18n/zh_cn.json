@@ -1,0 +1,10 @@
+{
+  "variant.title": "摩天楼数独",
+  "variant.description": "棋盘外的提示数字表示从该侧看过去能看到多少栋楼。",
+  "rule.skyscraper": "棋盘外的提示数字表示从该侧看过去能看到多少栋楼。",
+  "rule_guide.title": "摩天楼数独",
+  "rule_guide.section_title": "规则",
+  "rule_guide.item_1": "数字 1 到 9 代表楼房高度；较高的楼会挡住后面所有较矮的楼。",
+  "rule_guide.item_2": "从提示所在的一侧开始观察，只有高于此前所有楼房的数字才算看得见。",
+  "rule_guide.item_3": "例如左侧固定提示为 4 时，从左向右观察 2 1 4 3 6 5 9 8 7：先看到 2，1 被 2 挡住；随后 4、6、9 依次成为新的最高楼，共看到 4 栋。"
+}

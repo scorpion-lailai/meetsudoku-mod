@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 6,
+  "levels": true,
+  "daily": {
+    "mode": "sequential",
+    "seed": "multiset_equality_fixture_daily_v1"
+  }
+}

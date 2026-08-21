@@ -1,0 +1,6 @@
+{
+  "manifestVersion": 3,
+  "id": "john.community_script_v1_non_consecutive",
+  "name": "Non-Consecutive Sudoku",
+  "version": "0.1.0"
+}

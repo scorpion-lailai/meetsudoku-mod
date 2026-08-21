@@ -1,0 +1,8 @@
+{
+  "variant.title": "固定和值运算符验证",
+  "variant.description": "用于验证两个到四个格子的固定和值规则的非可玩样例。",
+  "rule_guide.title": "固定和值验证规则",
+  "rule_guide.section_title": "规则说明",
+  "rule_guide.item_1": "标记格中的数字之和必须等于给出的目标值。",
+  "rule_guide.item_2": "此技术验证样例只验证两个到四个不同格子的固定目标和值。"
+}

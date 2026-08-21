@@ -1,0 +1,10 @@
+{
+  "variant.title": "Battenburg Sudoku",
+  "variant.description": "A marked 2x2 checkerboard must alternate odd and even digits, and every such intersection is marked.",
+  "rule.battenburg": "A marked 2x2 checkerboard contains alternating odd and even digits; an unmarked intersection cannot form that checkerboard.",
+  "rule_guide.title": "Battenburg Sudoku",
+  "rule_guide.section_title": "Rules",
+  "rule_guide.item_1": "The four cells around a marked intersection must contain two odd and two even digits in a checkerboard pattern.",
+  "rule_guide.item_2": "The marker does not choose which diagonal is odd. For example, both 1 2 / 4 3 and 2 1 / 3 4 follow the rule.",
+  "rule_guide.item_3": "Every possible checkerboard intersection is marked. An unmarked intersection may not contain one."
+}
