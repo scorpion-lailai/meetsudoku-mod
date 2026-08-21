@@ -4,8 +4,9 @@
 
 Community Variant Script API V1 lets authors create Sudoku variants with
 `main.lua`, puzzle data, and optional board marks. Start with the
-[author guide](community-script-v1-author-guide.md) for the public package and
-Lua/JSON contract.
+[author guide](community-script-v1-author-guide.md) or its
+[Chinese mirror](community-script-v1-author-guide.zh-CN.md) for the public
+package and Lua/JSON contract.
 
 ## MeetSudoku and Steam Workshop
 
@@ -28,6 +29,16 @@ MeetSudoku application.
 The fixed rule meaning and all rule derivation stay in `main.lua`; JSON is data,
 not a second rule language. Start from the closest package in `examples/` and
 keep the complete logic in that package's `main.lua`.
+
+## Five-minute path
+
+1. Choose the closest player-visible rule shape from the examples below.
+2. Copy the complete package shape and change its stable identity and player
+   translations.
+3. Keep the complete fixed rule logic in `main.lua`.
+4. Put only puzzle-varying geometry or values in `puzzle_bank.json`.
+5. Provide `en_us` and `zh_cn`, preview the package in the app, then publish it
+   to the Steam Workshop.
 
 ### Minimal package shape
 
@@ -94,15 +105,15 @@ The corresponding puzzle data contains only changing values or geometry:
 }
 ```
 
-### Before publishing
+### Before sharing
 
 - Use manifest schema 3 and the public Community Script API V1.
 - Keep all rule, candidate, completion, and Overlay logic in `main.lua`.
 - Provide complete `en_us` and `zh_cn` locales; additional locales must use the
   naming rules below.
 - Include an 81-character `puzzle` and `solution` for every puzzle.
-- Validate and qualify the package with the repository's dataset checks before
-  publishing it to the Steam Workshop.
+- Use the app's package validation and local plugin preview before publishing
+  it to the Steam Workshop.
 - Use a published example as the starting point when it matches the rule shape.
 
 <!-- GENERATED:capability-navigation:start -->
@@ -222,9 +233,7 @@ Runtime fallback is a resilience mechanism and does not make a locale complete.
 ## Public SDK material
 
 `operator-fixtures/` contains small, non-playable syntax examples for generic
-operators. Non-public technical packages and repository qualification evidence
-are intentionally kept outside this public mirror. Neither operator fixtures
-nor this repository is a starting point for a playable variant; use the public
+operators. They are not starting points for a playable variant; use the public
 examples and author guide instead.
 
 ## SDK layout
@@ -234,12 +243,13 @@ plugin-sdk/
   README.md
   README.zh-CN.md
   community-script-v1-author-guide.md
+  community-script-v1-author-guide.zh-CN.md
   manifest.schema.json
   types-community.lua
   examples/
   operator-fixtures/
 ```
 
-This repository is a public SDK mirror. The Sudoku application repository
-remains the source of truth for runtime implementation, qualification records,
-release metadata, and non-public technical packages.
+This directory is the public SDK source used by Mod authors. The SDK contains
+the public package contract, examples, and author documentation; it does not
+contain the MeetSudoku application's implementation.

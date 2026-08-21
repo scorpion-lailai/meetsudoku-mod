@@ -3,7 +3,8 @@
 [English](README.md)
 
 Community Variant Script API V1 让作者通过 `main.lua`、题目数据和可选棋盘标记创建
-变形数独。公开的包结构与 Lua/JSON 契约见[作者指南](community-script-v1-author-guide.md)。
+变形数独。公开的包结构与 Lua/JSON 契约见[中文作者指南](community-script-v1-author-guide.zh-CN.md)，
+也可以阅读[英文作者指南](community-script-v1-author-guide.md)。
 
 ## MeetSudoku 与 Steam 创意工坊
 
@@ -11,17 +12,25 @@ Community Variant Script API V1 让作者通过 `main.lua`、题目数据和可�
 
 ## 最小实现模型
 
-一个可玩的变形数独只需要三部分：完整的规则实现、规则对应的视觉 Overlay，以及题库。
+一个可玩的变形数独只需要三部分：完整的规则实现、规则对应的可视化覆盖层，以及题库。
 不需要修改 MeetSudoku 应用本身。
 
 - `main.lua` 是唯一的规则入口，负责规则解析、落子校验、候选数校验、完成状态校验和
-  Overlay 生成。
+  覆盖层生成。
 - `puzzle_bank.json` 提供 81 格题目、答案，以及每道题变化的几何或数值参数。
 - `variant.json` 声明关卡和每日数独入口；`manifest.json` 标识包；`i18n/` 提供玩家可见
   的多语言文案。
 
 固定的规则含义和所有规则推导都必须放在 `main.lua` 中；JSON 只是数据，不是第二套规则语言。
 建议从 `examples/` 中最接近的公开包开始，并将该变形数独的完整逻辑保留在自己的 `main.lua`。
+
+## 五分钟开始
+
+1. 从下面的公开示例中选择最接近玩家看到的规则形状。
+2. 复制完整包结构，修改稳定身份和玩家可见的多语言文案。
+3. 将固定的完整规则逻辑保留在 `main.lua` 中。
+4. 只在 `puzzle_bank.json` 中填写每道题变化的几何或数值。
+5. 提供 `en_us` 和 `zh_cn`，在应用的插件预览中验证后，再发布到 Steam 创意工坊。
 
 ### 最小包结构
 
@@ -39,7 +48,7 @@ my-variant/
 ### 关键代码形态
 
 下面是一个真实公开包的精简代码形态。正式实现还必须完成配置规范化与校验、所有必需的
-运行时 surface，并统一返回诊断信息。
+运行时接口，并统一返回诊断信息。
 
 ```lua
 local plugin = community_variant.script()
@@ -87,13 +96,13 @@ return plugin:build()
 }
 ```
 
-### 发布前检查
+### 分享前检查
 
 - 使用 manifest schema 3 和公开的 Community Script API V1。
-- 所有规则、候选数、完成状态和 Overlay 逻辑都在 `main.lua` 中。
+- 所有规则、候选数、完成状态和覆盖层逻辑都在 `main.lua` 中。
 - 提供完整的 `en_us` 和 `zh_cn`，其他语言遵循下面的命名规范。
 - 每道题都包含 81 位的 `puzzle` 和 `solution`。
-- 发布 Steam 创意工坊前，先运行仓库提供的题库校验和准入检查。
+- 发布 Steam 创意工坊前，先使用应用提供的包校验和插件预览。
 - 如果规则形状相近，优先从已有公开示例开始扩展。
 
 <!-- GENERATED:capability-navigation:start -->
@@ -200,14 +209,13 @@ return plugin:build()
 - `variant.description` 和全部 `rule_guide.*` 值都是该语言中的玩家文案。
 
 每个已声明的 locale 都必须与 `en_us` 保持完整且相同的 key 集，包括全部
-`rule_guide.*`。使用既有 `variant.*`、`rule.<handler>`、`rule_guide.*` key family，
-不要为不同语言另起 key 名。运行时 fallback 只是容错机制，不代表该语言已经翻译完整。
+`rule_guide.*`。使用既有 `variant.*`、`rule.<handler>`、`rule_guide.*` key 集合，
+不要为不同语言另起 key 名。运行时回退只是容错机制，不代表该语言已经翻译完整。
 
 ## 公开 SDK 内容
 
-`operator-fixtures/` 是不可玩的通用运算符语法小例子。`technical-packages/` 是尚未公开
-的进行中内容，因此不会同步到这个公开镜像。`operator-fixtures/` 也不是创建可玩变形
-数独的起点；请从公开示例和作者指南开始。
+`operator-fixtures/` 是不可玩的通用运算符语法小例子。它们不是创建可玩变形数独的
+起点；请从公开示例和作者指南开始。
 
 ## SDK 结构
 
@@ -216,11 +224,12 @@ plugin-sdk/
   README.md
   README.zh-CN.md
   community-script-v1-author-guide.md
+  community-script-v1-author-guide.zh-CN.md
   manifest.schema.json
   types-community.lua
   examples/
   operator-fixtures/
 ```
 
-这个仓库是公开 SDK 镜像。数独应用仓库仍是运行时实现、资格记录、发布元数据和非公开
-技术包的事实来源。
+这个目录是 Mod 作者使用的公开 SDK 来源，包含公开包契约、示例和作者文档；它不包含
+MeetSudoku 应用本身的实现。
